@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "955401618756",
+    "project_id": "mega-km-prod",
+    "storage_bucket": "mega-km-prod.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955401618756:android:b86c617b94c85fe8dc8311",
+        "android_client_info": {
+          "package_name": "com.megagames.xxlwoofia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgz4sJCtuR0OYzebQncbmThvfccMDu1YI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955401618756:android:5fd64810ac310af1dc8311",
+        "android_client_info": {
+          "package_name": "com.nightfun.xxlwoofia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgz4sJCtuR0OYzebQncbmThvfccMDu1YI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

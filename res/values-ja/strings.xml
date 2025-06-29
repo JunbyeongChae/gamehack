@@ -1,0 +1,1050 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="AUTH_REQUIRE_TITLE">認証が必要です</string>
+    <string name="CAMERA">カメラ</string>
+    <string name="CHOOSE_IMAGE">画像を選択</string>
+    <string name="DOWNLOAD_COMPLETED">ダウンロード完了</string>
+    <string name="DOWNLOAD_DESCRIPTION">ファイルを「ダウンロード」フォルダに保存します</string>
+    <string name="DOWNLOAD_STARTED">ダウンロードが開始されました。</string>
+    <string name="EXTERNAL_WRITE_PERMISSION_LACK">外部ストレージの書き込み許可はありません。</string>
+    <string name="INVALID_URL">無効なURL</string>
+    <string name="LOADING">読み込み中…</string>
+    <string name="MEDIA_CAPTURE_PERMISSION_REQUEST">" '%1$s'に%2$sへのアクセスを許可しますか？"</string>
+    <string name="MEDIA_CAPTURE_PERMISSION_REQUEST_TITLE">許可リクエスト</string>
+    <string name="MICROPHONE">マイクロフォン</string>
+    <string name="PASSWORD">パスワード</string>
+    <string name="SAVE_IMAGE">画像を保存</string>
+    <string name="USERNAME">ユーザー名</string>
+    <string name="abc_action_bar_home_description">ホームに戻る</string>
+    <string name="abc_action_bar_up_description">前に戻る</string>
+    <string name="abc_action_menu_overflow_description">その他のオプション</string>
+    <string name="abc_action_mode_done">完了</string>
+    <string name="abc_activity_chooser_view_see_all">すべて表示</string>
+    <string name="abc_activitychooserview_choose_application">アプリの選択</string>
+    <string name="abc_capital_off">OFF</string>
+    <string name="abc_capital_on">ON</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">Delete</string>
+    <string name="abc_menu_enter_shortcut_label">Enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">Space</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">検索…</string>
+    <string name="abc_searchview_description_clear">検索キーワードを削除</string>
+    <string name="abc_searchview_description_query">検索キーワード</string>
+    <string name="abc_searchview_description_search">検索</string>
+    <string name="abc_searchview_description_submit">検索キーワードを送信</string>
+    <string name="abc_searchview_description_voice">音声検索</string>
+    <string name="abc_shareactionprovider_share_with">共有</string>
+    <string name="abc_shareactionprovider_share_with_application">%sと共有</string>
+    <string name="abc_toolbar_collapse_description">折りたたむ</string>
+    <string name="alipay">Alipay</string>
+    <string name="binding_back_btn">ゲームに戻る</string>
+    <string name="binding_btn">バインド</string>
+    <string name="binding_confirm_hint">PlayHornyプラットフォーム会員アカウントは、ゲームごとにUID 1つとバインドすることができます。バインドを行うと変更できなくなりますので、慎重にお選びいただくようお願い致します。</string>
+    <string name="binding_confirm_text">"バインド後は修正できなくなります
+会員バインドを行いますか？"</string>
+    <string name="binding_fail_error">"バインド失敗
+該当PlayHorny会員にはすでにバインドしているゲームがあります。他のアカウントで再度バインドを行ってください。"</string>
+    <string name="binding_header_text">会員バインド</string>
+    <string name="binding_header_text_en">LOGIN</string>
+    <string name="binding_register_btn">登録バインド</string>
+    <string name="binding_register_success_text">"登録及びバインド成功しました！
+PlayHornyへようこそ"</string>
+    <string name="binding_retry_btn">リバインド</string>
+    <string name="binding_success_text">バインド成功しました！</string>
+    <string name="call_notification_answer_action">応答</string>
+    <string name="call_notification_answer_video_action">ビデオ</string>
+    <string name="call_notification_decline_action">拒否</string>
+    <string name="call_notification_hang_up_action">通話終了</string>
+    <string name="call_notification_incoming_text">着信</string>
+    <string name="call_notification_ongoing_text">通話中</string>
+    <string name="call_notification_screening_text">着信をスクリーニング中</string>
+    <string name="china_union_pay">UnionPay</string>
+    <string name="close_drawer">ナビゲーションメニューを閉じる</string>
+    <string name="close_sheet">シートを閉じる</string>
+    <string name="cloudflare_refresh_btn">認証に反応がない場合は、更新ボタンを押して再読み込みしてください。</string>
+    <string name="cloudflare_text">自動にチェックを入れてない場合は、手動でチェックを入れて認証を完成してください！</string>
+    <string name="collapsed">閉じています</string>
+    <string name="common_account_empty_error">* メールアドレスが入力されていません</string>
+    <string name="common_account_invaild_error">* 無効なメールアドレス</string>
+    <string name="common_back_btn">戻る</string>
+    <string name="common_back_previous_btn">前のページに戻る</string>
+    <string name="common_close_btn">収める</string>
+    <string name="common_count_down_back_text">前のページに戻ります：あと%s秒</string>
+    <string name="common_google_play_services_enable_button">有効にする</string>
+    <string name="common_google_play_services_enable_text">%1$sの実行には、Google Play開発者サービスの有効化が必要です。</string>
+    <string name="common_google_play_services_enable_title">Google Play開発者サービスの有効化</string>
+    <string name="common_google_play_services_install_button">インストール</string>
+    <string name="common_google_play_services_install_text">「%1$s」の実行には Google Play 開発者サービスが必要ですが、お使いのデバイスにはインストールされていません。</string>
+    <string name="common_google_play_services_install_title">Google Play開発者サービスの入手</string>
+    <string name="common_google_play_services_notification_channel_name">Google Play 開発者サービスの利用</string>
+    <string name="common_google_play_services_notification_ticker">Google Play開発者サービスのエラー</string>
+    <string name="common_google_play_services_unknown_issue">「%1$s」で Google Play 開発者サービスに問題が発生しています。もう一度お試しください。</string>
+    <string name="common_google_play_services_unsupported_text">「%1$s」の実行には Google Play 開発者サービスが必要ですが、お使いのデバイスではサポートされていません。</string>
+    <string name="common_google_play_services_update_button">更新</string>
+    <string name="common_google_play_services_update_text">%1$sの実行にはGoogle Play開発者サービスの更新が必要です。</string>
+    <string name="common_google_play_services_update_title">Google Play開発者サービスの更新</string>
+    <string name="common_google_play_services_updating_text">%1$sの実行にはGoogle Play開発者サービスが必要ですが、このサービスは現在更新中です。</string>
+    <string name="common_google_play_services_wear_update_text">Google Play開発者サービスの新しいバージョンが必要です。まもなく自動更新されます。</string>
+    <string name="common_login_text">ログイン</string>
+    <string name="common_no_btn">いいえ</string>
+    <string name="common_ok_btn">確認</string>
+    <string name="common_open_btn">展開</string>
+    <string name="common_open_on_phone">スマートフォンで開く</string>
+    <string name="common_password_empty_error">* パスワードが入力されていません</string>
+    <string name="common_password_rule_error">* パスワードは8〜20文字の英数字で設定する必要があります</string>
+    <string name="common_register_text">登録</string>
+    <string name="common_signin_button_text">ログイン</string>
+    <string name="common_signin_button_text_long">Googleにログイン</string>
+    <string name="common_verfiy_code_empty_error">* 認証コードを入力してください。</string>
+    <string name="common_wait_verfiy">* 認証をお待ちください。</string>
+    <string name="common_yes_btn">はい</string>
+    <string name="copy_toast_msg">リンクをクリップボードにコピーしました</string>
+    <string name="credit">クレジットカード</string>
+    <string name="default_error_message">入力値が無効です</string>
+    <string name="default_popup_window_title">ポップアップウィンドウ</string>
+    <string name="deposit_account_text">会員アカウント</string>
+    <string name="deposit_coupon_date_text">有効期限：</string>
+    <string name="deposit_coupon_empty_text">所持しているクーポンがありません</string>
+    <string name="deposit_coupon_name_text">還元クーポン</string>
+    <string name="deposit_coupon_rule_detail_text">"1. 本クーポンは当プラットフォーム「PlayHorny」にのみ適用されます。
+
+2. すべてのお得プランは、還元クーポンやパーティーカードのチャージによるリワードの中から1つのみ選択し使用できます。上記項目は組み合わせたり、もしくは同時に複数使用したりすることはできません。
+
+3. 還元クーポンは、会員がチャージされたHCoinポイントに基づいて百分率で計算され、無料HCoinに換算されてから会員に還元されます。
+
+一部特定の還元クーポンには有効期限があります。有効期限内に使用されない場合、クーポンは失効し、再利用できません。"</string>
+    <string name="deposit_coupon_rule_text">使用方法</string>
+    <string name="deposit_coupon_text">クーポン</string>
+    <string name="deposit_coupon_use_text">%s 還元クーポンを使い、無料HCoinを獲得します</string>
+    <string name="deposit_default">其他支付</string>
+    <string name="deposit_fail_text">"購入失敗しました。
+お支払方法を変えてみるか、PlayHornyお問い合わせまでご連絡ください。"</string>
+    <string name="deposit_free_text">（無料）</string>
+    <string name="deposit_invoice_agreement">今回の決済のレシート設定を保存し、次回のチャージ時に利用することに同意します。</string>
+    <string name="deposit_invoice_barcode_placeholder">バーコードを入力してください</string>
+    <string name="deposit_invoice_code_empty">* レシートバーコード未入力</string>
+    <string name="deposit_invoice_code_invaild">* レシートバーコード型式が間違っています</string>
+    <string name="deposit_invoice_donation">レシートを寄付</string>
+    <string name="deposit_invoice_email">メール</string>
+    <string name="deposit_invoice_email_placeholder">メールを入力してください</string>
+    <string name="deposit_invoice_email_type">メール</string>
+    <string name="deposit_invoice_ezpay">ezPay電子レシート</string>
+    <string name="deposit_invoice_lovdecode_8866_name">新北市流浪貓狗再生保護協會</string>
+    <string name="deposit_invoice_lovdecode_9118595_name">Garden of Hope Foundation</string>
+    <string name="deposit_invoice_mobile">レシートバーコード</string>
+    <string name="deposit_invoice_personal">個人レシート</string>
+    <string name="deposit_invoice_title">電子レシート</string>
+    <string name="deposit_level_buy_hint_text">パーティーカードを購入すると、ボーナスのチャージリワードを獲得できます！</string>
+    <string name="deposit_level_percentage_text">レベルリワード</string>
+    <string name="deposit_level_season_get_text">獲得可能リワード額（無料HCoin）</string>
+    <string name="deposit_level_season_quota_text">利用可能リワード額（有料HCoin）</string>
+    <string name="deposit_partycard_auto_subs">サブスク自動更新</string>
+    <string name="deposit_partycard_empty">未購入</string>
+    <string name="deposit_partycard_end_time">現在の有効期限</string>
+    <string name="deposit_pay_auto_subs_btn">サブスク自動更新</string>
+    <string name="deposit_pay_auto_subs_hint">"ご注意ください。このたびの購入はサブスク自動更新プランで、定期的に毎月の期限日後に決済、更新されます。
+更新をキャンセルしたい場合は、期限前にPlayHornyプラットフォームの会員センターでキャンセルしてください。
+"</string>
+    <string name="deposit_pay_auto_subs_text">"・パーティーカードを購入すると、ボーナスでチャージリワード（5％～会員レベルによって上昇します）を獲得し、追加のプラットフォームサービスをロック解除できます。
+・購入後は合計1,050HCoin、30HPowerと5％還元クーポンを五枚配布されます。ひと月以上購入した場合、またはサブスク自動更新サービスを購入した場合は、毎月ごとに報酬を配布します！
+・詳しいお得情報は、PlayHornyプラットフォームをご参照ください。"</string>
+    <string name="deposit_pay_btn">お支払いを行う</string>
+    <string name="deposit_pay_checked_hint">本人が18歳以上であり、この支払い方法に認可された利用者であることを意味し、《利用規約》と《HCoinサービス規約》に同意するとみなします。</string>
+    <string name="deposit_pay_checked_hint_2">私は、パーティーカードが発効されると返金サービスは提供されないことに同意します。</string>
+    <string name="deposit_pay_choice_my_coupon_btn">マイクーポン選択</string>
+    <string name="deposit_pay_hint">"・ゲーム内でHCoinを利用する場合は、優先的に無料HCoinを消費します。
+・HPowerはPlayHornyで使用できます。
+・ご質問がある場合は、PlayHornyで検索或いはカスタマーサービスまでご連絡ください。
+"</string>
+    <string name="deposit_pay_hint02">"・ゲーム内でHCoinを利用する場合は、優先的に無料HCoinを消費します。
+・HPowerはPlayHornyで使用できます。
+・パーティーカードを購入すると会員レベルリワード及びボーナスサービスを解除できます。詳細はプラットフォームをご参照ください。
+・レベルリワードはHCoinをチャージする時優先的に使用され、他のクーポンと同時に併用することはできません。
+・次のチャージでレベルアップした場合、システムは優先的に現在レベルアップに必要な金額を計算し、残り部分を次のレベルリワード計算に適用します。レベルリワードを使用する際は、他のクーポンと併用することはできません。
+・ご質問がある場合は、PlayHornyで検索或いはカスタマーサービスまでご連絡ください。"</string>
+    <string name="deposit_pay_hint_2">※お支払方法によって使用貨幣も異なるので、実際のお支払金額は、最後の決済ページに表示される金額を基準にしてください。</string>
+    <string name="deposit_pay_text">（有料）</string>
+    <string name="deposit_pay_way_text">支払方法</string>
+    <string name="deposit_payment_bill_error">決済に問題が発生しました。他の電子レシートを選んでお支払いを完成してください</string>
+    <string name="deposit_payment_detail_payment_bank_account_title">銀行帳號：</string>
+    <string name="deposit_payment_detail_payment_bank_code_title">銀行代碼：</string>
+    <string name="deposit_payment_detail_payment_bank_method_text">銀行轉帳</string>
+    <string name="deposit_payment_detail_payment_bottom_hint_1">您的警覺是防範詐騙交易最有效的防線，慎防詐騙以免被有心人士利用。</string>
+    <string name="deposit_payment_detail_payment_bottom_hint_2">本平台絕不會以任何理由要求會員操作ATM或超商代碼補繳金額、分期付款、重複扣款…等。 本平台不會透過任何非官方管道提供您付款結帳資訊，亦不會向您索取任何個人資料。 若您接獲可疑電話或訊息，建議您撥打165反詐騙諮詢專線，或透過平台客服進行查證。</string>
+    <string name="deposit_payment_detail_payment_bottom_hint_3">付款後30分鐘內，系統會發送您購買的項目至您的帳號內，可於平台確認儲值狀態及查詢HC獲取紀錄等。若有任何問題請於平台客服回報，我們將盡快為您處理！</string>
+    <string name="deposit_payment_detail_payment_copy_account_btn">複製帳號</string>
+    <string name="deposit_payment_detail_payment_info_amount_title">訂單金額：</string>
+    <string name="deposit_payment_detail_payment_info_code_title">繳費代碼：</string>
+    <string name="deposit_payment_detail_payment_info_expire_title">繳費有效期限：</string>
+    <string name="deposit_payment_detail_payment_info_method_title">付款方式：</string>
+    <string name="deposit_payment_detail_payment_info_real_pay_title">實際付款金額：</string>
+    <string name="deposit_payment_detail_payment_info_result_success_text">訂單成立</string>
+    <string name="deposit_payment_detail_payment_info_result_title">交易結果訊息：</string>
+    <string name="deposit_payment_detail_payment_info_title">付款資訊</string>
+    <string name="deposit_payment_detail_payment_instructions">操作說明</string>
+    <string name="deposit_payment_detail_payment_store_company_no_title">廠商金流交易序號：</string>
+    <string name="deposit_payment_detail_payment_store_item_title">購買項目：</string>
+    <string name="deposit_payment_detail_payment_store_name_title">商店名稱 : PlayHorny可以瑟瑟平台</string>
+    <string name="deposit_payment_detail_payment_store_service">儲值服務</string>
+    <string name="deposit_payment_detail_payment_store_title">商店資訊</string>
+    <string name="deposit_payment_detail_payment_store_trade_no_title">交易訂單編號：</string>
+    <string name="deposit_payment_detail_payment_time_text">訂單成立時間：</string>
+    <string name="deposit_payment_detail_screenshot_hint_1">"建議您截圖保存此頁付款資訊，以便您日後查詢繳費。
+"</string>
+    <string name="deposit_payment_detail_screenshot_hint_2">我們會將此付款詳細資訊寄送至您的會員帳號信箱內，您可以於信箱收件匣或垃圾郵件匣確認。逾期此繳費銀行帳號將失效，若逾期或不慎遺失付款資訊，請回到PlayHorny可以瑟瑟重新操作儲值流程。</string>
+    <string name="deposit_payment_detail_supermarket_head_text">以下是您的超商付款資訊，請於繳費期限內完成繳費！</string>
+    <string name="deposit_payment_detail_supermarket_teach_title">超商繳費教學：</string>
+    <string name="deposit_payment_detail_vaccount_head_text">以下是您的銀行轉帳資訊，請於繳費期限內完成繳費！</string>
+    <string name="deposit_payment_type_alipay">Alipay</string>
+    <string name="deposit_payment_type_apple">Apple Pay</string>
+    <string name="deposit_payment_type_china_pay">大陸金流</string>
+    <string name="deposit_payment_type_china_union">UnionPay</string>
+    <string name="deposit_payment_type_credit">クレジットカード</string>
+    <string name="deposit_payment_type_credit_international">国際クレジットカード</string>
+    <string name="deposit_payment_type_epoint">モバイル決済</string>
+    <string name="deposit_payment_type_google">Google Pay</string>
+    <string name="deposit_payment_type_line">LINE Pay</string>
+    <string name="deposit_payment_type_monthly">クレジットカード</string>
+    <string name="deposit_payment_type_monthly_credit">クレジットカード</string>
+    <string name="deposit_payment_type_monthly_twd">クレジットカード</string>
+    <string name="deposit_payment_type_paypal">Paypal</string>
+    <string name="deposit_payment_type_point_card">ポイントカード</string>
+    <string name="deposit_payment_type_samsung">Samsung Pay</string>
+    <string name="deposit_payment_type_supermarket_barcode">コンビニ決済</string>
+    <string name="deposit_payment_type_supermarket_barcode_famiport">FamilyMart</string>
+    <string name="deposit_payment_type_supermarket_barcode_ibon">7-ELEVEN</string>
+    <string name="deposit_payment_type_supermarket_barcode_lifeet">Hi-Life</string>
+    <string name="deposit_payment_type_supermarket_barcode_mobile_7_11">QRコード (7-11/FamilyMart)</string>
+    <string name="deposit_payment_type_supermarket_barcode_mobile_lifeet">QRコード (Hi-Life)</string>
+    <string name="deposit_payment_type_supermarket_barcode_okgo">OK Mart</string>
+    <string name="deposit_payment_type_telecom">キャリア決済</string>
+    <string name="deposit_payment_type_telecom_aptg">Asia Pacific Telecom</string>
+    <string name="deposit_payment_type_telecom_chunghwa">Chunghwa Telecom</string>
+    <string name="deposit_payment_type_telecom_chunghwa_hinet">Chunghwa Telecom Hinet</string>
+    <string name="deposit_payment_type_telecom_fetnet">Far EasTone</string>
+    <string name="deposit_payment_type_telecom_taiwan_mobile">Taiwan Mobile</string>
+    <string name="deposit_payment_type_telecom_tstar">Taiwan Star</string>
+    <string name="deposit_payment_type_vaccount">銀行振込</string>
+    <string name="deposit_payment_type_vaccount_ctbc">CTBC Bank</string>
+    <string name="deposit_payment_type_vaccount_esun">E.SUN Bank</string>
+    <string name="deposit_payment_type_vaccount_hncb">Hua Nan Commercial Bank</string>
+    <string name="deposit_payment_type_vaccount_post">Chunghwa Post</string>
+    <string name="deposit_payment_type_vaccount_scsb">Shanghai Commercial Bank</string>
+    <string name="deposit_payment_type_wechat">WeChat Pay</string>
+    <string name="deposit_remind_text_1">すでにサブスク済みのパーティーカードを所持しています。プランを変更したい場合は、PlayHornyプラットフォームのサブスク管理で変更し、有効期限終了後に再度ご購入ください。</string>
+    <string name="deposit_remind_text_2">すでに進行中のパーティーカードを所持しています。プランを変更したい場合は、有効期限終了後に再度ご購入ください。詳細についてはPlayHornyプラットフォームでご確認いただけます。</string>
+    <string name="deposit_result_title">HCoinチャージ</string>
+    <string name="deposit_sub_alreadly_pay_btn">購入済み</string>
+    <string name="deposit_sub_change_btn">変更</string>
+    <string name="deposit_sub_day_text">日</string>
+    <string name="deposit_sub_get_detail_text">5％還元クーポン x</string>
+    <string name="deposit_sub_get_text">購入すると下記を獲得できます</string>
+    <string name="deposit_sub_month_text">ヶ月</string>
+    <string name="deposit_sub_name_text">パーティーカード</string>
+    <string name="deposit_sub_type_text">購入プラン</string>
+    <string name="deposit_sub_unlock__detail_text_1">会員レベルとチャージリワード</string>
+    <string name="deposit_sub_unlock__detail_text_2">専用アイコンフレーム</string>
+    <string name="deposit_sub_unlock__detail_text_3">ストア限定アイテムロック解除</string>
+    <string name="deposit_sub_unlock_detail_text">一ヶ月以上やサブスクサービスを購入すると、毎月に報酬が配布されます！</string>
+    <string name="deposit_sub_unlock_text">会員レベルサービスをロック解除</string>
+    <string name="deposit_sub_week_text">週</string>
+    <string name="deposit_sub_year_text">年</string>
+    <string name="deposit_success_text">購入成功しました！</string>
+    <string name="deposit_top_bar_text">所持HCoin</string>
+    <string name="deposit_waiting_text">ステータス更新中……</string>
+    <string name="dialog">ダイアログ</string>
+    <string name="dropdown_menu">プルダウン メニュー</string>
+    <string name="epoint">モバイル決済</string>
+    <string name="error_account_already_binding_game_106">該当プラットフォームアカウントはすでに他のゲームアカウントとバインドしています</string>
+    <string name="error_account_not_found_101">ユーザーが存在しません</string>
+    <string name="error_accout_unbinding_game_104">該当プラットフォームアカウントはまだゲームアカウントとバインドしていません</string>
+    <string name="error_already_deactivate_1013">アカウントが削除されました。</string>
+    <string name="error_already_has_task_1002">SDKにはすでに進行中のミッションがあります。</string>
+    <string name="error_already_login_1011">すでにログインしています。アカウントを変更したい場合は、まずログアウトしてください。</string>
+    <string name="error_binding_cancel_1005">ユーザーがバインドをキャンセルしました。</string>
+    <string name="error_binding_not_guest_1006">ユーザーはゲストではありません。</string>
+    <string name="error_buy_error_1018">決済失敗</string>
+    <string name="error_close_beta_1016">ベータテスト期間中には登録を受け付けていません。</string>
+    <string name="error_close_beta_320">このアカウントはベータテストの資格を取得していません。</string>
+    <string name="error_default">未知のエラー</string>
+    <string name="error_deposit_cancel_1010">ユーザーがチャージをキャンセルしました。</string>
+    <string name="error_deposit_is_guest_1009">会員バインドをしてから、チャージを行ってください。</string>
+    <string name="error_deposit_not_login_1008">会員ログインしてから、チャージを行ってください。</string>
+    <string name="error_duplicate_order_109">購入番号が重複しています</string>
+    <string name="error_game_account_already_binding_105">該当ゲームアカウントはすでに他のプラットフォームアカウントとバインドしています</string>
+    <string name="error_game_account_exist_303">ゲームアカウントがすでに存在しています</string>
+    <string name="error_game_account_incorrect_301">ログイン情報エラー</string>
+    <string name="error_game_account_not_found_302">ゲームアカウントが存在しません</string>
+    <string name="error_game_account_verfiy_fail_300">アカウントとパスワードの認証エラー</string>
+    <string name="error_guest_open_takeover_1012">ゲストアカウントは連携ログインを使用できません。アカウントを変更する場合は、まずログアウトしてください。</string>
+    <string name="error_iap_billing_unavailable_2005">ビリング使用不可</string>
+    <string name="error_iap_developer_error_2007">取引き失敗</string>
+    <string name="error_iap_error_2008">取引き失敗</string>
+    <string name="error_iap_item_already_owned_2009">すでに該当アイテムを所持しています</string>
+    <string name="error_iap_item_not_owned_2010">該当アイテムを所持していません</string>
+    <string name="error_iap_item_unavailable_2006">アイテム使用不可</string>
+    <string name="error_iap_network_error_2011">ネットワークエラー</string>
+    <string name="error_iap_service_disconnected_2003">接続が切断されました</string>
+    <string name="error_iap_service_unavailable_2004">サーバー使用不可</string>
+    <string name="error_iap_time_out_2002">タイムアウト</string>
+    <string name="error_iap_user_cancel_2001">ユーザーキャンセル</string>
+    <string name="error_missing_parameter_107">パラメータにはゲームアカウントを含む必要があります</string>
+    <string name="error_more_login_1021">パスワードの入力ミス回数が多いため、アカウントがロックされました。10分後に再度お試しください。</string>
+    <string name="error_no_data_10000">データなし</string>
+    <string name="error_no_host_use_1015">遊戲版本已有新的版本，請到永久頁更新版本繼續遊戲</string>
+    <string name="error_not_enough_coins_110">残額が不足しています</string>
+    <string name="error_not_login_1007">ユーザーはまだログインしていません。</string>
+    <string name="error_not_setup_1001">先にSDKをSetupしてください</string>
+    <string name="error_oauth_login_apple_3004">Appleログイン失敗</string>
+    <string name="error_oauth_login_fb_3002">Facebookログイン失敗</string>
+    <string name="error_oauth_login_google_3001">Googleログイン失敗</string>
+    <string name="error_oauth_login_qoo_3003">QOOログイン失敗</string>
+    <string name="error_parameter_invaild_102">請求するパラメータにエラーがあります</string>
+    <string name="error_product_not_found_1017">該当購入内容がありません</string>
+    <string name="error_refresh_token_fail_1003">Token更新失敗、ユーザーがログアウトされました。</string>
+    <string name="error_request_321">短時間内のリクエスト量が上限を超えています。</string>
+    <string name="error_setup_data_incomplete_1004">提供された設定データが不完全です。</string>
+    <string name="error_sign_invaild_103">サイン認証エラー</string>
+    <string name="error_system_1020">システムメンテナンス中……</string>
+    <string name="error_takeover_back_1014">ユーザーがユーザーセンターを閉じました。</string>
+    <string name="error_token_311">トークンの期限が切れています</string>
+    <string name="error_token_312">使用中のトークンではありません</string>
+    <string name="error_token_313">トークンが見つかりません</string>
+    <string name="error_token_314">トークン認証エラー</string>
+    <string name="error_token_315">アカウントに異常があります。お問い合わせまでご連絡ください。</string>
+    <string name="error_token_316">リフレッシュトークンが存在しないかすでに期限が切れています</string>
+    <string name="error_try_relogin_1019">再度ログインしてみてください</string>
+    <string name="error_unknown_9999">未知のエラーが発生しました。</string>
+    <string name="expanded">開いています</string>
+    <string name="fallback_menu_item_copy_link">リンクをコピー</string>
+    <string name="fallback_menu_item_open_in_browser">ブラウザで開く</string>
+    <string name="fallback_menu_item_share_link">リンクの共有</string>
+    <string name="forgot_password_account_placeholder">電子メールアドレスを入力してください</string>
+    <string name="forgot_password_header">RESET</string>
+    <string name="forgot_password_header_text">パスワードを忘れました</string>
+    <string name="forgot_password_send_btn">パスワードリセット</string>
+    <string name="forgot_password_send_success_btn">ログインに戻る</string>
+    <string name="forgot_password_send_success_hint">パスワードリセットメールが届いてない、或いは他に登録関連の問題がございましたら、PlayHornyのカスタマーサービスまでご連絡ください。</string>
+    <string name="forgot_password_send_success_text">"パスワードリセットメールを送りました
+ご自分のメールボックスでメールをご確認し、認証リンクをクリックしてリセットを完了してください！"</string>
+    <string name="forgot_password_send_verfiy_btn">認証コード送信</string>
+    <string name="forgot_password_success_text">パスワードリセットが完了しました！</string>
+    <string name="forgot_password_verfiy_code_placeholder">電子メールの認証コードを記入してください</string>
+    <string name="hcoin_terms_01">親愛なるお客様、こんにちは、「PlayHorny」へようこそ！HCoinサービスをご利用いただく前に、以下の規約を詳しくお読みいただくようお願い申し上げます。</string>
+    <string name="hcoin_terms_02">"PlayHorny（以下「PlayHorny」、「当社」または「プラットフォーム」という。）は、HCoinサービスを提供し、お客様（以下「お客様」、「ユーザー」、「利用者」または「会員」という。）がプラットフォーム内で法定通貨でチャージし、特定のHCoin（以下「HCoin」といいます）数を獲得できるようにすることを目的としています。
+HCoinは、プラットフォーム内または参加されるゲーム内で仮想通貨（以下「仮想通貨」という。）、仮想商品（以下「仮想商品」という。）またはその他のサービスを購入するときに使用できます。お客様がHCoinサービスを利用すると、これらの規約に同意し、規制されることに同意したものとみなします。"</string>
+    <string name="hcoin_terms_03">本サービス利用規約以外に、当社と関連する利用規約およびプライバシーポリシーも本サービス利用規約の一部を構成しています。お客様がHCoinの利用を開始する前に本規約に同意し、これを守るものとみなします。</string>
+    <string name="hcoin_terms_04">"1. 期間
+
+ゲームプラットフォームが提供する関連サービスおよびサービス期間。"</string>
+    <string name="hcoin_terms_05">"2. 地区
+
+ゲームプラットフォームのサービス地域。"</string>
+    <string name="hcoin_terms_06">"3. 対象
+
+ゲームプラットフォームを訪れ、利用、またはアクセスするユーザー。"</string>
+    <string name="hcoin_terms_07">"4. 決済
+
+PlayHornyサービス（以下「サービス」という。）では、無料ゲームを提供するほか、お客様が法定通貨を使用し取引を行ったり、「サービス」が提供するHCoinやその他の有料商品を購入したりすることができます。
+お客様が購入するには、18歳以上であるか、または居住地域/国内の成人年齢に達していることを確認する必要があります。
+お客様が購入意向を確認する際、お客様が指定した支払い方法と提供した支払い情報は関連料金を処理するために第三者決済システムに提供され、同時にご本人のメールにて支払明細書を受け取ることになります。
+お客様は、ご本人が発生させたかどうかにかかわらず、アカウントに発生したすべての料金を支払わなければならないことを理解し同意します。
+お客様がアカウントのキャンセルまたは終了後でも、当社はキャンセルまたは終了前に発生した料金をご本人に請求する権利を有します。"</string>
+    <string name="hcoin_terms_08">"5. Hcoinについて
+
+HCoinは入手方法によって2つのタイプに分類されます：
+
+1.有料HCoin：取引により購入された「有料HCoin」（以下「有料HCoin」という。）。このタイプのHCoinは法定通貨で購入され、特定のゲーム内で仮想通貨、仮想商品、またはその他のサービスの支払いに使用できます。
+このHCoinはユーザーアカウント内のデジタル資産として存在します。
+2.無料HCoin：無料HCoin (以下「無料HCoin」という。) は、プラットフォーム「サービス」を通じて入手されるもので、その価値は「有料HCoin」と同等です。ユーザーは特定のイベントや条件下で「無料HCoin」を取得し、ゲーム内で仮想通貨、仮想商品、またはその他のサービスの支払いに使用できます。この無料HCoinはユーザーアカウント内の有効期限付きデジタル資産として存在し、お客様は返金、譲渡、または交換を要求することができません。
+
+プラットフォーム内で「サービス」を利用または「有料HCoin」を購入すると、特定数量のHPower（以下「HPower」という。）が得られます。こちらは贈り物の性質を持っており、ユーザーは返金を要求することができません。
+HPowerはプラットフォーム内にのみ使用でき、プラットフォームが提供するさまざまなサービスや商品の購入に利用できますが、プラットフォームの範囲内のみ使用できます。
+ユーザーアカウントが「有料HCoin」と「無料HCoin」両方を所有している場合、差し引かれる際は「無料HCoin」が優先的に使用され、それが不足している場合のみ「有料HCoin」が差し引かれます。
+
+当社はHCoinの所有権、保有権、発行権、および関連するすべての権利を有します。一方、ゲーム内で使用される仮想通貨や仮想商品の発行は、特定ゲームの所有者または運営者の責任となります。
+当社は、運営するプラットフォームで販売されるHCoinにのみ責任を負います。非公式で入手したHCoinは当社とは無関係であり、プラットフォームで使用することができません。お客様ご自身の権益を保護するために、当社が運営するプラットフォーム以外の手段で仮想通貨および仮想商品の取得をお控えください。"</string>
+    <string name="hcoin_terms_09">"6. HCoinの有効期限 
+
+法定通貨で購入されたHCoinには有効期限がなく、年間利用可能です。同様に、付随されるHPowerにも同じく有効期限がありません。
+ただし、プラットフォームの「サービス」を通じて獲得した無料HCoinには有効期限があります。取得日から180日間が有効期間であり、期限切れの無料HCoinは自動的に無効となり、返金、賠償、償還、または再使用は一切行えません。
+お客様は、無料HCoinの期限切れにより生じる損失について、個人で責任を負うものとし、その旨を理解し同意します。"</string>
+    <string name="hcoin_terms_10">"7. HCoinの使用期限
+
+お客様は、プラットフォーム上で所持するHCoinを個人的用途にのみ使用できることに同意します。
+HCoin、HPower、仮想通貨、仮想商品、もしくはプラットフォーム内で購入した商品を譲渡、共有、賃貸、交換、取引、贈与、販売、認可など、いかなる方法で他者に法定通貨の金額あるいは同等価値の物に変換することは禁じられています。
+ユーザーアカウントが一時停止または終了された場合、お客様のアカウント内のHCoin、HPower、仮想通貨、仮想商品、およびプラットフォーム「サービス」で購入した商品は利用できなくなり、自動的に無効になります。"</string>
+    <string name="hcoin_terms_11">"8. 返金について
+
+お客様が法定通貨で購入したHCoinおよび「サービス」商品、HPowerまたはゲーム内の仮想通貨、仮想商品などがアカウントに配布されると、返金及び払い戻しができなくなります。
+当プラットフォームは消費者保護法第19条第1項の7日クーリングオフ解除権規定に適用されません。商品がお客様のアカウントに配布されれば、返金及び払い戻しができなくなります。ご購入の際は、ご希望の商品、数量、内容、金額をよくご確認ください。一度購入されると即時発効されますので、必須の返金要望がない場合、返金サービスは一切提供しません。
+
+1.ユーザーは、プラットフォームとの契約を解除し、アカウントの使用権を削除する意向がある場合、返金申請を行うことができますが、一度申請した後は、いかなる理由に関わらずアカウントの復元を要求することができません。
+
+2.プラットフォームの「サービス」では、法定通貨で購入できるその他お得キャンペーン（以下「お得キャンペーン」という。）も提供しています。ユーザーが購入済みの未使用お得キャンペーン項目の返品を希望する場合、当プラットフォームは購入時の金額と商品の性質によって返金条件を確認し、返金条件を満たす場合には返金金額またはHCoinを返還します。
+
+返金が以下の費用を差し引いた後、当プラットフォームは30営業日以内にユーザーが法定通貨で購入し未使用の「有料HCoin」を返金する必要があります。
+(1) 必要な費用：マルチチャネル取引の手数料、ウェブサイト運営費、人件費などが含まれます。
+(2) 振込手数料：ユーザーの受取銀行が請求した振込手数料。
+(3) その他の費用：ユーザーの返金手続きにより発生した個人的な費用。
+計算方法は以下の通りです：ユーザーの未使用「有料HCoin」から上記の費用を差し引きます。
+
+3.プラットフォームが提供するゲームが運営停止の状況に直面し、それによりユーザーのゲーム内アカウントが利用停止となった場合。運営側がプラットフォームに関連する返金手続きを委託する場合、プラットフォームはユーザーがゲーム内で未使用の仮想通貨の数量を確認し、ユーザーの返金手続きの支援に対処すべきです。
+ですが、返金対象は「有料HCoin」で購入した仮想通貨のみとなります。本手続きでは、ゲーム内における仮想通貨の数量を鑑み、「有料HCoin」の交換比率に基づき、相応する額の「有料HCoin」を返金します。
+
+ただし、下記のいずれかの要因が含まれる場合は返金できません：
+• ユーザーが当社の『HCoin サービス利用規約』、『利用規約』または『プライバシーポリシー』に違反した場合。
+• 詐欺、改ざん、変更または他の違法手段によりHCoinを取得した場合。
+• 当社が法的疑念、不可抗力の要因、またはその他の合理的な理由を確かに受け取り、ユーザーのアカウントの利用権を一時停止する必要がある場合。"</string>
+    <string name="hcoin_terms_12">"9. サービスの変更および終了について
+
+プラットフォームは、HCoinサービスをいつでも通知なしに変更する権利を有します。 ユーザーが引き続き「サービス」を閲覧または使用することは、変更後の利用規約を同意したものと見なします。 当社はHCoinおよびHCoinサービスをいつでも変更または終了する権利を有します。"</string>
+    <string name="hcoin_terms_13">"10. 免責声明
+
+お客様がHcoinを使用できないことにより生じた損害や不利益について、法律で別途規定がある場合や当社が故意または重大な過失がある場合を除き、一切の責任を負わないものとします。
+当社が違反行為の調査期間またはすでにサービス規約違反行為があると判断し、情報やコンテンツの削除や処理を拒否、またはお客様に警告、サービスへのアクセスを一時停止や終了、またはその他の措置を実施した場合、お客様は前述に基づいて当社及び当社の役員、経営陣、従業員、関連会社、代理人、契約業者、またはライセンス提供者に対して訴訟を提起し、もしくは損害賠償を要求しないことに同意します。この放棄および賠償規定は、当サービス規約に記述されたあらゆる違反行為に適用されます。"</string>
+    <string name="hcoin_terms_14">"11. その他の利用規約
+
+本規約は、プラットフォームにおける他の関連規約やポリシー、《使用規約》および《プライバシーポリシー》などに拘束されます。HCoin サービスを使用する際、お客様は該当するすべての規約およびポリシーを遵守することに同意します。本規約のいずれかの規約の一部が無効または執行不能と判断された場合でも、その無効または執行不能な部分は、他の部分の有効性および執行可能性に影響を与えません。"</string>
+    <string name="hcoin_terms_content">"親愛なるお客様、こんにちは、「PlayHorny」へようこそ！HCoinサービスをご利用いただく前に、以下の規約を詳しくお読みいただくようお願い申し上げます。
+
+
+PlayHorny（以下「PlayHorny」、「当社」または「プラットフォーム」という。）は、HCoinサービスを提供し、お客様（以下「お客様」、「ユーザー」、「利用者」または「会員」という。）がプラットフォーム内で法定通貨でチャージし、特定のHCoin（以下「HCoin」といいます）数を獲得できるようにすることを目的としています。
+HCoinは、プラットフォーム内または参加されるゲーム内で仮想通貨（以下「仮想通貨」という。）、仮想商品（以下「仮想商品」という。）またはその他のサービスを購入するときに使用できます。お客様がHCoinサービスを利用すると、これらの規約に同意し、規制されることに同意したものとみなします。
+
+本サービス利用規約以外に、当社と関連する利用規約およびプライバシーポリシーも本サービス利用規約の一部を構成しています。お客様がHCoinの利用を開始する前に本規約に同意し、これを守るものとみなします。
+
+1. 期間
+
+ゲームプラットフォームが提供する関連サービスおよびサービス期間。
+
+2. 地区
+
+ゲームプラットフォームのサービス地域。
+
+3. 対象
+
+ゲームプラットフォームを訪れ、利用、またはアクセスするユーザー。
+
+4. 決済
+
+ PlayHornyサービス（以下「サービス」という。）では、無料ゲームを提供するほか、お客様が法定通貨を使用し取引を行ったり、「サービス」が提供するHCoinやその他の有料商品を購入したりすることができます。
+ お客様が購入するには、18歳以上であるか、または居住地域/国内の成人年齢に達していることを確認する必要があります。
+ お客様が購入意向を確認する際、お客様が指定した支払い方法と提供した支払い情報は関連料金を処理するために第三者決済システムに提供され、同時にご本人のメールにて支払明細書を受け取ることになります。
+ お客様は、ご本人が発生させたかどうかにかかわらず、アカウントに発生したすべての料金を支払わなければならないことを理解し同意します。
+ お客様がアカウントのキャンセルまたは終了後でも、当社はキャンセルまたは終了前に発生した料金をご本人に請求する権利を有します。
+
+5. Hcoinについて
+
+HCoinは入手方法によって2つのタイプに分類されます：
+
+1.有料HCoin：取引により購入された「有料HCoin」（以下「有料HCoin」という。）。このタイプのHCoinは法定通貨で購入され、特定のゲーム内で仮想通貨、仮想商品、またはその他のサービスの支払いに使用できます。
+このHCoinはユーザーアカウント内のデジタル資産として存在します。
+2.無料HCoin：無料HCoin (以下「無料HCoin」という。) は、プラットフォーム「サービス」を通じて入手されるもので、その価値は「有料HCoin」と同等です。ユーザーは特定のイベントや条件下で「無料HCoin」を取得し、ゲーム内で仮想通貨、仮想商品、またはその他のサービスの支払いに使用できます。この無料HCoinはユーザーアカウント内の有効期限付きデジタル資産として存在し、お客様は返金、譲渡、または交換を要求することができません。
+
+プラットフォーム内で「サービス」を利用または「有料HCoin」を購入すると、特定数量のHPower（以下「HPower」という。）が得られます。こちらは贈り物の性質を持っており、ユーザーは返金を要求することができません。
+HPowerはプラットフォーム内にのみ使用でき、プラットフォームが提供するさまざまなサービスや商品の購入に利用できますが、プラットフォームの範囲内のみ使用できます。
+
+ユーザーアカウントが「有料HCoin」と「無料HCoin」両方を所有している場合、差し引かれる際は「無料HCoin」が優先的に使用され、それが不足している場合のみ「有料HCoin」が差し引かれます。
+当社はHCoinの所有権、保有権、発行権、および関連するすべての権利を有します。一方、ゲーム内で使用される仮想通貨や仮想商品の発行は、特定ゲームの所有者または運営者の責任となります。
+当社は、運営するプラットフォームで販売されるHCoinにのみ責任を負います。非公式で入手したHCoinは当社とは無関係であり、プラットフォームで使用することができません。お客様ご自身の権益を保護するために、当社が運営するプラットフォーム以外の手段で仮想通貨および仮想商品の取得をお控えください。
+
+6. HCoinの有効期限 
+
+法定通貨で購入されたHCoinには有効期限がなく、年間利用可能です。同様に、付随されるHPowerにも同じく有効期限がありません。
+ただし、プラットフォームの「サービス」を通じて獲得した無料HCoinには有効期限があります。取得日から180日間が有効期間であり、期限切れの無料HCoinは自動的に無効となり、返金、賠償、償還、または再使用は一切行えません。
+お客様は、無料HCoinの期限切れにより生じる損失について、個人で責任を負うものとし、その旨を理解し同意します。
+
+7. HCoinの使用期限
+
+お客様は、プラットフォーム上で所持するHCoinを個人的用途にのみ使用できることに同意します。
+HCoin、HPower、仮想通貨、仮想商品、もしくはプラットフォーム内で購入した商品を譲渡、共有、賃貸、交換、取引、贈与、販売、認可など、いかなる方法で他者に法定通貨の金額あるいは同等価値の物に変換することは禁じられています。
+ユーザーアカウントが一時停止または終了された場合、お客様のアカウント内のHCoin、HPower、仮想通貨、仮想商品、およびプラットフォーム「サービス」で購入した商品は利用できなくなり、自動的に無効になります。
+
+8. 返金について
+
+お客様が法定通貨で購入したHCoinおよび「サービス」商品、HPowerまたはゲーム内の仮想通貨、仮想商品などがアカウントに配布されると、返金及び払い戻しができなくなります。
+当プラットフォームは消費者保護法第19条第1項の7日クーリングオフ解除権規定に適用されません。商品がお客様のアカウントに配布されれば、返金及び払い戻しができなくなります。ご購入の際は、ご希望の商品、数量、内容、金額をよくご確認ください。一度購入されると即時発効されますので、必須の返金要望がない場合、返金サービスは一切提供しません。
+
+1.ユーザーは、プラットフォームとの契約を解除し、アカウントの使用権を削除する意向がある場合、返金申請を行うことができますが、一度申請した後は、いかなる理由に関わらずアカウントの復元を要求することができません。
+
+2.プラットフォームの「サービス」では、法定通貨で購入できるその他お得キャンペーン（以下「お得キャンペーン」という。）も提供しています。ユーザーが購入済みの未使用お得キャンペーン項目の返品を希望する場合、当プラットフォームは購入時の金額と商品の性質によって返金条件を確認し、返金条件を満たす場合には返金金額またはHCoinを返還します。
+返金が以下の費用を差し引いた後、当プラットフォームは30営業日以内にユーザーが法定通貨で購入し未使用の「有料HCoin」を返金する必要があります。
+(1) 必要な費用：マルチチャネル取引の手数料、ウェブサイト運営費、人件費などが含まれます。
+(2) 振込手数料：ユーザーの受取銀行が請求した振込手数料。
+(3) その他の費用：ユーザーの返金手続きにより発生した個人的な費用。
+計算方法は以下の通りです：ユーザーの未使用「有料HCoin」から上記の費用を差し引きます。
+
+3.プラットフォームが提供するゲームが運営停止の状況に直面し、それによりユーザーのゲーム内アカウントが利用停止となった場合。運営側がプラットフォームに関連する返金手続きを委託する場合、プラットフォームはユーザーがゲーム内で未使用の仮想通貨の数量を確認し、ユーザーの返金手続きの支援に対処すべきです。
+ですが、返金対象は「有料HCoin」で購入した仮想通貨のみとなります。本手続きでは、ゲーム内における仮想通貨の数量を鑑み、「有料HCoin」の交換比率に基づき、相応する額の「有料HCoin」を返金します。
+
+ただし、下記のいずれかの要因が含まれる場合は返金できません：
+• ユーザーが当社の『HCoin サービス利用規約』、『利用規約』または『プライバシーポリシー』に違反した場合。
+• 詐欺、改ざん、変更または他の違法手段によりHCoinを取得した場合。
+• 当社が法的疑念、不可抗力の要因、またはその他の合理的な理由を確かに受け取り、ユーザーのアカウントの利用権を一時停止する必要がある場合。
+
+9. サービスの変更および終了について
+
+プラットフォームは、HCoinサービスをいつでも通知なしに変更する権利を有します。 ユーザーが引き続き「サービス」を閲覧または使用することは、変更後の利用規約を同意したものと見なします。 当社はHCoinおよびHCoinサービスをいつでも変更または終了する権利を有します。
+
+10. 免責声明
+
+お客様がHcoinを使用できないことにより生じた損害や不利益について、法律で別途規定がある場合や当社が故意または重大な過失がある場合を除き、一切の責任を負わないものとします。
+当社が違反行為の調査期間またはすでにサービス規約違反行為があると判断し、情報やコンテンツの削除や処理を拒否、またはお客様に警告、サービスへのアクセスを一時停止や終了、またはその他の措置を実施した場合、
+お客様は前述に基づいて当社及び当社の役員、経営陣、従業員、関連会社、代理人、契約業者、またはライセンス提供者に対して訴訟を提起し、もしくは損害賠償を要求しないことに同意します。この放棄および賠償規定は、当サービス規約に記述されたあらゆる違反行為に適用されます。
+
+11. その他の利用規約
+
+本規約は、プラットフォームにおける他の関連規約やポリシー、《使用規約》および《プライバシーポリシー》などに拘束されます。HCoin サービスを使用する際、お客様は該当するすべての規約およびポリシーを遵守することに同意します。本規約のいずれかの規約の一部が無効または執行不能と判断された場合でも、その無効または執行不能な部分は、他の部分の有効性および執行可能性に影響を与えません。
+
+
+"</string>
+    <string name="hcoin_terms_header">HCoinサービス利用規約</string>
+    <string name="home_guest_btn">ゲストログイン</string>
+    <string name="home_hcoin_terms_btn">HCoinサービス規約</string>
+    <string name="home_login_btn">会員ログイン</string>
+    <string name="home_privacy_policy_btn">プライバシーポリシー</string>
+    <string name="home_register_btn">会員登録</string>
+    <string name="home_term_user_btn">利用規約</string>
+    <string name="in_progress">処理しています</string>
+    <string name="indeterminate">一部 ON</string>
+    <string name="level_01">ホニ村民</string>
+    <string name="level_03">ホニ村長</string>
+    <string name="level_05">ホニ将軍</string>
+    <string name="level_07">ホニ国王</string>
+    <string name="level_09">ホニ皇帝</string>
+    <string name="level_100">ホニ神</string>
+    <string name="level_11">ホニ魔王</string>
+    <string name="level_description_text_07">"このページには現在のレベルと、レベルアップとレベル保持に必要な条件、そして会員レベルとチャージリワードの説明が表示されます：
+
+• レベルリワード
+チャージした「有料HCoin」によってリワードを計算します。この割合はお客様のレベル上昇によって増加され、チャージ時に更に多くの「無料HCoin」を獲得できるようになります。リワード額を所持していると、これらのリワードは優先的に使用されます。
+
+• 利用可能リワード額
+一定の「有料HCoin」範囲内で、お客様がチャージ時にリワードを計算できる金額の上限です。この額によってお客様がどれくらいの「無料HCoin」を獲得できるのかが決められます。この額以内のチャージ金額しかリワードを獲得できず、この額を超えた部分はリワード獲得に計算されません。
+
+• 獲得可能リワード額
+「利用可能リワード額」と「レベルリワード」によって計算された「無料HCoin」の金額です。こちらはお客様が毎月獲得できる「無料HCoin」の上限額で、パーティーカード有効期限以内に毎月1回リセットされます。
+
+計算式：「利用可能リワード額」 × 「レベルリワード」 = 「獲得可能リワード額」。
+
+✦ 「利用可能リワード額」と「獲得可能リワード額」はパーティーカードの有効期限以内に毎月1回リセットされます。リセット時間は、パーティーカードが有効になった日付を基に計算されます。
+✦ 会員レベルは毎年の 6月30日、12月31日 午前04:00 ( GMT+8 )にレベル決算を行い、レベル保持に累計したHPowerをゼロに戻します。現在のレベル保持条件に達している場合、現在のレベルを維持できます。
+✦ 現在のレベル保持条件に達していない場合、次のシーズンにレベルが1ダウンし、経験値ゲージもゼロに戻ります。
+✦ パーティーカード取得後、レベルアップに必要なHPowerを蓄積していき、レベルを上げることができます。
+✦ パーティーカードの利用期限が切れると、チャージで獲得したHPowerは会員レベルシステムに計算されず、レベルアップも停止されますが、シーズンごとの決算日後に引き続きレベルがダウンします。パーティーカードを再度購入するとまた計算されるようになります。
+✦ レベルリワードはHCoinをチャージする時優先的に使用され、他のクーポンと併用することはできません。
+✦ 次のチャージでレベルアップした場合、システムは優先的に現在レベルアップに必要な金額を計算し、残り部分を次のレベルリワード計算に適用します。レベルリワードを使用する際は、他のクーポンと併用することはできません。
+✦ パーティーカードの詳細説明はPlayHornyの【よくある質問】でご確認いただけます。"</string>
+    <string name="level_description_text_07_light_white">毎年の 6月30日、12月31日 午前04:00 ( GMT+8 )</string>
+    <string name="level_description_text_08">Level up</string>
+    <string name="level_description_text_09">(HPower)</string>
+    <string name="level_description_text_10">Level up (HPower)</string>
+    <string name="level_description_text_11">• レベルリワード</string>
+    <string name="level_description_text_12">チャージした「有料HCoin」によってリワードを計算します。この割合はお客様のレベル上昇によって増加され、チャージ時に更に多くの「無料HCoin」を獲得できるようになります。</string>
+    <string name="level_description_text_13">• 利用可能リワード額</string>
+    <string name="level_description_text_14">一定の「有料HCoin」範囲内で、お客様がチャージ時にリワードを計算できる金額の上限です。</string>
+    <string name="level_description_text_15">• 獲得可能リワード額</string>
+    <string name="level_description_text_16">こちらはお客様が毎月獲得できる「無料HCoin」の上限額で、</string>
+    <string name="level_description_text_17">パーティーカード有効期限以内に毎月1回リセットされます</string>
+    <string name="level_description_text_18">計算式：「利用可能リワード額」 × 「レベルリワード」 = 「獲得可能リワード額」。</string>
+    <string name="level_description_text_19">毎年の 6月30日、12月31日 午前04:00 ( GMT+8 )</string>
+    <string name="level_description_text_20">Max</string>
+    <string name="loading">Loading…</string>
+    <string name="loading_text">あなたが人間であることを確認する</string>
+    <string name="login_account_not_found_error">* アカウントやパスワードが間違っています</string>
+    <string name="login_account_placeholder">会員アカウントを入力してください</string>
+    <string name="login_error_text">アカウントに異常があります。お問い合わせまでご連絡ください。</string>
+    <string name="login_forgot_password_btn">パスワードを忘れました</string>
+    <string name="login_header_text">会員ログイン</string>
+    <string name="login_header_text_en">LOG IN</string>
+    <string name="login_password_placeholder">パスワードを入力してください</string>
+    <string name="login_qoo_btn">QooApp</string>
+    <string name="login_register_btn">会員登録</string>
+    <string name="login_remember_text">アカウントを記憶する</string>
+    <string name="login_remind01_btn">続行する</string>
+    <string name="login_remind02_btn">登録する</string>
+    <string name="login_remind_text">ゲストとしてプレイを続けますか？ゲームデータが失わないよう、アカウント登録してプレイ状況を保存することをお薦めします。</string>
+    <string name="login_verfiy_text">メール認証</string>
+    <string name="member_accout_qoo_text">QooApp會員</string>
+    <string name="member_accout_text">PlayHorny会員</string>
+    <string name="member_binding_account_btn">アカウントバインド</string>
+    <string name="member_binding_account_hint">アカウントをバインドし、ゲームデータを保存してください。</string>
+    <string name="member_count_down_text">"データ更新中です。%s秒お待ちください。
+更新を待っている間、ゲームに戻ってプレイを続けていただけます。"</string>
+    <string name="member_deposit_btn">HCoinチャージ</string>
+    <string name="member_guest_account_text">ゲストアカウント</string>
+    <string name="member_hcoin_terms_btn">HCoinサービス利用規約</string>
+    <string name="member_now_login_text">ログイン中のアカウント</string>
+    <string name="member_playhorny_text">PlayHorny可以瑟瑟登入</string>
+    <string name="member_polices_btn">ポリシー</string>
+    <string name="member_privacy_policy_btn">プライバシーポリシー</string>
+    <string name="member_qoo_text">QooApp登入</string>
+    <string name="member_service_btn">カスタマーサービス</string>
+    <string name="member_suspension_remind_text">停止通知はプラットフォームで確認いただけます。停止についての詳細情報が知りたい場合は、PlayHornyのカスタマーサービスまでお問い合わせください。</string>
+    <string name="member_suspension_warning_text">利用規約に違反したため、一部の機能が停止されています。停止期間中、HCoinのチャージや会員カードの購入などができなくなります。</string>
+    <string name="member_takeover_account_text">アカウント情報連携</string>
+    <string name="member_term_user_btn">利用規約</string>
+    <string name="member_title_text">ユーザーセンター</string>
+    <string name="monthly">クレジットカード</string>
+    <string name="monthly_credit">クレジットカード</string>
+    <string name="navigation_menu">ナビゲーションメニュー</string>
+    <string name="not_selected">未選択</string>
+    <string name="off">オフ</string>
+    <string name="on">オン</string>
+    <string name="partycard_detail_text_01">次の報酬配布時間</string>
+    <string name="partycard_detail_text_02">最終報酬は配布済みです</string>
+    <string name="partycard_expired">再度パーティーカードを購入して、会員レベルサービスをロック解除！</string>
+    <string name="partycard_have_01">レベル保持に必要なHP</string>
+    <string name="partycard_have_02">本シーズン決算日：</string>
+    <string name="partycard_level_01">"レベルアップおめでとうございます！
+レベルリワードと獲得可能リワード額がアップしました↑"</string>
+    <string name="partycard_level_02">"会員レベルが1ダウンしました。
+レベルリワードと獲得可能リワード額が下がりました↓"</string>
+    <string name="partycard_nohave">パーティーカード未所持</string>
+    <string name="partycard_windows_btn">購入を続ける</string>
+    <string name="partycard_windows_text">"すでに有効になっているパーティーカードを所持しています。今回の購入によりお客様のパーティーカードの有効期間が延長されますが、報酬は即時に配布されません。
+
+• 報酬は月に一回のみ配布され、当月の報酬が重複して配布されることはありません。
+• 新しく購入されたパーティーカードの報酬は今後の配布スケジュールに取り組み、毎月の順番に従って順次配布されます。複数の報酬が同時に送られることはありません。
+
+ご確認の上ご購入ください！"</string>
+    <string name="partycard_windows_text_01">今回の購入によりお客様のパーティーカードの有効期間が延長されますが、報酬は即時に配布されません。</string>
+    <string name="paypal">Paypal</string>
+    <string name="point_card">ポイントカード</string>
+    <string name="privacy_policy_01">親愛なるお客様、こんにちは、「PlayHorny」へようこそ！最初にプライバシーポリシー、即ち個人情報保護方針を詳しくお読みいただくようお願い申し上げます。</string>
+    <string name="privacy_policy_02">PlayHorny（以下「PlayHorny」、「当社」、または「プラットフォーム」という。）は、あなた（以下「お客様」、「ユーザー」、「利用者」、または「会員」という。）の個人情報を非常に重要視しています。当社は、当地法律の『個人情報保護法』（PDPA）に基づき、お客様の個人情報の保護を確保いたします。本条の旨は、当社が個人情報を取扱う方法について説明するものです。</string>
+    <string name="privacy_policy_03">お客様が当社のサービスを利用する際、電子文書で法的効力を行使し、ご本人から書面による同意と同等の効力を得るものとみなします。</string>
+    <string name="privacy_policy_04">"1. 期間
+
+ゲームプラットフォームが提供する関連サービスおよびサービス期間。"</string>
+    <string name="privacy_policy_05">"2. 地区
+
+ゲームプラットフォームのサービス地域。"</string>
+    <string name="privacy_policy_06">"3. 対象
+
+ゲームプラットフォームを訪れ、利用、またはアクセスするユーザー。"</string>
+    <string name="privacy_policy_07">"4. 取得した個人情報の取扱いについて
+
+当社での個人情報は、会員管理サービス、マーケティングプロモーション、および社内の統計調査・分析を行うために使用されています。これらの情報は、お客様が同意したサービス目的および当社関係者の業務範囲内のみ利用できます。（抽選、賞品の提供、およびイベントに関連する事項を含みます。）"</string>
+    <string name="privacy_policy_08">"5. 取得した個人情報カテゴリーについて
+
+個人情報は以下の識別情報を含みます。
+(1)ユーザーがプラットフォームアカウントを作成時に提供した情報、メールアドレス、予備のメールアドレス、パスワード、生年月日、年齢、ユーザーID、およびその他の情報が含まれます。
+ これらの情報は、ご本人の識別と身分検証、アカウント関連の操作に役立ちます。
+(2)お客様がプラットフォームを利用またはアクセスする際に使用されるデバイス情報、たとえばAndroid、iOS、またはパソコンなどのデバイスタイプ、およびデバイスに関連付けられたIPアドレスが含まれます。
+ 当社はこれらの情報を利用し、お客様の使用状況を確認し、PlayHornyサービス (以下「サービス」という。) を提供します。
+(3)当社は、お客様の請求書送付先や支払い方法の情報、即ちお客様の銀行口座情報、クレジットカード、デビットカード、またはその他の支払いカード情報に関する決済記録を収集する場合があります。また、第三者決済のウェブページに接続した際の取引状況への追跡も含まれます。
+(4)お客様がプラットフォームからの緊急サポートが必要な場合、問題を報告する際に提供された情報を収集することがあります。
+(5)当社は、クッキー（Cookie）などの技術を通じて、お客様の閲覧履歴、訪問日時、ブラウザの種類、オペレーティングシステム、デバイス情報、IPアドレスなどを含むご本人の個人情報を自動的に収集および処理する場合があります。
+これらの情報を収集する目的は、プラットフォームの機能を改善し、ユーザー体験を向上させ、またお客様の好みや閲覧習慣に基づく関連パーソナライズの最適化を実行するためです。
+ただし、ブラウザ設定でこれらの技術の使用を制限またはブロックする調整を行うことができますが、これによりプラットフォーム上で一部の機能が制限される可能性がありますので、ご注意ください。"</string>
+    <string name="privacy_policy_09">"6. 取得した個人情報の目的について
+
+当社が個人情報を収集する主な目的は以下の通りです：
+(1)「サービス」に対するユーザー体験の提供、同時にプラットフォームの改善、監査、データ分析などの内部目的の実行；
+(2)パーソナライズされた広告とプロモーションの提供；
+(3)ユーザーとのコミュニケーションおよび関係の維持、お問い合わせへの対応およびサポートの提供；
+(4)商業取引において、注文の処理と支払いを円滑に行うため、または取引の詳細を記録するために個人情報が使用される場合があります；
+(5)当社はプラットフォームの安全性を確保し、不正行為を防止するために個人情報を使用して監視することがあります。特定の状況では、法律、規制、もしくは裁判所命令の要件に遵守するために、個人情報が使用される場合があります。"</string>
+    <string name="privacy_policy_10">"7. 第三者による個人情報へのアクセス
+
+一部の場合では、より良いサービスと機能を提供するために当社は第三者ビジネスパートナーと協力することがあります。
+これらのビジネスパートナーは特定の機能を実行するために、当社のプラットフォームでユーザーの個人情報にアクセスする場合があります。共有される情報には下記の内容などが含まれます：
+(1) ゲームコンテンツと機能を提供するために必要なユーザー基本情報
+(2) お支払いおよびチャージ処理のための金融情報
+(3) 関連広告とプロモーション活動を表示するためのユーザー趣味や行動データ
+当社は、これらのビジネスパートナーと契約を締結し、お客様の個人情報の適切な保護を確保するために、当社のプライバシーポリシーおよび関連法規制を遵守することを要求します。
+ただし、当社は第三者ビジネスパートナーの行動や慣行については責任を負いかねますので、第三者と協力する場合は個人情報を慎重にお取り扱いください。
+
+適用法令に基づき、政府機関、法執行機関、または他の法的機関から不法行為、詐欺、個人安全に対する潜在的な脅威があるといった違法行為を調査または予防の要請がある場合、当社は調査に協力し、ユーザーの個人情報を提供することがあります。
+
+このような場合、当社は法的要求事項に従い、必要なユーザーの個人情報を提供します。これらの状況では、ユーザーのプライバシーを保護し、同時に関連法律と法的プロセスに遵守するよう尽力します。ただし、当社は法執行機関が個人情報の使用と処理に対する責任を負えかねます。
+
+当社は、企業の合併、買収、またはその他の事業譲渡の場合、ユーザーの個人情報を第三者と共有することがあります。当社は、合併、買収、または事業譲渡する前に、関連情報をユーザーに通知し、お客様の同意を取得します。これらの状況では、当社は個人情報の共有の合法性と合規性を確保し、ユーザーのプライバシーが適切に保護されるよう尽力します。"</string>
+    <string name="privacy_policy_11">"8. クッキー（Cookie）及びトラッキング技術
+
+クッキー（Cookie）とは、通常、匿名のユニークな識別子を含む小さなテキストファイルです。お客様がウェブサイトにアクセスすると、そのウェブサイトはこれらのクッキーをデバイスに保存し、デバイスの識別をよりしやすくします。
+当プラットフォームではさまざまな種類のクッキーと他の技術が使用されており、これらの技術によりユーザーの行動を理解し、セキュリティおよび詐欺防止を目的とします。さらにウェブサイトの閲覧履歴を把握することにより、広告やウェブ検索の効果を促進および測定するのに役立ちます。用途などは下記になります：
+⑴エッセンシャルCookie： 
+これらのクッキーはウェブサイトの通常運行に不可欠であり、プラットフォームのメンバーを識別し、ユーザーログインと身元確認のセキュリティリスクを確保します。
+⑵パーソナライゼーションCookie：
+これらのクッキーは、お客様の行動と嗜好を記録し、次回訪問時によりパーソナライズされた体験を提供します。
+⑶アナリティクス/パフォーマンスCookie：
+これらのクッキーは、ユーザーの行動データを匿名で収集し、プラットフォームのパフォーマンスおよび機能を分析または改善するのに役立ちます。
+⑷アドバタイジングCookie: 
+お客様の訪問とやり取りに基づき、よりターゲット向けの広告体験を提供するよう使用されます。
+
+お客様はクッキーの使用状況を随時把握し、管理することができます。ほとんどのブラウザは設定オプションを提供し、クッキーの拒否または削除を選択できます。ただし、クッキーを無効にしたり削除したりすることによって、プラットフォーム上において一部の機能が制限される可能性があることを予めご注意ください。"</string>
+    <string name="privacy_policy_12">"9. 年齢制限
+
+当社は、18歳未満の未成年者（または居住地域/国内で成人年齢に達していない者）のユーザーが当プラットフォームを利用またはアクセスすることを禁止します。当プラットフォームには、成人向けに設計されたエンターテイメントコンテンツが含まれており、18 歳未満または居住地域/国の法定成年年齢に満たない人には適していない場合があります。従って、本条の内容に背く場合は、規約違反とみなします。"</string>
+    <string name="privacy_policy_13">"10. アカウントの処分
+
+当プラットフォームはアカウントが未成年者に属していると発見した場合、アカウントの使用を直ちに終了する権利を有します。当プラットフォームは、未成年者がプラットフォームにアクセスしたり使用したりしないよう適切な措置を講じます。当プラットフォームは、すべての親と保護者に対し、未成年者が当プラットフォームにアクセスしたり使用したりすることがないよう、未成年者の監督を強化するよう呼びかけています。"</string>
+    <string name="privacy_policy_14">"11. 保留データ
+
+プラットフォームは、法的要求、法的訴訟、税務報告、並びにその他の規制遵守の要件を満たすために個人情報を保留するものとします。
+一般的には、個人情報の保留期間は、アカウント終了後最短5年間となります。
+保留期間終了後、当社はお客様のプライバシーとデータのセキュリティを確保するために、お客様の個人データが確実に削除または破棄されるよう、合理的な技術および組織的措置を講じます。"</string>
+    <string name="privacy_policy_15">"12. 利用者権利について
+
+当社のプラットフォームを使用またはアクセスし始めた時点で、お客様は当社による個人情報の処理に同意したものとみなします。ただし、お客様はいつでも同意を撤回する権利があります。
+個人情報保護法（PDPA）に基づき、お客様は以下の法定権利を有します。当社は法的要件を遵守することを前提として、以下権利の行使を支援します：
+(1)データへのアクセス権：
+お客様は、個人情報にアクセスし、その情報が処理されているや否か、また処理の目的などを問い合わせる権利があります。また、コピー提供の要求をする権利を有します。コピーをご希望の場合は、有償（人件費など）にて申し受けます。
+(2)訂正権：
+お客様は、個人情報に誤りがある場合、当社にそれを修正し、更新するよう要求する権利を有します。
+(3)削除権：
+お客様は、特定の状況下で、個人情報の削除を要求する権利を有します。例えば、データの処理が法的要件を満たさなくなった場合、または当社がデータを必要としなくなった場合など。
+(4)処理制限権： 
+お客様は、特定の状況下で、個人情報の処理を制限する権利を有します。例えば、データの正確性について異議を唱える場合など。
+
+上記の権利を行使したい場合、書面で当社にご連絡ください。当社は、適用される法律および規制の要求に基づき、関連事項の処理を支援します。
+また、個人情報の提供はご本人の任意ですが、特定の情報が必須フィールドに属する場合、その情報を提供しないと当社の製品やサービスを利用できない可能性があります。完全で正確な個人情報を提供することをお薦めします。不完全かつ不正確な情報提供によって、お客様および第三者に損害が生じた場合は、お客様ご自身が一切の責任を負うものとします。なお、お客様が提供された個人情報に真実性を確認できない場合やお客様本人に連絡を取れない場合、または他者の個人情報を不正利用、盗用、虚偽情報などが判明した場合、当社はお客様へのサービス提供を一時的に停止させていただく権利を有していますので、ご迷惑をおかけしますが、ご理解のほどよろしくお願いいたします。"</string>
+    <string name="privacy_policy_16">"13. 安全措施
+
+当社はお客様の個人情報が不正なアクセス、使用、変更、または情報漏洩から保護するために、適切な技術および組織の対策を実施することに尽力しています。
+当社は個人情報の安全性を確保するために、以下のような技術および組織の対策などを取っています：
+(1)当社は、お客様の機密情報を保護するために暗号化技術を使用し、データの転送および保存中に不正なアクセスから個人情報を守ります。
+(2)当社は、厳格なアクセス制御を実施し、権限のあるスタッフやビジネスパートナーにのみ限られたアクセス権を与え、個人情報には認証された関係者のみがアクセスできるようにします。
+(3)当社は、定期的にシステム監視と監査を実施し、潜在的なセキュリティリスクや脆弱性を特定し、対処します。
+
+当社はこれらのセキュリティ対策を実施していますが、個人情報の安全性を確保するためには、お客様のご協力が必要です。パスワードを定期的に変更し、アカウント情報を他人と共有せず、安全なデバイスとネットワークを使用することをお勧めします。"</string>
+    <string name="privacy_policy_17">"14. プライバシーポリシーの変更/更新
+
+当社は関連する法律および規制を遵守するために、『プライバシーポリシー』の内容を随時修正することがあります。
+当プラットフォームは、事前通知なくいつでも利用規約を変更する権利を有しています。プライバシーポリシーの変更については、当社のウェブサイトにおけるお知らせを常にご注意ください。
+お客様が「PlayHorny」の「サービス」を引き続き閲覧または利用する場合、修正後の利用規約を読み、理解し、同意したものとみなします。お客様が当プライバシーポリシーに同意しない場合、当社が提供するサービス（製品を含む）の利用を即座に停止してください。"</string>
+    <string name="privacy_policy_18">"15. お問い合わせ
+
+プライバシーポリシーに関する質問やご意見がございましたら、いつでもお気軽にご連絡ください。お客様に最高のサービスを提供できるよう尽力し続けていきます！"</string>
+    <string name="privacy_policy_content">"親愛なるお客様、こんにちは、「PlayHorny」へようこそ！最初にプライバシーポリシー、即ち個人情報保護方針を詳しくお読みいただくようお願い申し上げます。
+
+PlayHorny（以下「PlayHorny」、「当社」、または「プラットフォーム」という。）は、あなた（以下「お客様」、「ユーザー」、「利用者」、または「会員」という。）の個人情報を非常に重要視しています。当社は、当地法律の『個人情報保護法』（PDPA）に基づき、お客様の個人情報の保護を確保いたします。本条の旨は、当社が個人情報を取扱う方法について説明するものです。
+
+お客様が当社のサービスを利用する際、電子文書で法的効力を行使し、ご本人から書面による同意と同等の効力を得るものとみなします。
+
+1. 期間
+
+ゲームプラットフォームが提供する関連サービスおよびサービス期間。
+
+2. 地区
+
+ゲームプラットフォームのサービス地域。
+
+3. 対象
+
+ゲームプラットフォームを訪れ、利用、またはアクセスするユーザー。
+
+4. 取得した個人情報の取扱いについて
+
+当社での個人情報は、会員管理サービス、マーケティングプロモーション、および社内の統計調査・分析を行うために使用されています。これらの情報は、お客様が同意したサービス目的および当社関係者の業務範囲内のみ利用できます。（抽選、賞品の提供、およびイベントに関連する事項を含みます。）
+
+5. 取得した個人情報カテゴリーについて
+
+個人情報は以下の識別情報を含みます。
+(1)ユーザーがプラットフォームアカウントを作成時に提供した情報、メールアドレス、予備のメールアドレス、パスワード、生年月日、年齢、ユーザーID、およびその他の情報が含まれます。
+ これらの情報は、ご本人の識別と身分検証、アカウント関連の操作に役立ちます。
+(2)お客様がプラットフォームを利用またはアクセスする際に使用されるデバイス情報、たとえばAndroid、iOS、またはパソコンなどのデバイスタイプ、およびデバイスに関連付けられたIPアドレスが含まれます。
+ 当社はこれらの情報を利用し、お客様の使用状況を確認し、PlayHornyサービス (以下「サービス」という。) を提供します。
+(3)当社は、お客様の請求書送付先や支払い方法の情報、即ちお客様の銀行口座情報、クレジットカード、デビットカード、またはその他の支払いカード情報に関する決済記録を収集する場合があります。また、第三者決済のウェブページに接続した際の取引状況への追跡も含まれます。
+(4)お客様がプラットフォームからの緊急サポートが必要な場合、問題を報告する際に提供された情報を収集することがあります。
+(5)当社は、クッキー（Cookie）などの技術を通じて、お客様の閲覧履歴、訪問日時、ブラウザの種類、オペレーティングシステム、デバイス情報、IPアドレスなどを含むご本人の個人情報を自動的に収集および処理する場合があります。
+これらの情報を収集する目的は、プラットフォームの機能を改善し、ユーザー体験を向上させ、またお客様の好みや閲覧習慣に基づく関連パーソナライズの最適化を実行するためです。
+ただし、ブラウザ設定でこれらの技術の使用を制限またはブロックする調整を行うことができますが、これによりプラットフォーム上で一部の機能が制限される可能性がありますので、ご注意ください。
+
+6. 取得した個人情報の目的について
+
+当社が個人情報を収集する主な目的は以下の通りです：
+(1)「サービス」に対するユーザー体験の提供、同時にプラットフォームの改善、監査、データ分析などの内部目的の実行；
+(2)パーソナライズされた広告とプロモーションの提供；
+(3)ユーザーとのコミュニケーションおよび関係の維持、お問い合わせへの対応およびサポートの提供；
+(4)商業取引において、注文の処理と支払いを円滑に行うため、または取引の詳細を記録するために個人情報が使用される場合があります；
+(5)当社はプラットフォームの安全性を確保し、不正行為を防止するために個人情報を使用して監視することがあります。特定の状況では、法律、規制、もしくは裁判所命令の要件に遵守するために、個人情報が使用される場合があります。
+
+7. 第三者による個人情報へのアクセス
+
+一部の場合では、より良いサービスと機能を提供するために当社は第三者ビジネスパートナーと協力することがあります。
+これらのビジネスパートナーは特定の機能を実行するために、当社のプラットフォームでユーザーの個人情報にアクセスする場合があります。共有される情報には下記の内容などが含まれます：
+(1) ゲームコンテンツと機能を提供するために必要なユーザー基本情報
+(2) お支払いおよびチャージ処理のための金融情報
+(3) 関連広告とプロモーション活動を表示するためのユーザー趣味や行動データ
+当社は、これらのビジネスパートナーと契約を締結し、お客様の個人情報の適切な保護を確保するために、当社のプライバシーポリシーおよび関連法規制を遵守することを要求します。
+ただし、当社は第三者ビジネスパートナーの行動や慣行については責任を負いかねますので、第三者と協力する場合は個人情報を慎重にお取り扱いください。
+
+適用法令に基づき、政府機関、法執行機関、または他の法的機関から不法行為、詐欺、個人安全に対する潜在的な脅威があるといった違法行為を調査または予防の要請がある場合、当社は調査に協力し、ユーザーの個人情報を提供することがあります。
+
+このような場合、当社は法的要求事項に従い、必要なユーザーの個人情報を提供します。これらの状況では、ユーザーのプライバシーを保護し、同時に関連法律と法的プロセスに遵守するよう尽力します。ただし、当社は法執行機関が個人情報の使用と処理に対する責任を負えかねます。
+
+当社は、企業の合併、買収、またはその他の事業譲渡の場合、ユーザーの個人情報を第三者と共有することがあります。当社は、合併、買収、または事業譲渡する前に、関連情報をユーザーに通知し、お客様の同意を取得します。これらの状況では、当社は個人情報の共有の合法性と合規性を確保し、ユーザーのプライバシーが適切に保護されるよう尽力します。
+
+8. クッキー（Cookie）及びトラッキング技術
+
+クッキー（Cookie）とは、通常、匿名のユニークな識別子を含む小さなテキストファイルです。お客様がウェブサイトにアクセスすると、そのウェブサイトはこれらのクッキーをデバイスに保存し、デバイスの識別をよりしやすくします。
+当プラットフォームではさまざまな種類のクッキーと他の技術が使用されており、これらの技術によりユーザーの行動を理解し、セキュリティおよび詐欺防止を目的とします。さらにウェブサイトの閲覧履歴を把握することにより、広告やウェブ検索の効果を促進および測定するのに役立ちます。用途などは下記になります：
+⑴エッセンシャルCookie（不可欠なクッキー）: 
+これらのクッキーはウェブサイトの通常運行に不可欠であり、プラットフォームのメンバーを識別し、ユーザーログインと身元確認のセキュリティリスクを確保します。
+⑵パーソナライゼーションCookie: 
+これらのクッキーは、お客様の行動と嗜好を記録し、次回訪問時によりパーソナライズされた体験を提供します。
+⑶アナリティクス/パフォーマンスCookie: 
+これらのクッキーは、ユーザーの行動データを匿名で収集し、プラットフォームのパフォーマンスおよび機能を分析または改善するのに役立ちます。
+⑷アドバタイジングCookie: 
+お客様の訪問とやり取りに基づき、よりターゲット向けの広告体験を提供するよう使用されます。
+
+お客様はクッキーの使用状況を随時把握し、管理することができます。ほとんどのブラウザは設定オプションを提供し、クッキーの拒否または削除を選択できます。ただし、クッキーを無効にしたり削除したりすることによって、プラットフォーム上において一部の機能が制限される可能性があることを予めご注意ください。
+
+9. 年齢制限
+
+当社は、18歳未満の未成年者（または居住地域/国内で成人年齢に達していない者）のユーザーが当プラットフォームを利用またはアクセスすることを制限します。当プラットフォームには、成人向けに設計されたエンターテイメントコンテンツが含まれており、18 歳未満または居住地域/国の法定成年年齢に満たない人には適していない場合があります。従って、本条の内容に背く場合は、規約違反とみなします。
+
+10. アカウントの処分
+
+当プラットフォームはアカウントが未成年者に属していると発見した場合、アカウントの使用を直ちに終了する権利を有します。当プラットフォームは、未成年者がプラットフォームにアクセスしたり使用したりしないよう適切な措置を講じます。当プラットフォームは、すべての親と保護者に対し、未成年者が当プラットフォームにアクセスしたり使用したりすることがないよう、未成年者の監督を強化するよう呼びかけています。
+
+11. 保留データ
+
+プラットフォームは、法的要求、法的訴訟、税務報告、並びにその他の規制遵守の要件を満たすために個人情報を保留するものとします。
+一般的には、個人情報の保留期間は、アカウント終了後最短5年間となります。
+保留期間終了後、当社はお客様のプライバシーとデータのセキュリティを確保するために、お客様の個人データが確実に削除または破棄されるよう、合理的な技術および組織的措置を講じます。
+
+12. 利用者権利について
+
+当社のプラットフォームを使用またはアクセスし始めた時点で、お客様は当社による個人情報の処理に同意したものとみなします。ただし、お客様はいつでも同意を撤回する権利があります。
+個人情報保護法（PDPA）に基づき、お客様は以下の法定権利を有します。当社は法的要件を遵守することを前提として、以下権利の行使を支援します：
+(1)データへのアクセス権: 
+お客様は、個人情報にアクセスし、その情報が処理されているや否か、また処理の目的などを問い合わせる権利があります。また、コピー提供の要求をする権利を有します。コピーをご希望の場合は、有償（人件費など）にて申し受けます。
+(2)訂正権: 
+お客様は、個人情報に誤りがある場合、当社にそれを修正し、更新するよう要求する権利を有します。
+(3)削除権: 
+お客様は、特定の状況下で、個人情報の削除を要求する権利を有します。例えば、データの処理が法的要件を満たさなくなった場合、または当社がデータを必要としなくなった場合など。
+(4)処理制限権: 
+お客様は、特定の状況下で、個人情報の処理を制限する権利を有します。例えば、データの正確性について異議を唱える場合など。
+
+上記の権利を行使したい場合、書面で当社にご連絡ください。当社は、適用される法律および規制の要求に基づき、関連事項の処理を支援します。
+また、個人情報の提供はご本人の任意ですが、特定の情報が必須フィールドに属する場合、その情報を提供しないと当社の製品やサービスを利用できない可能性があります。完全で正確な個人情報を提供することをお薦めします。不完全かつ不正確な情報提供によって、お客様および第三者に損害が生じた場合は、お客様ご自身が一切の責任を負うものとします。なお、お客様が提供された個人情報に真実性を確認できない場合やお客様本人に連絡を取れない場合、または他者の個人情報を不正利用、盗用、虚偽情報などが判明した場合、当社はお客様へのサービス提供を一時的に停止させていただく権利を有していますので、ご迷惑をおかけしますが、ご理解のほどよろしくお願いいたします。
+
+13. 安全措施
+
+当社はお客様の個人情報が不正なアクセス、使用、変更、または情報漏洩から保護するために、適切な技術および組織の対策を実施することに尽力しています。
+当社は個人情報の安全性を確保するために、以下のような技術および組織の対策などを取っています：
+(1)当社は、お客様の機密情報を保護するために暗号化技術を使用し、データの転送および保存中に不正なアクセスから個人情報を守ります。
+(2)当社は、厳格なアクセス制御を実施し、権限のあるスタッフやビジネスパートナーにのみ限られたアクセス権を与え、個人情報には認証された関係者のみがアクセスできるようにします。
+(3)当社は、定期的にシステム監視と監査を実施し、潜在的なセキュリティリスクや脆弱性を特定し、対処します。
+
+当社はこれらのセキュリティ対策を実施していますが、個人情報の安全性を確保するためには、お客様のご協力が必要です。パスワードを定期的に変更し、アカウント情報を他人と共有せず、安全なデバイスとネットワークを使用することをお勧めします。
+
+14. プライバシーポリシーの変更/更新
+
+当社は関連する法律および規制を遵守するために、『プライバシーポリシー』の内容を随時修正することがあります。
+当プラットフォームは、事前通知なくいつでも利用規約を変更する権利を有しています。プライバシーポリシーの変更については、当社のウェブサイトにおけるお知らせを常にご注意ください。
+お客様が「PlayHorny」の「サービス」を引き続き閲覧または利用する場合、修正後の利用規約を読み、理解し、同意したものとみなします。お客様が当プライバシーポリシーに同意しない場合、当社が提供するサービス（製品を含む）の利用を即座に停止してください。
+
+15. お問い合わせ
+
+プライバシーポリシーに関する質問やご意見がございましたら、いつでもお気軽にご連絡ください。お客様に最高のサービスを提供できるように期待しています！
+
+"</string>
+    <string name="privacy_policy_header">プライバシーポリシー</string>
+    <string name="range_end">範囲の末尾</string>
+    <string name="range_start">範囲の先頭</string>
+    <string name="register_account_placeholder">電子メールアドレスを入力してください</string>
+    <string name="register_birthday_empty_error">*生年月日がまだ記入されていません。</string>
+    <string name="register_birthday_placeholder">生年月日を記入してください。</string>
+    <string name="register_birthday_verify_error">"登録失敗
+未成年者なので登録できません。"</string>
+    <string name="register_header_en">Register</string>
+    <string name="register_header_text">会員登録</string>
+    <string name="register_member_agree_text">ご自身が18歳以上、またはお住まいの地域での法定成年年齢に達していることをご確認ください。</string>
+    <string name="register_member_remind_text">登録すると、本プラットフォームの《利用規約》と《プライバシーポリシー》に同意したと見なします</string>
+    <string name="register_member_verify_puzzle_text">ピースを適した場所に移動してください</string>
+    <string name="register_password_confirm_empty_error">* パスワードの未入力が確認されています</string>
+    <string name="register_password_confirm_not_match_error">* パスワードが一致しません</string>
+    <string name="register_password_confirm_placeholder">パスワードを再確認してください</string>
+    <string name="register_password_placeholder">パスワードを入力してください</string>
+    <string name="register_success_btn">ゲームスタート</string>
+    <string name="register_success_hint">アカウント権利を確保するため、プラットフォームで会員アカウント認証を行ってください！</string>
+    <string name="register_success_text">"登録成功！
+PlayHornyへようこそ"</string>
+    <string name="register_terms_confirm_text">利用規約 と プライバシーポリシー を読んで理解し、同意します。</string>
+    <string name="reset_password_verfiy_code_error_text">認証コードエラー</string>
+    <string name="search_menu_title">検索</string>
+    <string name="select_coupon_05_text">会員レベルリワードを使い、無料HCoinを獲得します</string>
+    <string name="select_coupon_06_text">今回のチャージでレベルアップした後、会員レベルリワードで無料HCoinを獲得できます。</string>
+    <string name="selected">選択済み</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="supermarket_barcode">コンビニ決済</string>
+    <string name="switch_role">切り替える</string>
+    <string name="tab">タブ</string>
+    <string name="telecom">キャリア決済</string>
+    <string name="template_percent">%1$dパーセント。</string>
+    <string name="term_user_01">"親愛なるお客様、こんにちは、「PlayHorny」へようこそ！最初に利用規約をご紹介させてください。
+これらの規約は、お客様の権利を保護し、誰もが安全かつ楽しくプラットフォームを利用できることを確保するためのものです。"</string>
+    <string name="term_user_02">"本利用規約（以下「規約」という。）は、あなた（以下「お客様」、「ユーザー」、「利用者」または「会員」という。）が「PlayHorny」プラットフォーム（以下「PlayHorny」、「当社」または「プラットフォーム」という。）を利用する際の行動および権利を規制するためのものです。
+お客様がゲストまたは会員として、プラットフォーム、特定ゲームのウェブサイト、カスタマーサポート、ソーシャルメディア、コミュニティメディアおよび当社が認可した第三者によって提供される他のオンラインサービス（以下「サービス」という。）にアクセスまたは利用する場合、これらの規約に制約されます。
+本規約は、「PlayHorny」とお客様との間の法的契約を構成しますので、必ず詳細をお読みいただくようお願いいたします。"</string>
+    <string name="term_user_03">お客様が「PlayHorny」のサービスにアクセスし、または利用する場合、お客様が本規約をお読みいただいた上で、本規約に理解し、制約されることに同意したものとみなします。同意しないか、またはこれらの規約に従うことができない場合、「サービス」の使用を中止またはキャンセルしてください。</string>
+    <string name="term_user_04">"1. 期間
+ゲームプラットフォームが提供する関連サービスおよびサービス期間。"</string>
+    <string name="term_user_05">"2. 地域
+ゲームプラットフォームのサービス地域。"</string>
+    <string name="term_user_06">"3. 対象
+ゲームプラットフォームをダウンロード、訪問、利用、またはアクセスするユーザー。"</string>
+    <string name="term_user_07">"4. 利用資格について
+お客様は18歳以上であるか、ご自身の居住地域/国内の成人コンテンツの閲覧年齢及び完全行為能力を持つ年齢に適合し、かつ当社のサービス規約に同意した上、本利用規約を遵守し履行する能力がある場合のみ、PlayHornyを利用できます。18歳未満または居住地域/国内では未成年者とされている場合、PlayHornyを利用することができません。"</string>
+    <string name="term_user_08">"5.利用者アカウントについて
+アカウントを作成する際、お客様は当社に対し正確かつ真実な個人情報を提供することに同意し、提供するすべての情報が正確であることを確認します。
+虚偽、不正確、または不完全な情報を提供したり、当社とのいかなる規約に違反したりした場合、当社はお客様の登録を拒否し、なおかつ「サービス」に使用しているアカウントを一時停止または終了する権利を有します。
+
+アカウント情報（パスワードを含む）の安全性の保護責任はお客様自身が負うべきものであり、アカウント情報を第三者に提供、販売、共有することは許可されておらず、他の利用者のアカウントやパスワードを使用することも禁止されています。
+お客様がアカウント情報を適切に保管、機密にしないことによって、アカウントに関連するあらゆる現象が起きた場合、お客様が全て責任を負うものとします。未承認の人物がお客様のアカウントやパスワードを使用し、または他のセキュリティの脆弱性を発見した場合、即座にお知らせいただくことに同意したものとみなします。
+お客様がアカウント情報を適切に保管、機密にしないことによって、第三者がお客様のアカウントまたはパスワードを使用した場合、お客様にはこの状況によってプラットフォーム及びプラットフォームの他の利用者やゲストが負われた損失を賠償する責任があります。上記の義務に違反し、それによって生じた損害や損失について、プラットフォームは一切責任を負いません。
+
+ゲーム内でお客様はゲーム関連の仮想アイテム（仮想財産、アイテム、ステータス、バフ、武器、装備、アイコンなど）を取得することがあります。また、ゲーム内アイテムは、購入または他の手段で入手することがあります。お客様はゲーム内アイテムは仮想世界でのみ意味を持ち、貨幣価値を一切持たず、転売や現金への引換ができないことを理解し、同意したものとみなします。お客様がゲーム内アイテムやゲームコンテンツを保存することを認めますが、当社はゲーム内アイテムやゲームコンテンツに対するすべての権利を有しています。ゆえに、当社はお客様のアカウントやお客様が保存できるすべてのゲーム内アイテムやゲームコンテンツをいつでも削除または変更し、別途通知や責任を負うことを一切しない権利を有します。"</string>
+    <string name="term_user_09">"6. プライバシーについて
+プラットフォームで収集されたデータは当地の法律に従います。お客様が「サービス」を利用することは、「プライバシーポリシー」をお読み、理解し、同意したものとみなします。
+当社は法律に基づき、不定期に利用規約を更新することがあります。お客様が「サービス」を続けて利用する場合、最新規約に同意したものとみなします。あらかじめご注意ください。
+法律が許す範囲内で、お客様には適切な個人情報の提出を申請する権利があり、審査後、情報の修正や削除を要求できます。個人情報に関する詳細については、プラットフォームの「プライバシーポリシー」（プライバシーポリシーの内容はこちらのリンクをご確認いただけます：https://www.playhorny.com/ja-JP/privacy-policy）をご参照ください。
+サービスのご利用は、お客様がオンライントランスポートにはリスクが存在し、完全に安全かつ機密ではないことを確認し、同意したものとみなします。お客様がプラットフォームに送信したメッセージや情報が他人に読み取られ、傍受されたりする可能性があることを理解したものとみなします。トランスポート（クレジットカード情報など）がすでに暗号化されていると特殊通知がある場合であっても同様です。"</string>
+    <string name="term_user_10">"7. 使用権規則について
+PlayHornyはお客様に個人の有限、非専属、ライセンス移転不可、譲渡不可、撤回可能な使用権を付与し、そして個人の非商業的な目的でのみ、「サービス」およびそれに付随するコンテンツへのアクセス権限を提供します。
+適用法律の制限を守り、かつアカウントがお客様本人やプラットフォームによって終了されていない場合、お客様はこの使用権を有しますが、お客様が本規約及び関連規約に違反したり、その他不適切または他の違反行為（プラットフォームの調査認定を基準とする）を行った場合、当プラットフォームはいつでもお客様の登録を拒否し、または使用権を制限、撤回、終了、一時停止する権利を有し、状況に応じて調査または不適切や違法の疑いがある行為を処理します。
+適用法律が許可されている最大範囲内で、明示的に授与されていない権利、所持権、所有権および利益は、すべて当プラットフォームに帰属します。"</string>
+    <string name="term_user_11">"8. 利用者の行為及び責任について
+お客様が「サービス」を使用する際、この「規約」および《プライバシーポリシー》に制約されることに同意し、これらの「規約」および《プライバシーポリシー》の規則を遵守した上に、以下の行動を試したり行ったりしないものとみなします：
+(1) 他人や特定のグループに不快や反対に思わせ、プラットフォームや他人の権益を害し、地方または国際法に違反する情報やコンテンツを生成すること。
+(2) 当社または他のユーザーが公開していない情報またはコンテンツを転送、販売、公開すること。
+(3) いかなる方法で公式の身分を偽って虚偽情報や不適切で不快な内容、違法なウェブサイト、スパム広告、または違法活動に関する情報を散布すること。
+同時に、攻撃、脅迫、侵害などの不正手段を用いて、一部または全てのユーザーに対して不適切な行為を行ってはいけません。
+(4) 違法または不適切な手段で、意図的にプラットフォームの「サービス」運行を損害、中断、または終了させる行為。分散型サービス拒否攻撃（DDoS攻撃）、悪意のあるソフトウェア、SQLインジェクション攻撃、クロスサイトスクリプティング（XSS）攻撃、クロスサイトリクエストフォージェリ（CSRF）攻撃、ウェブサイトの破壊、偽造またはなりすまし、データの改ざん、漏洩、ソーシャルエンジニアリングやその他プラットフォームのセキュリティに影響を及ぼす攻撃などが含まれます。
+{5} いかなるデバイス、ソフトウェア、またはプログラムを使用して本サービスの正常運行を妨害したり、本サービス上での取引、他のユーザーによる本サービスの使用に干渉しようとしたりすること。
+(6) プラットフォームまたは「サービス」の許可を得ずに、プラットフォームで提供されるあらゆる関連コンテンツおよび情報をキャッチ、収集、アクセスすること。
+(7) プラットフォームまたは「サービス」の許可を得ずに、プラットフォームで提供されるあらゆる関連コンテンツや情報を商業目的で販売、賃貸、ライセンス移転やそれに同意すること。
+(8) クレジットカードの盗用、アカウント転売、エクスプロイト、不正利用などの違法行為または不正行為を行うこと。
+(9) 虚偽の身分を作成/使用したり、他人になりすましたり、複数のアカウントを作成したり、または第三者とアカウント情報を共有するなど。
+(10) 許可を得ずに他のユーザーのアカウント情報を使用、アクセス、収集すること。
+(11) 適用法令または当地域/国家の法律に違反すること。
+(12) その他、当プラットフォームが調査および判断により、違法の疑いがあるまたは不適切と認定した行為。
+(13) 他者を協力、許可、または誘導し、もしくは任意の装置、ソフトウェア、プログラムを使用して上記のいずれかの行為を実行すること。
+特定のゲームの利用規約は特定の法的要求をカバーしていることがあり、該当規約には法的規制に関する特殊規定が含まれていることがあります。ご注意ください。
+お客様は、ご自身の行動が現地の文化と習慣を尊重し、現地の法的規制に従う必要があることを明確に理解し、同意します。
+上記のいずれかの規約に違反した場合、当社は事前通知なしに警告を発しお客様のアカウントを終了または登録を拒否し、状況に応じて調査または不適切や違法の疑いがある行為を処理し、同時に「サービス」のご利用を一時停止またはキャンセルする権利を有します。"</string>
+    <string name="term_user_12">"9. 利用者が生成された内容について
+お客様はプラットフォームの「サービス」を使用してコンテンツを生成できます。これにはテキスト、画像、音声、およびその他の関連素材が含まれます。そしてお客様は、ご自身が生成したコンテンツに関する行動と発言に責任を負います。
+お客様は、ご自分が生成したコンテンツに不快、反対、不適切なコンテンツが含まれてないよう確認する義務があります。お客様がプラットフォームで生成されたコンテンツは、形式に関係なく、お客様個人の責任とします。
+プラットフォームは、ユーザーが生成したコンテンツを支持せず、それに対する法的責任を負いません。
+お客様は、当社が不適切、許可されていない、不快であると考えるコンテンツを事前通知なしに編集、削除、または他の方法で処理する権利を有することに同意します。
+お客様は上記の規則に同意し、以下の行動を試み、行い、アップロードし、発表し、広めたりしないことに同意します：
+(1) 意図的に他人を傷つけ、中傷、脅迫、嫌がらせ、侵害、恐喝、憎み、虐待、差別、詐欺、いじめ、または冒涜するなど、特定の人々に不快感や反感を引き起こさせる情報コンテンツ。
+(2) 暴力、性虐待、獣姦、強制的、未成年者の権利を侵害するなど、芸術性のない過激な「ハードコア」な猥褻コンテンツ。
+(3) 議論の余地があるあらゆる情報。宗教、政治、人種、性別などを含む。
+(4) プラットフォームまたは他の人の知的財産権、プライバシー、パブリシティ権およびその他の権利を侵害する。
+(5) 許可を得ていない商業/非商業広告、第三者リンクまたは関連するプロモーションコンテンツ。
+(6) プラットフォームや他のユーザーの権利を意図的にを害しようとするファイル、リンクなど。
+(7) 当社または他のユーザーの非公開情報。
+(8) プラットフォームまたは他の人の評判に損害を与える可能性のある不適切な行動、発言、または情報。
+(9) 性行為、性取引、またはその他公序良俗に反する目的で行う行為。
+(10) 本サービスが想定された利用目的と異なる行為。
+(11) その他、当プラットフォームが調査および判断により、違法の疑いがあるまたは不適切と認定した行為。
+お客様は、ご自身の行動が現地の文化と習慣を尊重し、現地の法的規制に従う必要があることを明確に理解し、同意します。
+上記のいずれかの規約に違反した場合、当社は事前通知なしに警告を発しお客様のアカウントを一時停止または終了、アカウントの登録を拒否し、状況に応じて調査または不適切や違法の疑いがある行為を処理し、同時に「サービス」のご利用を一時停止またはキャンセルする権利を有します。当社は、お客様がプラットフォームにコメントやメールの形でご連絡いただくことを歓迎します。ただし、お客様はご自身の関連投稿内容やメール内容が当プラットフォームまたは第三者の権利を侵害しないことを保証する必要があります。なお、お客様はご自身の投稿やメール内容を持って、当社またはその他ライセンス供与者やサードパーティ供給業者に対して権利を主張することはできません。"</string>
+    <string name="term_user_13">"10. 知的財産権(IPR)について
+当プラットフォームに表示されるすべてのテキスト、画像、写真、映像、音声、ロゴ、ロゴデザイン、イラスト、ソフトウェア、コード、ファイル、HTMLおよびその他「サービス」と関連するデータコンテンツのすべての権利、所有権及び利益（著作権、特許権、商標権、その他の知的財産権、およびこれらの権利の申請または登録に関する権利などを含むがこれらに限定されません）は、PlayHorny及びライセンス供与者またはサードパーティ供給業者が所有するものであり、該当地域および国際の著作権法で保護されています。これらコンテンツの著作権は当社またはその他ライセンス供与者やサードパーティ供給業者に帰属します。
+書面の許可がない限り、複製、変更、配布、伝播、公開展示またはその他の著作権侵害行為を行うことは厳禁です。
+
+当プラットフォーム上のすべての商標、サービスマーク、商号、ドメインなどの知的財産権（著作権、特許権、商標権、その他の知的財産権、およびこれらの権利の申請または登録に関する権利などを含むがこれらに限定されません）は、当社またはその他ライセンス供与者やサードパーティ供給業者に帰属します。
+書面の許可がない限り、当社の知的財産権を使用、複製、リバースエンジニアリング、インタプリタ、または他の方法で侵害することは禁止されています。
+特に明示されていない限り、当プラットフォーム上のコンテンツは個人、非商業利用にのみ提供されています。
+再製、販売、転送、改ざん、散布、ライセンス供与、派生作品の作成、再公開、または再配布などを含むいかなる未許可の商業利用行為も厳しく禁止されています。
+
+当プラットフォームには第三者のウェブサイトへのリンクが含まれている可能性があり、これらのウェブサイトには独自の知的財産権ポリシーを持つ可能性があります。
+これらの第三者ウェブサイトのコンテンツやポリシーに関して、当社は責任を負いません。これらのリンクを使用することによって生じるリスクは、ユーザー自身が負担するものとなります。"</string>
+    <string name="term_user_14">"11. お支払いと払い戻しについて
+プラットフォームで商品やサービスを購入する場合、お客様が選択した決済方法で支払いが行われます。なお、すべてのサービス及びデジタルコンテンツの販売は、いずれも確定的なものです。そのため、原則として返金申請はできません。ただし、法律に別途規定がある場合は、この限りではありません。
+払い戻しの規則は、当社の「HCoinサービス規約」に従って処理されます。"</string>
+    <string name="term_user_15">"12. 第三者の内容とリンクについて
+当社の「サービス」には他のウェブサイトへのリンクが含まれている場合があり、ユーザーが第三者の情報やコンテンツにアクセスすることを可能にしています。
+お客様は、外部ウェブサイトに関する法的責任や損害賠償について、当社が責任を負わないことを認識し、同意します。第三者ウェブサイトの使用中に疑念や損害が発生した場合、関連ウェブサイトからサポートを求めるようお願いします。
+外部ウェブサイトのサービス、製品、または関連する権利によって生じた損害について、当社は直接または間接的な法的責任を負いません。"</string>
+    <string name="term_user_16">"13. プラットフォームとアカウントバインディングについて
+当プラットフォームは、ゲームのユーザーID（以下「UID」という）をプラットフォームアカウントにバインディングする「サービス」を提供しており、プラットフォームアカウントでログインすることで、異なるデバイス間でゲームの進行状況やゲームデータを同期することができます。
+1つのプラットフォームアカウントは、プラットフォーム内それぞれのゲームのUIDと1つバインディングすることができます。同じゲームに複数のUIDがある場合でも、プラットフォームアカウントのバインディングにUIDを1つしか選択することができません。
+バインディングが成功すると、アカウントの変更やバインディングの解除はできませんので、慎重にお選びいただくようお願いいたします。"</string>
+    <string name="term_user_17">"14. 免責声明
+当プラットフォームが提供される「サービス」は、「現状」に従って「利用可能な範囲」内で提供されており、通知無しに変更される場合もありますので、あらかじめご了承ください。
+当社はコンテンツの正確性と完全性を最大限に保証しますが、サービスまたはそのコンテンツ、サービス、機能に完全にエラーがないこと、中断されないこと、いかなる欠陥が修正されること、またはサービスを使用する際に特定の結果が得られることを保証するものではありません。
+同時に、当社は「サービス」の正確性や適用性についても保証せず、お客様の特定の要求に符合するかどうかも保証しません。
+ユーザーは提供されるコンテンツを独自に検証、評価し、それに関するリスクを自己負担する必要があります。
+
+当プラットフォームは、「サービス」またはコンテンツの使用に関連するいかなる損失、損害、訴訟、または他の結果についても、ユーザーや他の第三者に対して責任を負いません。
+当社は直接的、間接的、偶然的、付帯的、懲罰的または特殊の損害賠償について責任を負いません。
+システム設備の移行、交換、メンテナンス、天災、不可抗力またはその他の重大な事由によって当プラットフォームサービスが停止や中断、またはユーザーが利用規約に反した場合でも、事前に可能性が通知されていたにも関わらず、当社はいかなる責任を負いません。
+
+当プラットフォームの関連「サービス」を利用する際は、ゲームの使用時間に注意し、依存になることをお避けください。また、ゲーム内の仮想シナリオを模倣しないようご注意ください。一部のコンテンツやサービスの利用には、別途追加料金が発生する場合があります。"</string>
+    <string name="term_user_18">"15. 法律制限について
+当社は、プラットフォームの「サービス」使用または使用不能によって生じた利益損失、評判損失、業務中断、データ損失など、いかなる間接的、偶発的、特殊または派生的な損害について責任を負いません。
+「サービス」使用時、ユーザーはリスクを自己負担するものとし、技術的な障害、ネットワークの中断や第三者の行為によって引き起こされた損害などを含み、「サービス」の使用に関するいかなる損害または損失に対しても当社は責任を負いません。
+
+「サービス」に関連する取引、取引行為、いかなる取引活動において、PlayHornyはただのプラットフォームプロバイダーとして、ベンダーや他のユーザーとお客様との契約関係設立するためのインターフェースを提供します。
+当プラットフォームは、実際の取引プロセスや交渉に関与、介入しません。購入、取引、またはその他の取引行為に関連するすべての事項は、関連するベンダー、他のユーザー、およびお客様自身が直接的に行い、責任を負うものとします。
+当プラットフォームは、このような取引行為に干渉し、監視する責任を負いません。
+
+当プラットフォームの「サービス」使用によって生じた損失や損害が当利用規約やその他関連契約、条項に違反したことによるものである場合、当プラットフォームは一切責任を負いません。ただし、その損失または損害が当プラットフォームやその他ライセンス供与者の故意あるいは重大な過失による場合、適用法律に許容される範囲内にいかなる状況においても、当社の賠償責任は、お客様の請求事由が発生した日から半年（180日）以内に当プラットフォームを通じてPlayHornyにお支払いいただいた総額を上回りません。"</string>
+    <string name="term_user_19">"16. 終了について
+お客様は以下のような場合（含むが限らず）、当社が予告や理由を示さず、お客様の当プラットフォームの「サービス」使用権を終了する権利（HCoinなどを含むがこれに限定されません）を持つことに確認し、同意します：
+(1) 利用規約の違反。虚偽の陳述、他者の知的財産権の侵害、プラットフォームの運行を妨害または損害、不適切なコンテンツを伝播、不法な活動に参加するなど、またはその他当社が終了実行必要と判断した理由が含まれます。
+(2) 法執行機関または他の政府機関の要請に従う場合。
+(3) お客様が申請を提出した場合（自分でアカウントを削除）。
+(4) 当プラットフォーム、または当プラットフォームを通して提供されるサービスが停止または重大変更された場合。
+(5) 予測不可能な技術的問題が発生した場合。
+(6) その他、当社がサービスを終了する必要があると判断した場合。
+
+お客様は「PlayHorny」の「サービス」使用をいつでも自己の裁量で終了する権利を持っています。アカウントが終了された場合、お客様は関連サービスをアクセス及び利用することができなくなります。
+台湾の法律に基づいて、通常、お客様の個人情報は最短5年間保留されます。当社は法律に従い、業務目的達成のために必要な個人情報のみを合法的に保留します。
+お客様の個人情報の保留期間が終了した場合、当社は次のステップを実施して個人情報の安全性とプライバシーを確保します：
+• まず、当社はお客様の個人情報を削除し、それ以上保存または使用されないように確認します。
+• 次に、法律が許可する場合、お客様の情報を匿名化処理することがあります。匿名化処理された情報のみを保留し、サービス統計分析の改善やその他合法的な目的に使用し、同時にお客様個人の識別ができないよう確保します。
+当社は、お客様の個人情報の安全性を確保し、不適切な使用を防ぐために必要な技術および組織対策を実施することに尽力いたします。"</string>
+    <string name="term_user_20">"17. 賠償と責任について
+お客様が本プライバシーポリシーまたは関連利用規約に違反した影響によって、当社、当社の関連企業、高位幹部、従業員、代理人、パートナーまたはその他関連する第三者が損害を被り、補償または費用（弁護士費用や訴訟費用などを含む）を支払う必要がある場合、お客様は関連損失の補償に同意し、賠償金を支払い、発生したすべての費用を負担します。
+お客様が利用規約に違反したことによって生じた直接、間接、偶発的、特殊、相応または懲罰的損害について、たとえ当社にそのような損害が発生されると通知されていたとしても、当社はいかなる責任も負いません。
+お客様は、お客様が法律、本プライバシーポリシーまたは関連利用規約に違反することによって生じる損害や損失について、当社は一切責任を負わないと明確に理解し、同意します。"</string>
+    <string name="term_user_21">"18. 規約効力は分離可能
+本「規約」のいずれかの項目の一部が何らかの理由で違法、無効、または執行不能と判定もしくは宣言された場合、該当規約は「分離可能」と見なし、他の規約は依然として有効となります。"</string>
+    <string name="term_user_22">"19. 紛争と法律管轄について
+双方は、いかなる紛争もまず双方の合理的な努力によって協議し解決すべきことに同意します。書面を通して提案し、紛争の具体的な事実と状況を説明し、受信者が三十(30)日以内に返答または解決することを認めます。
+本規約、当プラットフォームの「サービス」またはそれに関連するいかなる紛争、請求、論争、その解釈、効力、違反、終了、または無効性などについて、まず仲裁に提出されるべきです。
+仲裁は当プラットフォームが指定する方法に従って行われ、仲裁地は当プラットフォームが指定する地域となります。
+協議が解決できない場合、双方は仲裁による解決を受け入れ、当プラットフォームが指定する仲裁機関に従うことに同意します。
+仲裁で紛爭を解決できない場合、双方は該当紛爭を台湾台北地方法院に提出し、第一審管轄の訴訟を行うことに同意します。"</string>
+    <string name="term_user_23">"20. 譲渡不可について
+当プラットフォームの使用権限はお客様個人の使用に基づいて付与されます。お客様は、アカウントおよび関連する権利を第三者に譲渡、賃貸、担保に入れること、または他の方法で移転することはできないと確認し、同意します。 
+また、お客様は当プラットフォームで保有しているいかなる権益、使用権、関連権利、または許可をいかなる第三者に譲渡することができません。"</string>
+    <string name="term_user_24">"21. 通知について
+当プラットフォームは電子メール、プラットフォーム内通知、ウェブサイト告知、またはお客様がご提供された他の連絡情報などを通してお客様に通知を送信できます。
+通知の内容にはサービスの更新、重要なお知らせ、アカウントのセキュリティなど関連情報が含まれる可能性があります。
+プラットフォームが上記の方法で通知を送信した場合、その通知はお客様に届けられたものとみなされ、お客様が実際に通知を読んでいない場合でも、送信された通知には法的拘束力を持ちます。
+お客様は重要な通知を受け取るために、連絡情報の正確性と最新性を維持する義務があります。"</string>
+    <string name="term_user_25">"23. 規約変更について
+関連法令の変更に対応するため、または当プラットフォームが必要と認定された場合、当プラットフォームは通知なしに本契約の内容を変更、修正、追加または削除する権利を持っています。お客様には定期的に使用規約が変更されていないかをご自身で確認する責任があります。
+変更告知後にPlayHornyの「サービス」を継続して利用する場合、お客様が変更を受け入れ、同意したものとみなします。"</string>
+    <string name="term_user_26">"25. 連絡方法
+「規約」や「サービス」に何かご質問やご意見などがございましたら、以下までご連絡ください。"</string>
+    <string name="term_user_27">"22. その他の利用規約
+本規約に同意してゲームを利用するため、お客様はご自身は自然人であり、当プラットフォームに登場するすべてのキャラクターが18歳以上であることを理解し、同意したものとみなします。
+
+技術的またはその他制限により、特定のゲームは特定の地域でのみプレイ可能な場合があります。当社はお客様の地理的位置を確認する技術を使用し、特定地域においての特定ゲームへのアクセスを制限することがあります。お客様がいかなる手段を利用し、自身の所在地を隠したり変更したりすることは固く禁じられています。"</string>
+    <string name="term_user_28">"24. 不可抗力条項
+当プラットフォームが合理的に制御できない、予見できない、または予見可能であっても避けられず、克服できない事象（以下「不可抗力事象」という）については、当プラットフォームは一切の責任を負いません。不可抗力事象には、自然災害（例：洪水、火災、干ばつ、台風、地震）や社会的事象（例：戦争（宣戦布告の有無に関わらず）、騒乱、ストライキ）、政府の行為や法令改正、告知等が含まれますが、これらに限られません。"</string>
+    <string name="term_user_header">利用規約</string>
+    <string name="title_hcoin_terms_text">HCoinサービス利用規約</string>
+    <string name="title_policy_text">プライバシーポリシー</string>
+    <string name="title_term_text">利用規約</string>
+    <string name="wechat_pay">WeChat Pay</string>
+</resources>

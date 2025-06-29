@@ -1,0 +1,55 @@
+version: 2.11.1
+apkFileName: xxlwoofia_v1.0.0_signed.apk
+isFrameworkApk: false
+usesFramework:
+  ids:
+  - 1
+  tag: null
+sdkInfo:
+  minSdkVersion: 24
+  targetSdkVersion: 35
+packageInfo:
+  forcedPackageId: 127
+  renameManifestPackage: null
+versionInfo:
+  versionCode: 1
+  versionName: 1.0.0
+sharedLibrary: false
+sparseResources: false
+compactEntries: false
+doNotCompress:
+- arsc
+- jpg
+- png
+- webp
+- META-INF/services/com.fasterxml.jackson.core.JsonFactory
+- META-INF/services/com.fasterxml.jackson.core.ObjectCodec
+- assets/HotUpdate/2582273c0130c1f6f02761d2edf4efc34d75c667e524d59bc1b81a4235ad4cdf.bytes
+- assets/HotUpdate/2ae4be937f3abda7d69d95731d6f0aec279a4467450eb3e472c4556770ec8968.bytes
+- assets/HotUpdate/53295dc3ba39b1fb4273e4806d7700ffad092b67c506516c02e90f7f4d77cc65.bytes
+- assets/HotUpdate/6fdee7e4395f0475d492896220a15d2e852eab661b9231aac848c9cc6df0d710.bytes
+- assets/HotUpdate/7ee3d53d13124ffb06f88ac3076bd4916284b9b47924bb94860bef22b6ae0c54.bytes
+- assets/HotUpdate/d63bbd2dec7d586205ace2d6113fa6b2600daf5fbd43e3524699275246912360.bytes
+- assets/HotUpdate/d9518ed2659130821bb0f473cd017af009277a4900ef6335ae02ca09ba925f28.bytes
+- assets/HotUpdate/hotfix.json
+- assets/aa/Android/f4bf86976bb3c1c4692607d25802aa2d_unitybuiltinshaders.bundle
+- assets/aa/Android/firstpack_assets_all.bundle
+- assets/aa/Android/localbundle_font_assets_all.bundle
+- assets/aa/Android/localization-local_assets_all.bundle
+- assets/aa/catalog.json
+- assets/aa/settings.json
+- assets/bin/Data/RuntimeInitializeOnLoads.json
+- assets/bin/Data/ScriptingAssemblies.json
+- assets/dexopt/baseline.prof
+- assets/dexopt/baseline.profm
+- assets/google-services-desktop.json
+- okhttp3/internal/publicsuffix/publicsuffixes.gz
+- res/raw/amounts_response.json
+- res/raw/announcement_info.json
+- res/raw/bind_game_id.json
+- res/raw/channel_info.json
+- res/raw/coupons.json
+- res/raw/guess.json
+- res/raw/login_result_1.json
+- res/raw/passes_response.json
+- res/raw/proxy_error.json

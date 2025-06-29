@@ -1,0 +1,814 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="AUTH_REQUIRE_TITLE">需要授权</string>
+    <string name="CAMERA">相机</string>
+    <string name="CHOOSE_IMAGE">选择图片</string>
+    <string name="DOWNLOAD_COMPLETED">下载完成</string>
+    <string name="DOWNLOAD_DESCRIPTION">"将文件保存到“下载”文件夹 "</string>
+    <string name="DOWNLOAD_STARTED">下载已开始</string>
+    <string name="EXTERNAL_WRITE_PERMISSION_LACK">没有外部存储写入权限。</string>
+    <string name="INVALID_URL">无效的 URL</string>
+    <string name="LOADING">加载中…</string>
+    <string name="MEDIA_CAPTURE_PERMISSION_REQUEST">"允许'%1$s'访问%2$s吗？"</string>
+    <string name="MEDIA_CAPTURE_PERMISSION_REQUEST_TITLE">权限请求</string>
+    <string name="MICROPHONE">麦克风</string>
+    <string name="PASSWORD">密码</string>
+    <string name="SAVE_IMAGE">保存图片</string>
+    <string name="USERNAME">用户名</string>
+    <string name="alipay">支付宝</string>
+    <string name="binding_back_btn">返回游戏</string>
+    <string name="binding_btn">登录绑定</string>
+    <string name="binding_confirm_hint">请注意：PlayHorny平台会员账号，在一款游戏中只能绑定一组游戏账号，且绑定后无法再进行更改，请谨慎选择绑定账号。</string>
+    <string name="binding_confirm_text">"绑定后将无法进行修改
+确认开始进行会员绑定？"</string>
+    <string name="binding_fail_error">"绑定失败
+该PlayHorny会员已有游戏绑定，请选择其他账号进行绑定。"</string>
+    <string name="binding_header_text">会员绑定</string>
+    <string name="binding_header_text_en">LOGIN</string>
+    <string name="binding_register_btn">注册绑定</string>
+    <string name="binding_register_success_text">"注册成功并完成绑定！
+欢迎加入PlayHorny可以瑟瑟"</string>
+    <string name="binding_retry_btn">重新绑定</string>
+    <string name="binding_success_text">已成功完成游戏绑定！</string>
+    <string name="china_union_pay">中国银联</string>
+    <string name="cloudflare_refresh_btn">若上方验证无回应，请点击刷新按钮以重新载入页面。</string>
+    <string name="cloudflare_text">若无自动勾选，请手动勾选完成认证！</string>
+    <string name="common_account_empty_error">* 邮箱尚未填写</string>
+    <string name="common_account_invaild_error">* 无效邮件地址</string>
+    <string name="common_back_btn">返回</string>
+    <string name="common_back_previous_btn">回到上一页</string>
+    <string name="common_close_btn">收合</string>
+    <string name="common_count_down_back_text">即将返回上一页：%s 秒</string>
+    <string name="common_login_text">登录</string>
+    <string name="common_no_btn">否</string>
+    <string name="common_ok_btn">确认</string>
+    <string name="common_open_btn">展开</string>
+    <string name="common_password_empty_error">* 密码尚未填写</string>
+    <string name="common_password_rule_error">* 密码需输入8~20字英数混合</string>
+    <string name="common_register_text">注册</string>
+    <string name="common_verfiy_code_empty_error">* 请输入验证码</string>
+    <string name="common_wait_verfiy">* 请等待验证</string>
+    <string name="common_yes_btn">是</string>
+    <string name="credit">信用卡</string>
+    <string name="deposit_account_text">会员账号</string>
+    <string name="deposit_coupon_date_text">有效期限：</string>
+    <string name="deposit_coupon_empty_text">您尚无任何优惠券</string>
+    <string name="deposit_coupon_name_text">回馈券</string>
+    <string name="deposit_coupon_rule_detail_text">"1. 本券仅适用于本平台( 平台「PlayHorny 可以瑟瑟」)。
+
+2. 所有回馈方案仅能择一使用，包括回馈券 、狂欢派对卡的充值回馈等等，上述皆无法合并或多张同时使用。
+
+3. 回馈券会根据会员充值的付费HCoin点数进行百分比的计算，换算成免费HCoin回馈给会员。
+
+部分特定的回馈券有使用期限，如未在期限内使用，則該券將失效，無法再次使用。"</string>
+    <string name="deposit_coupon_rule_text">使用规则</string>
+    <string name="deposit_coupon_text">优惠券</string>
+    <string name="deposit_coupon_use_text">将使用 %s 回馈券获得免费HCoin</string>
+    <string name="deposit_default">其他支付</string>
+    <string name="deposit_fail_text">"购买失败
+请尝试更换付款方式，或连系PlayHorny可以瑟瑟平台客服"</string>
+    <string name="deposit_free_text">(免费)</string>
+    <string name="deposit_invoice_agreement">同意保存本次付款之发票设定，以便下次充值使用。</string>
+    <string name="deposit_invoice_barcode_placeholder">请输入条码</string>
+    <string name="deposit_invoice_code_empty">* 尚未输入条码载具</string>
+    <string name="deposit_invoice_code_invaild">* 条码载具格式有误</string>
+    <string name="deposit_invoice_donation">捐赠发票</string>
+    <string name="deposit_invoice_email">电子信箱</string>
+    <string name="deposit_invoice_email_placeholder">请输入电子信箱</string>
+    <string name="deposit_invoice_email_type">电子信箱</string>
+    <string name="deposit_invoice_ezpay">ezPay电子载具</string>
+    <string name="deposit_invoice_lovdecode_8866_name">新北市流浪猫狗再生保护协会</string>
+    <string name="deposit_invoice_lovdecode_9118595_name">励馨基金会</string>
+    <string name="deposit_invoice_mobile">手机条码载具</string>
+    <string name="deposit_invoice_personal">个人发票</string>
+    <string name="deposit_invoice_title">电子发票</string>
+    <string name="deposit_level_buy_hint_text">购买狂欢派对卡，即可享有额外充值回馈！</string>
+    <string name="deposit_level_percentage_text">等级回馈</string>
+    <string name="deposit_level_season_get_text">回馈可获额度 (免费HCoin)</string>
+    <string name="deposit_level_season_quota_text">回馈可用额度 (付费HCoin)</string>
+    <string name="deposit_partycard_auto_subs">自动订阅</string>
+    <string name="deposit_partycard_empty">尚未购买</string>
+    <string name="deposit_partycard_end_time">目前持有结束时间</string>
+    <string name="deposit_pay_auto_subs_btn">自动订阅</string>
+    <string name="deposit_pay_auto_subs_hint">"请注意，此次购买为自动订阅方案，将在每月到期日后自动续订下一月。
+如欲取消续订，请于到期日之前于 PlayHorny 可以瑟瑟平台的会员中心取消。"</string>
+    <string name="deposit_pay_auto_subs_text" formatted="false">"• 购买狂欢派对卡，可享有额外的充值回馈 (5%~随会员等级提升)，并解锁额外的平台服务。
+• 购买后将即刻发送共计 1,050HCoin、30HPower 及 5% 回馈券五张，若购买单月以上或订阅服务，则每月定期发放奖励！
+• 更多专属优惠详情，可至 PlayHorny 可以瑟瑟平台参阅。"</string>
+    <string name="deposit_pay_btn">前往付款</string>
+    <string name="deposit_pay_checked_hint">同意表示本人已年满18岁且为此支付方式的授权使用者，并同意《使用条款》及《HCoin服务条款》内的所有条例。</string>
+    <string name="deposit_pay_checked_hint_2">本人确认并同意狂欢派对卡生效时，恕不提供退款服务。</string>
+    <string name="deposit_pay_choice_my_coupon_btn">选择我的优惠券</string>
+    <string name="deposit_pay_hint">"• 于游戏内使用HCoin消费时，将会优先使用免费HCoin。
+• HPower可于PlayHorny可以瑟瑟平台使用。 
+• 如有任何疑问请至PlayHorny可以瑟瑟平台查询或联系客服。"</string>
+    <string name="deposit_pay_hint02">"• 于游戏内使用HCoin消费时，将会优先使用免费HCoin。
+• HPower可于PlayHorny可以瑟瑟平台使用。
+• 购买狂欢派对卡可享有会员等级回馈及解锁额外服务，详细资讯请见平台网站。 
+• 等级回馈将会于充值HCoin时优先使用，且无法与其他优惠并用。
+• 如下一笔充值触发升等时，系统优先计算当前升级所需金额，剩余部分套用下一等级的回馈计算。使用等级回馈时，不可与其他优惠并用。
+• 如有任何疑问请至PlayHorny可以瑟瑟平台查询或联络客服。"</string>
+    <string name="deposit_pay_hint_2">※因应各支付方式使用币值差异，实际支付金额请以最后金流付款页面为主。</string>
+    <string name="deposit_pay_text">(付费)</string>
+    <string name="deposit_pay_way_text">支付方式</string>
+    <string name="deposit_payment_bill_error">结账出现异常，请选择其他电子发票选项完成支付</string>
+    <string name="deposit_payment_detail_payment_bank_account_title">銀行帳號：</string>
+    <string name="deposit_payment_detail_payment_bank_code_title">銀行代碼：</string>
+    <string name="deposit_payment_detail_payment_bank_method_text">銀行轉帳</string>
+    <string name="deposit_payment_detail_payment_bottom_hint_1">您的警覺是防範詐騙交易最有效的防線，慎防詐騙以免被有心人士利用。</string>
+    <string name="deposit_payment_detail_payment_bottom_hint_2">本平台絕不會以任何理由要求會員操作ATM或超商代碼補繳金額、分期付款、重複扣款…等。 本平台不會透過任何非官方管道提供您付款結帳資訊，亦不會向您索取任何個人資料。 若您接獲可疑電話或訊息，建議您撥打165反詐騙諮詢專線，或透過平台客服進行查證。</string>
+    <string name="deposit_payment_detail_payment_bottom_hint_3">付款後30分鐘內，系統會發送您購買的項目至您的帳號內，可於平台確認儲值狀態及查詢HC獲取紀錄等。若有任何問題請於平台客服回報，我們將盡快為您處理！</string>
+    <string name="deposit_payment_detail_payment_copy_account_btn">複製帳號</string>
+    <string name="deposit_payment_detail_payment_info_amount_title">訂單金額：</string>
+    <string name="deposit_payment_detail_payment_info_code_title">繳費代碼：</string>
+    <string name="deposit_payment_detail_payment_info_expire_title">繳費有效期限：</string>
+    <string name="deposit_payment_detail_payment_info_method_title">付款方式：</string>
+    <string name="deposit_payment_detail_payment_info_real_pay_title">實際付款金額：</string>
+    <string name="deposit_payment_detail_payment_info_result_success_text">訂單成立</string>
+    <string name="deposit_payment_detail_payment_info_result_title">交易結果訊息：</string>
+    <string name="deposit_payment_detail_payment_info_title">付款資訊</string>
+    <string name="deposit_payment_detail_payment_instructions">操作說明</string>
+    <string name="deposit_payment_detail_payment_store_company_no_title">廠商金流交易序號：</string>
+    <string name="deposit_payment_detail_payment_store_item_title">購買項目：</string>
+    <string name="deposit_payment_detail_payment_store_name_title">商店名稱 : PlayHorny可以瑟瑟平台</string>
+    <string name="deposit_payment_detail_payment_store_service">儲值服務</string>
+    <string name="deposit_payment_detail_payment_store_title">商店資訊</string>
+    <string name="deposit_payment_detail_payment_store_trade_no_title">交易訂單編號：</string>
+    <string name="deposit_payment_detail_payment_time_text">訂單成立時間：</string>
+    <string name="deposit_payment_detail_screenshot_hint_1">"建議您截圖保存此頁付款資訊，以便您日後查詢繳費。
+"</string>
+    <string name="deposit_payment_detail_screenshot_hint_2">我們會將此付款詳細資訊寄送至您的會員帳號信箱內，您可以於信箱收件匣或垃圾郵件匣確認。逾期此繳費銀行帳號將失效，若逾期或不慎遺失付款資訊，請回到PlayHorny可以瑟瑟重新操作儲值流程。</string>
+    <string name="deposit_payment_detail_supermarket_head_text">以下是您的超商付款資訊，請於繳費期限內完成繳費！</string>
+    <string name="deposit_payment_detail_supermarket_teach_title">超商繳費教學：</string>
+    <string name="deposit_payment_detail_vaccount_head_text">以下是您的銀行轉帳資訊，請於繳費期限內完成繳費！</string>
+    <string name="deposit_payment_type_alipay">支付宝</string>
+    <string name="deposit_payment_type_apple">Apple Pay</string>
+    <string name="deposit_payment_type_china_pay">大陆金流</string>
+    <string name="deposit_payment_type_china_union">中国银联</string>
+    <string name="deposit_payment_type_credit">信用卡</string>
+    <string name="deposit_payment_type_credit_international">国际信用卡</string>
+    <string name="deposit_payment_type_epoint">移动支付</string>
+    <string name="deposit_payment_type_google">Google Pay</string>
+    <string name="deposit_payment_type_line">LINE Pay</string>
+    <string name="deposit_payment_type_monthly">信用卡</string>
+    <string name="deposit_payment_type_monthly_credit">信用卡</string>
+    <string name="deposit_payment_type_monthly_twd">信用卡</string>
+    <string name="deposit_payment_type_paypal">Paypal</string>
+    <string name="deposit_payment_type_point_card">点数卡</string>
+    <string name="deposit_payment_type_samsung">Samsung Pay</string>
+    <string name="deposit_payment_type_supermarket_barcode">超商缴费</string>
+    <string name="deposit_payment_type_supermarket_barcode_famiport">全家 FamilyMart</string>
+    <string name="deposit_payment_type_supermarket_barcode_ibon">7-ELEVEN</string>
+    <string name="deposit_payment_type_supermarket_barcode_lifeet">莱尔富 Hi-Life</string>
+    <string name="deposit_payment_type_supermarket_barcode_mobile_7_11">行动扫码(7-11、全家)</string>
+    <string name="deposit_payment_type_supermarket_barcode_mobile_lifeet">行动扫码(莱尔富 Hi-Life)</string>
+    <string name="deposit_payment_type_supermarket_barcode_okgo">OK 超商</string>
+    <string name="deposit_payment_type_telecom">电信小额付费</string>
+    <string name="deposit_payment_type_telecom_aptg">亚太</string>
+    <string name="deposit_payment_type_telecom_chunghwa">中华电信</string>
+    <string name="deposit_payment_type_telecom_chunghwa_hinet">中华电信Hinet</string>
+    <string name="deposit_payment_type_telecom_fetnet">远传</string>
+    <string name="deposit_payment_type_telecom_taiwan_mobile">台湾大哥大</string>
+    <string name="deposit_payment_type_telecom_tstar">台湾之星</string>
+    <string name="deposit_payment_type_vaccount">银行转账</string>
+    <string name="deposit_payment_type_vaccount_ctbc">中国信托</string>
+    <string name="deposit_payment_type_vaccount_esun">玉山银行</string>
+    <string name="deposit_payment_type_vaccount_hncb">华南银行</string>
+    <string name="deposit_payment_type_vaccount_post">中华邮局</string>
+    <string name="deposit_payment_type_vaccount_scsb">上海商银</string>
+    <string name="deposit_payment_type_wechat">微信支付</string>
+    <string name="deposit_remind_text_1">您已有订阅中的狂欢派对卡，如需更改方案，请至 PlayHorny 可以瑟瑟平台订阅管理中修改，并于效期结束后再行购买。</string>
+    <string name="deposit_remind_text_2">您已有进行中的狂欢派对卡，如需更改方案，请于效期结束后再行购买。详细请至 PlayHorny 可以瑟瑟平台查询。</string>
+    <string name="deposit_result_title">HCoin充值</string>
+    <string name="deposit_sub_alreadly_pay_btn">已购买</string>
+    <string name="deposit_sub_change_btn">变更</string>
+    <string name="deposit_sub_day_text">天</string>
+    <string name="deposit_sub_get_detail_text">5%回馈券 x</string>
+    <string name="deposit_sub_get_text">购买立即获得</string>
+    <string name="deposit_sub_month_text">个月</string>
+    <string name="deposit_sub_name_text">狂欢派对卡</string>
+    <string name="deposit_sub_type_text">购买方案</string>
+    <string name="deposit_sub_unlock__detail_text_1">会员等级与充值回馈</string>
+    <string name="deposit_sub_unlock__detail_text_2">专属头像装饰框</string>
+    <string name="deposit_sub_unlock__detail_text_3">解锁商城限定物品</string>
+    <string name="deposit_sub_unlock_detail_text">购买1个月以上或订阅服务，每个月定期发放奖励！</string>
+    <string name="deposit_sub_unlock_text">解锁会员等级服务</string>
+    <string name="deposit_sub_week_text">周</string>
+    <string name="deposit_sub_year_text">年</string>
+    <string name="deposit_success_text">购买成功！</string>
+    <string name="deposit_top_bar_text">持有HCoin</string>
+    <string name="deposit_waiting_text">状态更新中…</string>
+    <string name="epoint">移动支付</string>
+    <string name="error_account_already_binding_game_106">该平台账号已绑定其他游戏账号</string>
+    <string name="error_account_not_found_101">用户不存在</string>
+    <string name="error_accout_unbinding_game_104">此平台账号未绑定游戏账号</string>
+    <string name="error_already_deactivate_1013">已註銷帳號。</string>
+    <string name="error_already_has_task_1002">SDK已有进行中的任务。</string>
+    <string name="error_already_login_1011">已登入，如需更换账号请先登出。</string>
+    <string name="error_binding_cancel_1005">使用者取消绑定。</string>
+    <string name="error_binding_not_guest_1006">使用者不为访客。</string>
+    <string name="error_buy_error_1018">结账失败</string>
+    <string name="error_close_beta_1016">封测期间不开放注册</string>
+    <string name="error_close_beta_320">此账号未取得封测资格</string>
+    <string name="error_default">未知错误</string>
+    <string name="error_deposit_cancel_1010">使用者取消充值。</string>
+    <string name="error_deposit_is_guest_1009">请先会员绑定，再进行充值。</string>
+    <string name="error_deposit_not_login_1008">请先登录会员，再进行充值。</string>
+    <string name="error_duplicate_order_109">订单号码重复</string>
+    <string name="error_game_account_already_binding_105">该游戏账号已被其他平台账号绑定</string>
+    <string name="error_game_account_exist_303">游戏账号已存在</string>
+    <string name="error_game_account_incorrect_301">登录信息错误</string>
+    <string name="error_game_account_not_found_302">游戏账号不存在</string>
+    <string name="error_game_account_verfiy_fail_300">账号密码验证错误</string>
+    <string name="error_guest_open_takeover_1012">访客账号无法使用连动登入，如需更换账号请先登出。</string>
+    <string name="error_iap_billing_unavailable_2005">账单不可用</string>
+    <string name="error_iap_developer_error_2007">交易失败</string>
+    <string name="error_iap_error_2008">交易失败</string>
+    <string name="error_iap_item_already_owned_2009">已经拥有此项目</string>
+    <string name="error_iap_item_not_owned_2010">尚未拥有此项目</string>
+    <string name="error_iap_item_unavailable_2006">项目不可用</string>
+    <string name="error_iap_network_error_2011">网络错误</string>
+    <string name="error_iap_service_disconnected_2003">断线</string>
+    <string name="error_iap_service_unavailable_2004">服务器不可用</string>
+    <string name="error_iap_time_out_2002">逾时</string>
+    <string name="error_iap_user_cancel_2001">使用者取消</string>
+    <string name="error_missing_parameter_107">参数需要包含游戏账户</string>
+    <string name="error_more_login_1021">"登入错误次数过多，账号已被锁定
+请等待10分钟后再试"</string>
+    <string name="error_no_data_10000">沒有資料</string>
+    <string name="error_no_host_use_1015">游戏版本已有新的版本，请到永久页更新版本继续游戏</string>
+    <string name="error_not_enough_coins_110">余额不足</string>
+    <string name="error_not_login_1007">使用者尚未登录。</string>
+    <string name="error_not_setup_1001">请先Setup SDK</string>
+    <string name="error_oauth_login_apple_3004">Apple登录失败</string>
+    <string name="error_oauth_login_fb_3002">FB登录失败</string>
+    <string name="error_oauth_login_google_3001">Google登录失败</string>
+    <string name="error_oauth_login_qoo_3003">QOO登录失败</string>
+    <string name="error_parameter_invaild_102">请求参数有误</string>
+    <string name="error_product_not_found_1017">没有该购买项目</string>
+    <string name="error_refresh_token_fail_1003">Token刷新失败，使用者被登出。</string>
+    <string name="error_request_321">短时间内请求量超过限制</string>
+    <string name="error_setup_data_incomplete_1004">提供的设定数据不完整。</string>
+    <string name="error_sign_invaild_103">签名验证错误</string>
+    <string name="error_system_1020">系统维护中…</string>
+    <string name="error_takeover_back_1014">使用者关闭用户中心。</string>
+    <string name="error_token_311">token过期</string>
+    <string name="error_token_312">token不是正在使用中的</string>
+    <string name="error_token_313">token not found</string>
+    <string name="error_token_314">token验证错误</string>
+    <string name="error_token_315">账号异常，请联络客服以获取协助</string>
+    <string name="error_token_316">refresh token不存在或已过期</string>
+    <string name="error_try_relogin_1019">请尝试重新登录</string>
+    <string name="error_unknown_9999">发生了未知的错误。</string>
+    <string name="forgot_password_account_placeholder">请输入电子信箱账号</string>
+    <string name="forgot_password_header">RESET</string>
+    <string name="forgot_password_header_text">忘记密码</string>
+    <string name="forgot_password_send_btn">重置</string>
+    <string name="forgot_password_send_success_btn">返回登录</string>
+    <string name="forgot_password_send_success_hint">若仍未收到密码重置信或有其他注册问题，请至PlayHorny可以瑟瑟平台联系客服。</string>
+    <string name="forgot_password_send_success_text">"已发送密码重置信
+请至邮箱收取邮件并点击认证连结以完成重置！"</string>
+    <string name="forgot_password_send_verfiy_btn">发送验证码</string>
+    <string name="forgot_password_success_text">恭喜完成密码重置！</string>
+    <string name="forgot_password_verfiy_code_placeholder">请输入电子信箱验证码</string>
+    <string name="hcoin_terms_01">亲爱的用户您好，欢迎来到 可以瑟瑟 ! 在您使用HCoin服务之前，请仔细阅读以下条款。</string>
+    <string name="hcoin_terms_02">可以瑟瑟（以下称「可以瑟瑟」、「我们」或「平台」）提供HCoin服务，旨在让您（以下称「您」、「用户」、「使用者」或「会员」）在平台内使用法定货币充值并获得特定数量的HCoin（以下称为「HCoin」）。HCoin可用于平台内或参与的游戏内购买虚拟货币（以下称为「虚拟货币」）、虚拟商品（以下称为「虚拟商品」）或其他服务。当您使用我们的HCoin服务即表示您接受这些条款，并同意受其约束。</string>
+    <string name="hcoin_terms_03">除本服务条款外，与本公司有关的使用条款和隐私权政策也构成本服务条款的一部分，您同意并遵守本服务条款后始使用HCoin。</string>
+    <string name="hcoin_terms_04">"1. 期间
+游戏平台提供相关服务及营运期。"</string>
+    <string name="hcoin_terms_05">"2. 地区
+游戏平台营运之地区。"</string>
+    <string name="hcoin_terms_06">"3. 对象
+造访、使用或存取游戏平台之用户。"</string>
+    <string name="hcoin_terms_07">"4. 购买付费
+在可以瑟瑟服务（以下简称「服务」）中，除了提供免费游戏，您能使用法定货币进行交易，购买HCoin及「服务」提供的其他付费商品。您必须年满18岁或确认您已经达到所在居住地区/国家的成人年龄才可购买。当您确认购买意向时，您的指定支付方式和提供的支付信息将被转交至第三方金流机构，以便处理相关费用事宜，同时将透过电子邮件收到消费明细。
+您了解并同意，您账号中所产生的所有费用，不论是否由您本人产生，均需由您本人承担支付。即便在取消或终止账号后，我们仍保留权利向您收取取消或终止前已产生之费用。"</string>
+    <string name="hcoin_terms_08">"5. HCoin
+HCoin根据其获取途径分为两种类型，包括：
+(1)付费HCoin：
+透过交易购买「付费HCoin」（以下简称「付费HCoin」）之后，此类HCoin是透过使用法定货币购买获得的，可用于特定游戏内进行虚拟货币、虚拟商品或其他服务的付款。该HCoin将作为用户账号内的数位资产存在。
+(2)免费HCoin：
+免费HCoin（以下简称「免费HCoin」）是透过平台「服务」而获得的HCoin，其价值与「付费HCoin」相等。用户可以在特定活动或条件下取得「免费HCoin」，并在游戏中使用以进行虚拟货币、虚拟商品或其他服务的付款，该免费HCoin将作为用户账号内的有时效限制的数位资产，您不得要求退还、转让或转换。
+
+使用平台内的「服务」或进行「付费HCoin」购买项目所额外获得赠送特定数量的HPower能量（以下简称「HPower」），属赠礼性质，用户不得要求退款。HPower仅限于平台内部使用，可用于购买平台上提供的各种服务和商品，但仅限于平台的范畴内。如用户账号同时拥有「付费HCoin」和「免费HCoin」，平台在扣除时将优先使用「免费HCoin」，只有当「免费HCoin」余额不足时才会扣除「付费HCoin」。
+我们保有HCoin的所有权、持有权、发行权以及任何相关权利。而游戏所使用的虚拟货币和虚拟商品的发行则由特定游戏的拥有者或经营者负责。本公司仅对本平台上所经营之网站贩售的HCoin负责，若经由其他非官方管道取得之HCoin与本公司无关，亦不得使用于平台上，请您为了确保自身权益切勿在非本公司所经营之平台上获取任何虚拟货币及虚拟商品。"</string>
+    <string name="hcoin_terms_09">"6. HCoin有效期限
+使用法定货币购买的HCoin不受时效限制，可在全年范围内使用。同理，随附所得之HPower时效亦同。然而，透过平台「服务」获得的免费HCoin将受到时效限制，自取得时间起算，有效期为180天，逾期的免费HCoin将自动失效，无法以任何方式进行退款、赔偿、偿还或重新启用。
+您了解并同意，如因免费HCoin过期而产生损失，该损失由您个人承担责任。"</string>
+    <string name="hcoin_terms_10">"7. HCoin使用限制
+您同意在平台上持有之HCoin仅享有您个人有限使用。绝不能将HCoin、HPower、虚拟货币、虚拟商品或任何平台内购买的商品转让、共享、租赁、交换、交易、赠与、出售、授权或以任何方式向他人转换为法定货币金额或等同价值的物品。在用户账号被暂停或终止时，您的账号内的HCoin、HPower、虚拟货币、虚拟商品和已购买的平台「服务」商品将无法继续使用，并将自动失效。"</string>
+    <string name="hcoin_terms_11">"8. 退款
+一旦您使用法定货币购买HCoin及「服务」商品、HPower或游戏内虚拟货币、虚拟商品等，计入您的账号后通常将不予退还或退款。本平台商品并不适用消费者保护法第19条第1项七日犹豫期解除权规定，一旦商品计入您的账号，即无法恢复或退款。请您选择购买时务必谨慎确认要购买的品项、数量及内容，并仔细核对金额，一经购买后即刻生效，无退款要件时亦不提供退款服务。
+(1)如用户自行与本平台的合约终止，意旨欲删除账号的使用权，可提出申请退款，一旦提出申请后不得以任何理由要求恢复账号。
+(2)平台「服务」还提供其他使用法定货币购买的优惠项目（以下简称「优惠项目」），若用户欲退回已购买但未使用之优惠项目，本平台将依购买时价格、产品性质等确认是否具备退款要件后返还退款金额或HCoin。
+
+退款为扣除下述费用后，本平台应在三十个工作日内透过汇款方式退还用户以法定货币购得「付费 HCoin」但尚未使用之部分。
+● 必要成本内含：通路已收取手续费、网站营运费、人工处理费…等。
+● 汇款手续费：依用户收款银行因汇款所产生之手续费。
+● 其他费用：因用户办理退费特殊状况下延伸之个人费用。
+计算方式如下：用户剩余未使用的「付费HCoin」扣除上述费用。
+
+(3)如平台所提供之游戏遭遇终止营运情况下，导致用户在该游戏内账号停止使用。若游戏方决定委托平台进行相关退款程序，则平台负有责任确定用户在游戏内尚未使用之虚拟货币数量，并协助用户进行退款程序。我们仅对使用「付费HCoin」购得之虚拟货币进行退款。在此程序中，我们将透过评估游戏内虚拟货币的实际数量，依据「付费HCoin」的兑换比率，退还相对应的「付费HCoin」数量。
+
+但包括下列任一项原因，则不予退款 :
+● 用户违反本《HCoin 服务条款》、《使用条款》或《隐私权政策》的规定。
+● 以虚伪、变造、修改或其他非法行为方式获取HCoin。
+● 本公司接获确实在法律上有疑虑、不可抗力因素或其他合理理由，得暂时停止用户行使账号权利时。"</string>
+    <string name="hcoin_terms_12">"9. 修改和终止
+本平台保留不经通知随时修改HCoin服务的权利。用户继续阅读或使用可以瑟瑟的「服务」即视为同意遵守修改后的使用条款。我们拥有权利随时修改或终止HCoin及HCoin服务。
+"</string>
+    <string name="hcoin_terms_13">"10. 有限责任
+对于因无法使用HCoin而造成您的任何损害或不利益，除法律另有規定、本公司有故意或重大過失外概不負責。本公司有故意责任外概不负责。在本公司调查疑似违规行为期间或本公司因认定已发生违反本服务条款的行为，而决定移除或拒绝处理任何资讯或内容，或警告您、暂停或终止您存取服务，或采取任何其他行动之后，您同意您不得基于前述因素对 本公司及其董事、主管、员工、关系企业、代理商、承包商或授权人提出诉讼或要求损害赔偿。本放弃与赔偿规定适用于所有本服务条款所述及涵盖的违规行为。"</string>
+    <string name="hcoin_terms_14">"11. 其他条款
+本条款受制于平台的其他相关条款和政策，包括但不限于《使用条款》和《隐私权政策》。在使用HCoin服务时，您同意遵守所有适用的条款和政策。若本条款的任何条款之一部被认定为无效或不可执行，该无效或不可执行的部分不影响其他部分的有效性与可执行性。"</string>
+    <string name="hcoin_terms_content">"亲爱的用户您好，欢迎来到 可以瑟瑟 ! 在您使用HCoin服务之前，请仔细阅读以下条款。
+
+可以瑟瑟（以下称「可以瑟瑟」、「我们」或「平台」）提供HCoin服务，旨在让您（以下称「您」、「用户」、「使用者」或「会员」）在平台内使用法定货币充值并获得特定数量的HCoin（以下称为「HCoin」）。HCoin可用于平台内或参与的游戏内购买虚拟货币（以下称为「虚拟货币」）、虚拟商品（以下称为「虚拟商品」）或其他服务。当您使用我们的HCoin服务即表示您接受这些条款，并同意受其约束。
+
+除本服务条款外，与本公司有关的使用条款和隐私权政策也构成本服务条款的一部分，您同意并遵守本服务条款后始使用HCoin。
+
+1. 期间
+游戏平台提供相关服务及营运期。
+
+2. 地区
+游戏平台营运之地区。
+
+3. 对象
+造访、使用或存取游戏平台之用户。
+
+4. 购买付费
+在可以瑟瑟服务（以下简称「服务」）中，除了提供免费游戏，您能使用法定货币进行交易，购买HCoin及「服务」提供的其他付费商品。您必须年满18岁或确认您已经达到所在居住地区/国家的成人年龄才可购买。当您确认购买意向时，您的指定支付方式和提供的支付信息将被转交至第三方金流机构，以便处理相关费用事宜，同时将透过电子邮件收到消费明细。
+您了解并同意，您账号中所产生的所有费用，不论是否由您本人产生，均需由您本人承担支付。即便在取消或终止账号后，我们仍保留权利向您收取取消或终止前已产生之费用。
+
+5. HCoin
+HCoin根据其获取途径分为两种类型，包括：
+(1)付费HCoin：
+透过交易购买「付费HCoin」（以下简称「付费HCoin」）之后，此类HCoin是透过使用法定货币购买获得的，可用于特定游戏内进行虚拟货币、虚拟商品或其他服务的付款。该HCoin将作为用户账号内的数位资产存在。
+(2)免费HCoin：
+免费HCoin（以下简称「免费HCoin」）是透过平台「服务」而获得的HCoin ，其价值与「付费HCoin」相等。用户可以在特定活动或条件下取得「免费HCoin」，并在游戏中使用以进行虚拟货币、虚拟商品或其他服务的付款，该免费HCoin将作为用户账号内的有时效限制的数位资产，您不得要求退还、转让或转换。
+
+使用平台内的「服务」或进行「付费HCoin」购买项目所额外获得赠送特定数量的HPower能量（以下简称「HPower」），属赠礼性质，用户不得要求退款。HPower仅限于平台内部使用，可用于购买平台上提供的各种服务和商品，但仅限于平台的范畴内。如用户账号同时拥有「付费HCoin」和「免费HCoin」，平台在扣除时将优先使用「免费HCoin」，只有当「免费HCoin」余额不足时才会扣除「付费HCoin」。
+我们保有HCoin的所有权、持有权、发行权以及任何相关权利。而游戏所使用的虚拟货币和虚拟商品的发行则由特定游戏的拥有者或经营者负责。本公司仅对本平台上所经营之网站贩售的HCoin负责，若经由其他非官方管道取得之HCoin与本公司无关，亦不得使用于平台上，请您为了确保自身权益切勿在非本公司所经营之平台上获取任何虚拟货币及虚拟商品。
+
+6. HCoin有效期限
+使用法定货币购买的HCoin不受时效限制，可在全年范围内使用。同理，随附所得之HPower时效亦同。然而，透过平台「服务」获得的免费HCoin将受到时效限制，自取得时间起算，有效期为180天，逾期的免费HCoin将自动失效，无法以任何方式进行退款、赔偿、偿还或重新启用。
+您确认并同意，如因免费HCoin过期而产生损失，该损失由您个人承担责任。
+
+7. HCoin使用限制
+您同意在平台上持有之HCoin仅享有您个人有限使用。绝不能将HCoin、HPower、虚拟货币、虚拟商品或任何平台内购买的商品转让、共享、租赁、交换、交易、赠与、出售、授权或以任何方式向他人转换为法定货币金额或等同价值的物品。在用户账号被暂停或终止时，您的账号内的HCoin、HPower、虚拟货币、虚拟商品和已购买的平台「服务」商品将无法继续使用，并将自动失效。
+
+8. 退款
+一旦您使用法定货币购买HCoin及「服务」商品、HPower或游戏内虚拟货币、虚拟商品等，计入您的账号后通常将不予退还或退款。本平台商品并不适用消费者保护法第19条第1项七日犹豫期解除权规定，一旦商品计入您的账号，即无法恢复或退款。请您选择购买时务必谨慎确认要购买的品项、数量及内容，并仔细核对金额，一经购买后即刻生效，无退款要件时亦不提供退款服务。
+(1)如用户自行与本平台的合约终止，意旨欲删除账号的使用权，可提出申请退款，一旦提出申请后不得以任何理由要求恢复账号。
+(2)平台「服务」还提供其他使用法定货币购买的优惠项目（以下简称「优惠项目」），若用户欲退回已购买但未使用之优惠项目，本平台将依购买时价格、产品性质等确认是否具备退款要件后返还退款金额或HCoin。
+
+退款为扣除下述费用后，本平台应在三十个工作日内透过汇款方式退还用户以法定货币购得「付费 HCoin」但尚未使用之部分。
+● 必要成本内含：通路已收取手续费、网站营运费、人工处理费…等。
+● 汇款手续费：依用户收款银行因汇款所产生之手续费。
+● 其他费用：因用户办理退费特殊状况下延伸之个人费用。
+计算方式如下：用户剩余未使用的「付费HCoin」扣除上述费用。
+
+(3)如平台所提供之游戏遭遇终止营运情况下，导致用户在该游戏内账号停止使用。若游戏方决定委托平台进行相关退款程序，则平台负有责任确定用户在游戏内尚未使用之虚拟货币数量，并协助用户进行退款程序。我们仅对使用「付费HCoin」购得之虚拟货币进行退款。在此程序中，我们将透过评估游戏内虚拟货币的实际数量，依据「付费HCoin」的兑换比率，退还相对应的「付费HCoin」数量。
+
+但包括下列任一项原因，则不予退款 :
+● 用户违反本《HCoin 服务条款》、《使用条款》或《隐私权政策》的规定。
+● 以虚伪、变造、修改或其他非法行为方式获取HCoin。
+● 本公司接获确实在法律上有疑虑、不可抗力因素或其他合理理由，得暂时停止用户行使账号权利时。
+
+9. 修改和终止
+本平台保留不经通知随时修改HCoin服务的权利。用户继续阅读或使用可以瑟瑟的「服务」即视为同意遵守修改后的使用条款。我们拥有权利随时修改或终止HCoin及HCoin服务。
+
+
+10. 有限责任
+对于因无法使用HCoin而造成您的任何损害或不利益，除法律另有規定、本公司有故意或重大過失外概不負責。本公司有故意责任外概不负责。在本公司调查疑似违规行为期间或本公司因认定已发生违反本服务条款的行为，而决定移除或拒绝处理任何资讯或内容，或警告您、暂停或终止您存取服务，或采取任何其他行动之后，您同意您不得基于前述因素对 本公司及其董事、主管、员工、关系企业、代理商、承包商或授权人提出诉讼或要求损害赔偿。本放弃与赔偿规定适用于所有本服务条款所述及涵盖的违规行为。
+
+11. 其他条款
+本条款受制于平台的其他相关条款和政策，包括但不限于《使用条款》和《隐私权政策》。在使用HCoin服务时，您同意遵守所有适用的条款和政策。若本条款的任何条款之一部被认定为无效或不可执行，该无效或不可执行的部分不影响其他部分的有效性与可执行性。
+
+"</string>
+    <string name="hcoin_terms_header">HCoin服务条款</string>
+    <string name="home_guest_btn">访客登录</string>
+    <string name="home_hcoin_terms_btn">HCoin服务条款</string>
+    <string name="home_login_btn">平台会员登录</string>
+    <string name="home_privacy_policy_btn">隐私权政策</string>
+    <string name="home_register_btn">注册会员</string>
+    <string name="home_term_user_btn">使用条款</string>
+    <string name="level_01">瑟民</string>
+    <string name="level_03">瑟长</string>
+    <string name="level_05">瑟将</string>
+    <string name="level_07">瑟王</string>
+    <string name="level_09">瑟皇</string>
+    <string name="level_100">瑟圣</string>
+    <string name="level_11">瑟魔</string>
+    <string name="level_description_text_07">"此页显示当前等级及其所需的升级和保等条件，以及会员等级和充值回馈说明：
+
+• 等级回馈
+根据充值「付费HCoin」计算回馈，这个比例会随着玩家等级的提升而增加，让玩家在充值时获得更多的「免费HCoin」。当有额度时，这些回馈会优先使用，确保你获得最佳优惠！
+
+• 回馈可用额度
+指在一定的「付费HCoin」范围内，玩家充值时可以用来计算回馈的金额上限。这个额度决定了玩家能获得多少「免费HCoin」。只有在这个额度内的充值金额才能获得回馈，超过的部分就无法计算进去。
+
+• 回馈可获额度
+根据「回馈可用额度」和「等级回馈」计算出来的「免费HCoin」额度。这是玩家每月可以获得的「免费HCoin」上限，并且在狂欢派对卡有效期限内每月重置一次。
+
+计算公式为：「回馈可用额度」 × 「等级回馈」 = 「回馈可获额度」。
+
+✦ 「回馈可用额度」和「回馈可获额度」将在狂欢派对卡有效期限内，每月重置一次，重置时间以启用狂欢派对卡的日期为准。
+✦ 会员等级将于每年 6月30日、12月31日 凌晨04：00 ( GMT+8 ) 进行等级核算，并归零保等累计的HPower。若达到当前的保等条件，便可维持当前等级。
+✦ 若未达当前等级的保等条件，将会于新的季度降低一个等级并归零经验条。
+✦ 当取得派对卡后，才能够开始累积升等所需的HPower，进而提升等级。
+✦ 当狂欢派对卡的使用期限到期后，充值获得的HPower将不再纳入会员等级机制，停止升等，但仍会在每季核算日后持续降等。重新购买狂欢派对卡后即可再次计算。
+✦等级回馈将会于充值HCoin时优先使用，且无法与其他优惠并用。
+✦如下一笔充值触发升等时，系统优先计算当前升级所需金额，剩余部分套用下一等级的回馈计算。使用等级回馈时，不可与其他优惠并用。
+✦ 可至 PlayHorny【常见问题】查看更详细狂欢派对卡说明。"</string>
+    <string name="level_description_text_07_light_white">每年 6月30日、12月31日 凌晨04：00 ( GMT+8 )</string>
+    <string name="level_description_text_08">Level up</string>
+    <string name="level_description_text_09">(HPower)</string>
+    <string name="level_description_text_10">Level up (HPower)</string>
+    <string name="level_description_text_11">• 等级回馈</string>
+    <string name="level_description_text_12">根据充值「付费HCoin」计算返利，这个比例会随着玩家等级的提升而增加，让玩家在充值时获得更多的「免费HCoin」。</string>
+    <string name="level_description_text_13">• 回馈可用额度</string>
+    <string name="level_description_text_14">指在一定的「付费HCoin」范围内，玩家充值时可以用来计算回馈的金额上限。</string>
+    <string name="level_description_text_15">• 回馈可获额度</string>
+    <string name="level_description_text_16">这是玩家每月可以获得的「免费HCoin」上限，并且</string>
+    <string name="level_description_text_17">在狂欢派对卡有效期限内每月重置一次</string>
+    <string name="level_description_text_18">计算公式为：「回馈可用额度」 × 「等级回馈」 = 「回馈可获额度」。</string>
+    <string name="level_description_text_19">每年 6月30日、12月31日 凌晨04：00 ( GMT+8 )</string>
+    <string name="level_description_text_20">Max</string>
+    <string name="loading">Loading…</string>
+    <string name="loading_text">验证你是人类</string>
+    <string name="login_account_not_found_error">* 账号或密码错误</string>
+    <string name="login_account_placeholder">请输入会员账号</string>
+    <string name="login_error_text">账号异常，请联络客服以获取协助</string>
+    <string name="login_forgot_password_btn">忘记密码</string>
+    <string name="login_header_text">会员登录</string>
+    <string name="login_header_text_en">LOG IN</string>
+    <string name="login_password_placeholder">请输入密码</string>
+    <string name="login_qoo_btn">QooApp</string>
+    <string name="login_register_btn">注册会员</string>
+    <string name="login_remember_text">记住我的账号</string>
+    <string name="login_remind01_btn">继续访客</string>
+    <string name="login_remind02_btn">前往注册</string>
+    <string name="login_remind_text">是否继续以访客身份游玩？为避免游戏纪录遗失，建议您注册账号保存进度。</string>
+    <string name="login_verfiy_text">帐号认证</string>
+    <string name="member_accout_qoo_text">QooApp會員</string>
+    <string name="member_accout_text">PlayHorny可以瑟瑟会员</string>
+    <string name="member_binding_account_btn">绑定账号</string>
+    <string name="member_binding_account_hint">请绑定账号以保存您的游戏资料</string>
+    <string name="member_count_down_text">"请等待 %s 秒资料更新…
+或您可返回游戏继续游玩，等待资料更新。"</string>
+    <string name="member_deposit_btn">HCoin充值</string>
+    <string name="member_guest_account_text">访客账号</string>
+    <string name="member_hcoin_terms_btn">HCoin服务条款</string>
+    <string name="member_now_login_text">目前登录账号</string>
+    <string name="member_playhorny_text">PlayHorny可以瑟瑟登入</string>
+    <string name="member_polices_btn">条款政策</string>
+    <string name="member_privacy_policy_btn">隐私权政策</string>
+    <string name="member_qoo_text">QooApp登入</string>
+    <string name="member_service_btn">客服中心</string>
+    <string name="member_suspension_remind_text">可至平台查看收到的停权通知，如欲知详细停权资讯请询问PlayHorny客服。</string>
+    <string name="member_suspension_warning_text">因您违反了使用条款，部分功能受到停权，停权期间无法进行充值HCoin或购买会员卡等服务。</string>
+    <string name="member_takeover_account_text">账号资料连动</string>
+    <string name="member_term_user_btn">使用条款</string>
+    <string name="member_title_text">用户中心</string>
+    <string name="monthly">信用卡</string>
+    <string name="monthly_credit">信用卡</string>
+    <string name="partycard_detail_text_01">下次发送奖励时间</string>
+    <string name="partycard_detail_text_02">本期最后奖励已发送</string>
+    <string name="partycard_expired">再次购买狂欢派对卡，解锁会员等级服务！</string>
+    <string name="partycard_have_01">距保等条件还需</string>
+    <string name="partycard_have_02">本季核算日：</string>
+    <string name="partycard_level_01">"恭喜您等级提升
+等级回馈及回馈可获额度提升 ↑"</string>
+    <string name="partycard_level_02">"会员等级下降 1 等
+等级回馈及回馈可获额度降低 ↓"</string>
+    <string name="partycard_nohave">未持有狂欢派对卡</string>
+    <string name="partycard_windows_btn">继续购买</string>
+    <string name="partycard_windows_text">"您目前已拥有生效中的狂欢派对卡，本次购买将延长您的狂欢派对卡效期，但奖励将不会立即发送。
+
+• 每月仅发送一次奖励，不会重复发送当月奖励。
+• 新购买的狂欢派对卡奖励将排入后续发送计划，按照每月顺序依次发送，不会同时发送多份奖励。
+
+请确认您已了解，再进行购买操作！"</string>
+    <string name="partycard_windows_text_01">本次购买将延长您的狂欢派对卡效期，但奖励将不会立即发送。</string>
+    <string name="paypal">Paypal</string>
+    <string name="point_card">点数卡</string>
+    <string name="privacy_policy_01">亲爱的用户您好，欢迎来到可以瑟瑟 ! 请先仔细阅读《隐私权政策》，即您的个人信息保护法。</string>
+    <string name="privacy_policy_02">可以瑟瑟（以下称「可以瑟瑟」、「我们」或「平台」）非常重视造访、使用或/和存取的您（以下称「您」、「用户」、「使用者」或「会员」）的隐私权。我们将遵循当地法律中的《个人信息保护法》（PDPA），以确保您个人信息的隐私保护。本声明旨在说明我们对于个人信息的处理方法。</string>
+    <string name="privacy_policy_03">当您进行服务时，即表示您愿意以电子文件之方式行使法律所赋予同意之权利，并具有书面同意之效果。</string>
+    <string name="privacy_policy_04">"1. 期间
+游戏平台提供相关服务及营运期。"</string>
+    <string name="privacy_policy_05">"2. 地区
+游戏平台营运之地区。"</string>
+    <string name="privacy_policy_06">"3. 对象
+造访、使用或存取游戏平台之用户。"</string>
+    <string name="privacy_policy_07">"4. 搜集个人信息之使用方式
+本公司之使用方式在于进行会员管理服务、行销推广，以及内部的统计调查与分析，仅供您同意之服务目的及本公司相关人员内部在相关联之范围内使用及利用（包含抽奖、赠送奖品及活动相关事宜）。"</string>
+    <string name="privacy_policy_08">"5. 搜集个人信息之类别
+个人信息涵盖下列各项识别信息：
+(1)用户在建立平台账号时所提供的信息，包括但不限于电子邮箱地址、备用电子邮箱地址、密码、出生日期、年龄、用户ID或任何您所提供的信息。这些信息有助于您的识别和身份验证，以及进行账号相关的操作；
+(2)您使用或存取平台时所使用的装置信息，例如Android、iOS或个人电脑等装置类型，以及与您的装置相关联的IP地址。我们将使用这些信息，以协助确定您的使用状况，提供可以瑟瑟服务（以下简称「服务」）；
+(3)我们可能将搜集您的付款信息，包括您的账单邮寄地址和付款方式的信息，例如银行详细信息、信用卡、签账卡或其他付款卡信息相关的纪录，以及追踪连接到第三方金流网页的交易状况。
+(4)在您迫切需要平台协助时，我们可能会搜集您在回报问题时所提供的信息；
+(5)透过Cookie等技术，我们可能会自动收集和处理您的个人信息，其中包括但不限于您的浏览历史、访问日期与时间、浏览器类型、操作系统、装置信息以及IP地址等。
+这些信息的搜集旨在改善我们的平台功能，提升用户体验，并根据您的喜好和浏览习惯进行相关的个性化优化。请注意，您可以在浏览器设定中进行相关的调整，以限制或阻止这些技术的使用，但可能会影响您在平台上部分功能的使用。"</string>
+    <string name="privacy_policy_09">"6. 搜集个人信息之目的
+我们搜集个人信息的目的包括：
+(1)提供针对「服务」的用户体验，同时改进平台、为稽核或信息分析等内部目的；
+(2)提供个性化的广告和宣传；
+(3)维护与用户的沟通和关系，查询回应和支援提供；
+(4)在商业交易中，个人信息可能被应用于纪录交易细节，以确保订单处理和付款等步骤顺畅进行；
+(5)为保障平台安全性，防止未经授权的活动，我们可能使用个人信息进行监测。在特定情况下，个人信息可能被运用于遵守法律、规章或法庭指令之要求。"</string>
+    <string name="privacy_policy_10">"7. 第三方存取个人信息
+在某些情况下，我们可能会与第三方合作伙伴合作，以提供更好的服务和功能。这些合作伙伴可能在我们的平台上存取用户的个人信息，以协助执行特定的功能，我们可能会与这些合作公司分享的信息包括但不限于：
+(1)用于提供游戏内容和功能所需的基本用户信息；
+(2)用于处理支付和充值的金融信息；
+(3)用于显示相关广告和促销活动的用户兴趣和行为数据；
+我们将会与这些合作伙伴签订契约，要求他们遵守我们的隐私政策和相关法律规定，以确保您的个人信息得到适当的保护。然而，我们无法对第三方合作伙伴的行为和做法负责，请您在与第三方合作时谨慎处理您的个人信息。
+
+根据适用的法律规定，若政府机构、执法机关或其他法律主管机构发函要求提供为了调查或防止非法活动、诈欺、对人身安全有潜在威胁等触法行为，本公司将配合调查提供用户的个人信息。在这些情况下，我们将根据法律的要求，提供必要的用户个人信息。我们会尽力确保在这种情况下保护用户的隐私权，同时遵循相关的法律和法律程序。然而，我们无法对法律主管机关对用户个人信息的使用和处理负责。
+
+在公司合并、收购或其他业务转让情况下，我们可能会与第三方共享用户的个人信息。我们会在合并、收购或业务转让前，将相关信息通知用户，并取得您的同意。在这些情况下，我们将确保共享个人信息的合法性和合规性，并将努力确保用户的隐私权得到适当保护。"</string>
+    <string name="privacy_policy_11">"8. Cookie和追踪技术
+Cookie是一种小型文本文件，内部通常包含着匿名的独特识别符。当您造访网站时，该网站会在您的设备上储存这些Cookie，以方便日后辨识您的设备。我们在平台上可能使用多种不同种类的Cookie及其他技术。这类技术可协助我们更充分了解使用者行为，包括为安全和诈骗防范目的，告诉我们使用者曾浏览过网站的哪些部分，并可促进及衡量广告与网络搜寻的效益。其用途包括但不限于：
+(1)基本功能Cookie： 
+这些Cookie对于网站的正常运行至关重要，可辨识平台会员，确保用户登入和身份验证的安全性。
+(2)个人化Cookie：
+这类Cookie允许我们记录您的行为和偏好，以便在您下次访问时提供更加个人化的体验。
+(3)分析和性能Cookie：
+我们可能使用这些Cookie来匿名地收集用户行为数据，以协助我们分析和改进平台的性能和功能。
+(4)广告Cookie：
+基于您的访问和互动行为，我们有可能使用广告Cookie，以提供更具针对性的广告体验。
+您可以随时掌握并管理Cookie的使用情况。大多数浏览器都提供设定选项，允许您选择是否拒绝或删除Cookie。然而，值得留意的是，如果您禁用或删除Cookie，可能会影响您在平台上的部分功能使用。"</string>
+    <string name="privacy_policy_12">"9. 年龄限制
+我们限制未满18岁的未成年人(或位于所在居住地区/国家中尚未达到成人年龄)的用户在平台使用或存取。本平台内容可能包含专为成人设计的娱乐内容，并可能不适合未满18岁或在其居住地区/国家中未达法定成年年龄的人士，任何违反此条款的行为都将被视为违规。"</string>
+    <string name="privacy_policy_13">"10. 账号处置
+若本平台发现某账号属于未成年人，将有权立即终止该账号的使用权限。本平台将采取适当的行动，确保该未成年人不再存取或使用平台，本平台呼吁所有家长和监护人加强对其未成年子女的监督，以确保未成年人不得存取或使用本平台。"</string>
+    <string name="privacy_policy_14">"11. 保留信息
+本平台将保留您的个人信息，以履行法律法规的要求、法律诉讼、税务报告或其他目的等合规性需求。我们平台个人信息保留期限，自您的账号被终止后，至少保留5年期限。在此期限届满后，我们将采取合理的技术和组织措施，确保您的个人信息得到删除或销毁，以确保您的隐私权和信息安全。"</string>
+    <string name="privacy_policy_15">"12. 使用者权利
+自您开始使用或存取我们平台后，即视为您同意我们处理您的个人信息，然而，您仍保留随时撤回同意的权利。根据个人信息保护法（PDPA），您拥有以下法定权利，我们将在遵守法律规定的前提下协助您行使这些权利：
+(1)信息存取权：
+您有权查询和存取您的个人信息，包括了解我们是否处理您的个人信息以及处理的目的，并提出提供复制本需求。若您提出复制本需求，我们将酌收成本(人工查询费)。
+(2)更正权：
+若您的个人信息有误，您有权要求我们进行更正和更新。
+(3)删除权：
+在特定情况下，您有权要求我们删除您的个人信息，例如数据处理不再符合法律要求或我们不再需要这些数据。
+(4)限制处理权：
+在特定情况下，您有权要求我们限制处理您的个人信息，例如在您对数据的准确性提出争议时。
+若您希望行使上述权利，请通过书面方式联系我们。我们将根据适用法律法规的要求，协助您处理相关事宜。您可自由选择是否提供本公司您的个人信息，但若特定信息字段系属必填字段者，您若不提供该等信息，则可能造成无法使用本公司相关的产品及服务。建议您应提供完整的个人信息及随时更新。若因您未提供完整且确实的个人信息，造成您及第三人发生损害时，您应负担一切责任。若您所提供之个人信息，经举报或本公司发现不足以确认您的身份真实性或无法联系到您本人，及其他个人信息冒用、盗用、信息不实等情形，本公司有权暂时停止提供对您的服务，若有不便之处敬请见谅。"</string>
+    <string name="privacy_policy_16">"13. 安全措施
+我们致力于实施适当的技术和组织措施，以确保您的个人信息免受未经授权的存取、使用、变更或泄露。我们采取了一系列技术和组织措施，以确保您的个人信息的安全性，包括但不限于：
+(1)我们使用加密技术来保护您的敏感信息，在数据传输和存储过程中，保障您的信息不受未经授权的访问；
+(2)我们实施严格的存取控制，仅授予有需要的员工或合作伙伴有限的访问权限，以确保个人信息仅被授权人员访问；
+(3)我们定期进行系统监控和审计，以识别和应对任何可能的安全风险或漏洞。
+尽管我们采取了各种安全措施，但保护个人信息的安全也需要您的协助。我们建议您定期更改密码，勿将账号信息分享给他人，并使用安全的设备和网络。"</string>
+    <string name="privacy_policy_17">"14. 隐私权修改/更新
+我们可能为配合相关法令适时修订《隐私权政策》的条款内容。本平台保留不经通知随时修改使用条款的权利，请您自行密切注意网站上公告之隐私权政策。当您继续阅读或使用「可以瑟瑟」的「服务」即视为您已阅读、了解并同意遵守修改后的使用条款，如您不同意本隐私权政策，请您立即停止使用本公司所提供之服务(包含产品)。"</string>
+    <string name="privacy_policy_18">"15. 联系方式
+有任何关于隐私政策的问题或意见，欢迎随时联系我们。我们期待能为你们提供最好的服务！"</string>
+    <string name="privacy_policy_content">"亲爱的用户您好，欢迎来到可以瑟瑟 ! 请先仔细阅读《隐私权政策》，即您的个人信息保护法。
+
+可以瑟瑟（以下称「可以瑟瑟」、「我们」或「平台」）非常重视造访、使用或/和存取的您（以下称「您」、「用户」、「使用者」或「会员」）的隐私权。我们将遵循当地法律中的《个人信息保护法》（PDPA），以确保您个人信息的隐私保护。本声明旨在说明我们对于个人信息的处理方法。
+
+当您进行服务时，即表示您愿意以电子文件之方式行使法律所赋予同意之权利，并具有书面同意之效果。
+
+1. 期间
+游戏平台提供相关服务及营运期。
+
+2. 地区
+游戏平台营运之地区。
+
+3. 对象
+造访、使用或存取游戏平台之用户。
+
+4. 搜集个人信息之使用方式
+本公司之使用方式在于进行会员管理服务、行销推广，以及内部的统计调查与分析，仅供您同意之服务目的及本公司相关人员内部在相关联之范围内使用及利用（包含抽奖、赠送奖品及活动相关事宜）。
+
+5. 搜集个人信息之类别
+个人信息涵盖下列各项识别信息：
+(1)用户在建立平台账号时所提供的信息，包括但不限于电子邮箱地址、备用电子邮箱地址、密码、出生日期、年龄、用户ID或任何您所提供的信息。这些信息有助于您的识别和身份验证，以及进行账号相关的操作；
+(2)您使用或存取平台时所使用的装置信息，例如Android、iOS或个人电脑等装置类型，以及与您的装置相关联的IP地址。我们将使用这些信息，以协助确定您的使用状况，提供可以瑟瑟服务（以下简称「服务」）；
+(3)我们可能将搜集您的付款信息，包括您的账单邮寄地址和付款方式的信息，例如银行详细信息、信用卡、签账卡或其他付款卡信息相关的纪录，以及追踪连接到第三方金流网页的交易状况。
+(4)在您迫切需要平台协助时，我们可能会搜集您在回报问题时所提供的信息；
+(5)透过Cookie等技术，我们可能会自动收集和处理您的个人信息，其中包括但不限于您的浏览历史、访问日期与时间、浏览器类型、操作系统、装置信息以及IP地址等。
+这些信息的搜集旨在改善我们的平台功能，提升用户体验，并根据您的喜好和浏览习惯进行相关的个性化优化。请注意，您可以在浏览器设定中进行相关的调整，以限制或阻止这些技术的使用，但可能会影响您在平台上部分功能的使用。
+
+6. 搜集个人信息之目的
+我们搜集个人信息的目的包括：
+(1)提供针对「服务」的用户体验，同时改进平台、为稽核或信息分析等内部目的；
+(2)提供个性化的广告和宣传；
+(3)维护与用户的沟通和关系，查询回应和支援提供；
+(4)在商业交易中，个人信息可能被应用于纪录交易细节，以确保订单处理和付款等步骤顺畅进行；
+(5)为保障平台安全性，防止未经授权的活动，我们可能使用个人信息进行监测。在特定情况下，个人信息可能被运用于遵守法律、规章或法庭指令之要求。
+
+7. 第三方存取个人信息
+在某些情况下，我们可能会与第三方合作伙伴合作，以提供更好的服务和功能。这些合作伙伴可能在我们的平台上存取用户的个人信息，以协助执行特定的功能，我们可能会与这些合作公司分享的信息包括但不限于：
+(1)用于提供游戏内容和功能所需的基本用户信息；
+(2)用于处理支付和充值的金融信息；
+(3)用于显示相关广告和促销活动的用户兴趣和行为数据；
+我们将会与这些合作伙伴签订契约，要求他们遵守我们的隐私政策和相关法律规定，以确保您的个人信息得到适当的保护。然而，我们无法对第三方合作伙伴的行为和做法负责，请您在与第三方合作时谨慎处理您的个人信息。
+
+根据适用的法律规定，若政府机构、执法机关或其他法律主管机构发函要求提供为了调查或防止非法活动、诈欺、对人身安全有潜在威胁等触法行为，本公司将配合调查提供用户的个人信息。在这些情况下，我们将根据法律的要求，提供必要的用户个人信息。我们会尽力确保在这种情况下保护用户的隐私权，同时遵循相关的法律和法律程序。然而，我们无法对法律主管机关对用户个人信息的使用和处理负责。
+
+在公司合并、收购或其他业务转让情况下，我们可能会与第三方共享用户的个人信息。我们会在合并、收购或业务转让前，将相关信息通知用户，并取得您的同意。在这些情况下，我们将确保共享个人信息的合法性和合规性，并将努力确保用户的隐私权得到适当保护。
+
+8. Cookie和追踪技术
+Cookie是一种小型文本文件，内部通常包含着匿名的独特识别符。当您造访网站时，该网站会在您的设备上储存这些Cookie，以方便日后辨识您的设备。我们在平台上可能使用多种不同种类的Cookie及其他技术。这类技术可协助我们更充分了解使用者行为，包括为安全和诈骗防范目的，告诉我们使用者曾浏览过网站的哪些部分，并可促进及衡量广告与网络搜寻的效益。其用途包括但不限于：
+(1)基本功能Cookie： 
+这些Cookie对于网站的正常运行至关重要，可辨识平台会员，确保用户登入和身份验证的安全性。
+(2)个人化Cookie：
+这类Cookie允许我们记录您的行为和偏好，以便在您下次访问时提供更加个人化的体验。
+(3)分析和性能Cookie：
+我们可能使用这些Cookie来匿名地收集用户行为数据，以协助我们分析和改进平台的性能和功能。
+(4)广告Cookie：
+基于您的访问和互动行为，我们有可能使用广告Cookie，以提供更具针对性的广告体验。
+您可以随时掌握并管理Cookie的使用情况。大多数浏览器都提供设定选项，允许您选择是否拒绝或删除Cookie。然而，值得留意的是，如果您禁用或删除Cookie，可能会影响您在平台上的部分功能使用。
+
+9. 年龄限制
+我们限制未满18岁的未成年人(或位于所在居住地区/国家中尚未达到成人年龄)的用户在平台使用或存取。本平台内容可能包含专为成人设计的娱乐内容，并可能不适合未满18岁或在其居住地区/国家中未达法定成年年龄的人士，任何违反此条款的行为都将被视为违规。
+
+10. 账号处置
+若本平台发现某账号属于未成年人，将有权立即终止该账号的使用权限。本平台将采取适当的行动，确保该未成年人不再存取或使用平台，本平台呼吁所有家长和监护人加强对其未成年子女的监督，以确保未成年人不得存取或使用本平台。
+
+11. 保留信息
+本平台将保留您的个人信息，以履行法律法规的要求、法律诉讼、税务报告或其他目的等合规性需求。我们平台个人信息保留期限，自您的账号被终止后，至少保留5年期限。在此期限届满后，我们将采取合理的技术和组织措施，确保您的个人信息得到删除或销毁，以确保您的隐私权和信息安全。
+
+12. 使用者权利
+自您开始使用或存取我们平台后，即视为您同意我们处理您的个人信息，然而，您仍保留随时撤回同意的权利。根据个人信息保护法（PDPA），您拥有以下法定权利，我们将在遵守法律规定的前提下协助您行使这些权利：
+(1)信息存取权：
+您有权查询和存取您的个人信息，包括了解我们是否处理您的个人信息以及处理的目的，并提出提供复制本需求。若您提出复制本需求，我们将酌收成本(人工查询费)。
+(2)更正权：
+若您的个人信息有误，您有权要求我们进行更正和更新。
+(3)删除权：
+在特定情况下，您有权要求我们删除您的个人信息，例如数据处理不再符合法律要求或我们不再需要这些数据。
+(4)限制处理权：
+在特定情况下，您有权要求我们限制处理您的个人信息，例如在您对数据的准确性提出争议时。
+若您希望行使上述权利，请通过书面方式联系我们。我们将根据适用法律法规的要求，协助您处理相关事宜。您可自由选择是否提供本公司您的个人信息，但若特定信息字段系属必填字段者，您若不提供该等信息，则可能造成无法使用本公司相关的产品及服务。建议您应提供完整的个人信息及随时更新。若因您未提供完整且确实的个人信息，造成您及第三人发生损害时，您应负担一切责任。若您所提供之个人信息，经举报或本公司发现不足以确认您的身份真实性或无法联系到您本人，及其他个人信息冒用、盗用、信息不实等情形，本公司有权暂时停止提供对您的服务，若有不便之处敬请见谅。
+
+13. 安全措施
+我们致力于实施适当的技术和组织措施，以确保您的个人信息免受未经授权的存取、使用、变更或泄露。我们采取了一系列技术和组织措施，以确保您的个人信息的安全性，包括但不限于：
+(1)我们使用加密技术来保护您的敏感信息，在数据传输和存储过程中，保障您的信息不受未经授权的访问；
+(2)我们实施严格的存取控制，仅授予有需要的员工或合作伙伴有限的访问权限，以确保个人信息仅被授权人员访问；
+(3)我们定期进行系统监控和审计，以识别和应对任何可能的安全风险或漏洞。
+尽管我们采取了各种安全措施，但保护个人信息的安全也需要您的协助。我们建议您定期更改密码，勿将账号信息分享给他人，并使用安全的设备和网络。
+
+14. 隐私权修改/更新
+我们可能为配合相关法令适时修订《隐私权政策》的条款内容。本平台保留不经通知随时修改使用条款的权利，请您自行密切注意网站上公告之隐私权政策。当您继续阅读或使用「可以瑟瑟」的「服务」即视为您已阅读、了解并同意遵守修改后的使用条款，如您不同意本隐私权政策，请您立即停止使用本公司所提供之服务(包含产品)。
+
+15. 联系方式
+有任何关于隐私政策的问题或意见，欢迎随时联系我们。我们期待能为你们提供最好的服务！
+
+"</string>
+    <string name="privacy_policy_header">隐私权政策</string>
+    <string name="register_account_placeholder">请输入电子信箱账号</string>
+    <string name="register_birthday_empty_error">* 您的生日尚未填写</string>
+    <string name="register_birthday_placeholder">请输入您的生日</string>
+    <string name="register_birthday_verify_error">"注册失败
+因您尚未成年无法进行注册"</string>
+    <string name="register_header_en">Register</string>
+    <string name="register_header_text">注册会员</string>
+    <string name="register_member_agree_text">请确认您已满18岁或达到所在地区的法定成年年龄。</string>
+    <string name="register_member_remind_text">注册即视为您同意本平台的《使用条款》及《隐私权政策》</string>
+    <string name="register_member_verify_puzzle_text">拖动拼图至空缺内完成验证</string>
+    <string name="register_password_confirm_empty_error">* 确认密码尚未填写</string>
+    <string name="register_password_confirm_not_match_error">* 与密码不匹配</string>
+    <string name="register_password_confirm_placeholder">请再次确认密码</string>
+    <string name="register_password_placeholder">请输入密码</string>
+    <string name="register_success_btn">开始游戏</string>
+    <string name="register_success_hint">记得至平台完成会员账号认证，以确保账户权益哦！</string>
+    <string name="register_success_text">"注册成功！
+欢迎加入PlayHorny可以瑟瑟"</string>
+    <string name="register_terms_confirm_text">我已阅读并同意 使用条款 及 隐私权政策</string>
+    <string name="reset_password_verfiy_code_error_text">验证码错误</string>
+    <string name="select_coupon_05_text">将使用会员等级回馈获得免费HCoin</string>
+    <string name="select_coupon_06_text">此笔充值升等后，将使用会员等级回馈获得免费HCoin</string>
+    <string name="supermarket_barcode">超商缴费</string>
+    <string name="telecom">电信小额付费</string>
+    <string name="term_user_01">"亲爱的用户您好，欢迎来到可以瑟瑟 ! 请让我们先向您介绍一下使用条款
+这些条款是为了保障您权益，并确保每个人在平台上都能愉快而安全地使用。"</string>
+    <string name="term_user_02">本使用条款（以下简称「条款」）的目的在规范您（以下称「您」、「用户」、「使用者」或「会员」）在使用可以瑟瑟平台（以下称「可以瑟瑟」、「我们」或「平台」）时的行为和权利。无论您是作为访客或会员，当您使用或存取平台、特定游戏的网站、客户支援、社交媒体、社群媒体管道以及我们授权的第三方提供的其他线上服务（以下简称「服务」）时，均受到本条款的约束。本条款构成您与可以瑟瑟之间的法律协议，请务必详细阅读。</string>
+    <string name="term_user_03">一旦您存取、使用可以瑟瑟服务，即视为您确认已阅读并理解本条款的内容，并同意受其约束。如果您不同意或无法遵守以下这些条款，请您停止或取消使用「服务」。</string>
+    <string name="term_user_04">"1. 期间
+游戏平台提供相关服务及营运期。"</string>
+    <string name="term_user_05">"2. 地区
+游戏平台营运之地区。"</string>
+    <string name="term_user_06">"3. 对象
+下载、造访、使用或存取游戏平台之用户。"</string>
+    <string name="term_user_07">"4. 使用资格
+您必须年满18岁，或确认您已经达到所在居住地区/国家，其法律要求能够查看成人内容及有完全行为能力的年龄，且您同意我们的服务协议，并完全有能力履行及遵守本使用条款，才能使用可以瑟瑟平台。若您未满18岁或您在所在居住地区/国家是未成年人，您不得使用可以瑟瑟平台。"</string>
+    <string name="term_user_08">"5. 使用者帐号
+当您设立帐号时，您同意向我们提供真实且准确的个人资讯，并确保您提交的所有资料都是正确无误的。若您提供任何虚假、不准确或不完整的资讯，或违反我们与您之间的任何条款，我们有权利拒絕您的註冊、暂停或终止您的帐号，对平台「服务」的使用。
+
+您所持有的帐号资讯（包括密码）之安全性应由您自行负责维护，且不得将帐号资讯提供、出售或共享给第三方，亦不得使用平台任何其他使用者的帐号密码。若您未妥善保存与保密此等资讯，导致您帐号发生的任何及所有活动，均完全由您负责。如有未经授权者使用您的帐号或密码，或发现其他安全漏洞，您同意立即通知我们。若您未妥善保存与保密自身的帐号资讯，致使他人使用您的帐号或密码，则您须负责赔偿平台或平台任何其他使用者或访客因此导致之损失。若您未能遵守上述义务，导致任何损失或损害，平台无法且不会负担任何责任。
+
+游戏中您可能会取得游戏内之相关虚拟物品（例如：虚拟财产、物品、状态显示、增益、武器、装备、头像等）。您亦有可能购买游戏内物品或因其他原因取得游戏内物品。但您了解并同意游戏内物品仅在虚拟世界有意义，并无任何货币价值，且不能转售或兑换现金。我们虽允许您存取游戏内物品或游戏内容但我们保留一切游戏内物品或内容之所有权利。因此，我们有权随时删除或修改您帐户或您可以存取的任何游戏内物品或内容，而无须通知或承担任何责任。"</string>
+    <string name="term_user_09">"6. 隐私权
+本平台收集的资料受当地法律约束，使用「服务」即表示您已阅读并理解且同意我们的「隐私权政策」。
+请注意，我们可能会依照法规不定期更新条款，您继续使用可以瑟瑟「服务」即视为您接受最新的条款。在法律允许的范畴内，您有权提出合适的个人资料请求，经审核后可要求修改或删除资料。有关个人资料的详细内容，请参阅可以瑟瑟的《隐私权政策》（隐私权政策内容您可于后述网址确认：https://www.playhorny.com/zh-CN/terms-of-service）。
+使用服务即视为您确认并同意网路传输存在风险并非完全安全且隐密。您了解他人可能读取或拦截您向本平台传送的讯息或资讯，即使有特殊通知指出特定传输（例如信用卡资讯）已经加密亦同。"</string>
+    <string name="term_user_10">"7. 使用权规则
+可以瑟瑟授予您个人有限、非专属、不可转授权、不可转让且可撤销的使用权利，并您仅出于个人的非商业目的，使用「服务」及其随附的内容存取权限。只要您遵守适用法律的限制且在您本人或本平台未终止您的帐号的情况下，您仅拥有此使用权，但如您有违反本条款及其相关条款或其他不当、有违法之虞之行为（以本平台之调查认定为准），本平台有权随时限制、撤销、终止、暂停、拒绝您的注册或取消您的使用权利，并视情节配合调查或处理不当、有违法之虞之行为。
+在适用法律所允许的最大范围内，任何未明文授予的权利、持有权、所有权和利益均归本平台所有。"</string>
+    <string name="term_user_11">"8. 使用者行为和责任
+您承诺并同意在使用「服务」时，受到「条款」及《隐私权政策》的约束，且遵守本「条款」及《隐私权政策》的规则，不得尝试或从事以下行为：
+(1)生成任何令人或特定群体反感、反对、损害平台或他人权益、触犯当地或国际法律法条的资讯或内容；
+(2)转出、转售或发表任何我们或其他用户未公开的资讯内容；
+(3)以任何方式声称官方身份，传播虚假资讯、不当令人反感内容、违法网站、垃圾邮件广告，或任何与违法活动相关的资讯。同时，您不得透过攻击、威胁或侵犯等不当手段，对部分或全部用户进行不当行为；
+(4)使用非法或不当手段，意图损害、中断或终止平台「服务」运作等行为，包括但不限于分散式拒绝服务（DDoS）攻击、恶意软件、SQL注入攻击、跨站脚本（XSS）攻击、跨站请求伪造（CSRF）攻击、网站破坏、伪造或冒用、窜改或数据泄露、社交工程或其他影响平台安全等攻击档案；
+(5)使用任何装置、软件或程序，干扰或试图干扰本服务的正常运作或于本服务进行之任何交易，或他人对本服务之使用；
+(6)非经平台或「服务」授权抓取、收集或存取本平台可以瑟瑟的任何相关内容以及资讯；
+(7)非经平台或「服务」授权以商业用途出售、租赁、同意或转授权本平台可以瑟瑟的任何相关内容以及资讯；
+(8)盗用信用卡、账号转售、利用漏洞、作弊等非法或不当之行为；
+(9)建立/使用不实身份、假冒他人、建立多重账号或与第三方共享账号资讯；
+(10)在未经授权下使用、存取或收集其他用户的账号资讯； 
+(11)违反任何适用法规或当地地区/国家的法规；
+(12)其他本平台经调查判断认定有违法之虞或不当之行为； 
+(13)协助、允许或诱导他人或使用任何装置、软件或程序执行上述任何一项行为；
+需留意，特定游戏的适用条款或许涵盖了特定的法律要求。该等条款可能包含对于法律法规的特殊规定。您明确了解且同意，您的行为应尊重且遵守当地文化与习俗，并遵循当地的法律法规。如您违反上述任何条款，我们有权利发出警告、终止您的账号或拒绝您的注册，且视情节配合调查或处理不当、有违法之虞之行为 ，并暂停或取消您对「服务」的使用，而无需事先通知。"</string>
+    <string name="term_user_12">"9. 使用者生成内容
+您可透过本平台的「服务」生成内容，包括但不限于文字、图片、影音或其他相关素材，而您需自行承担您所生成内容的行为和言论之责任。您应确保您的生成内容不包含任何令人反感、反对或不当之内容。您在平台生成的内容，无论形式如何，皆属于您的个人责任范畴。
+本平台对于用户所生成之内容并不背书，亦不对其承担任何法律责任。您同意，我们保留在不事先通知的情况下，编辑、删除或以其他方式处理任何涉嫌不当、未经授权或引起反感或反对的内容的权利。您同意上述规则，不得尝试、从事、上传、发表或散布以下行为：
+（1）具意图伤害、诽谤、威胁、骚扰、侵犯、恐吓、仇恨、虐待、歧视、诈欺、霸凌或冒犯他人等，可能引起特定人群反感或反对的资讯内容；
+（2）含有暴力、性虐待、人兽性交、强迫性质或侵害未成年人权益等而无艺术性的「硬蕊」（Hardcore）猥亵内容；
+（3）任何带有争议性的资讯，包括但不限于 : 宗教、政治、种族、性别等；
+（4）侵犯平台或他人知识产权、隐私权、人格权以及其他权益；
+（5）未经授权的商业/非商业广告、第三方连结或任何相关推销内容；
+（6）意图损害平台或其他用户权益的档案、连结等任何资讯；
+（7）我们或其他用户的非公开资讯内容；
+（8）任何可能损害平台或他人声誉的不当行为、言论或资讯；
+（9）以进行性行为、性交易或其他违反公序良俗为目的之行为；
+（10）与本服务预定使用目的不同之行为；
+（11）其他经本平台判断认定有违法之虞或不当之行为。
+您明确了解且同意，您的行为应尊重且遵守当地文化与习俗，并遵循当地的法律法规。如您违反上述所提的任何条款，我们有权利发出警告、暂停、终止您的账号、拒绝您的注册并视情节配合调查或处理不当、有违法之虞之行为，并暂停或取消您对「服务」的使用，而无需事先通知。我们欢迎您于本平台发文或以信件联络我们，但您应保证您的相关发文内容或信件内容不会侵害本平台或任何第三方的权利。您不得就您的发文或信件内容对本公司、其他授权者或第三方供应商主张任何权利。"</string>
+    <string name="term_user_13">"10. 知识产权（IPR）
+所有在本平台上出现的文字、图像、图片、视频、音讯、标志、标志设计、插图、软件、源代码、档案、HTML以及其他与「服务」相关资料内容的一切权利、所有权及利益（包含但不限于著作权、专利权、商标权、及其他知识产权其该等权利之申请或注册的权利等），均为可以瑟瑟及其他授权者或第三方供应商所有，受当地地区和国际版权法保护。这些内容的版权归属于我们或其他授权者或第三方供应商。除经书面授权外，严禁以任何方式复制、修改、散布、传播、公开展示或进行其他任何侵犯版权的行为。
+
+本平台上的所有商标、服务标志、商号、域名等知识产权（包含但不限于著作权、专利权、商标权、及其他知识产权其该等权利之申请或注册的权利等），均为我们或其他授权者或第三方供应商所有。未经书面授权，禁止使用、重制、逆向工程、解译或以其他方式侵犯我们的知识产权。除非另有明示注明，本平台上的内容仅供个人、非商业用途使用。任何未经授权的商业用途，包括但不限于重制、销售、传输、改作、散布、授权、创作衍生作品、再发布或分发等行为，皆属严格禁止之行为。
+
+本平台可能包含指向第三方网站的超链接，这些网站有可能拥有独立的知识产权政策。对于这些第三方网站的内容或政策，我们不承担责任。使用这些连结所产生的风险将由用户自行承担。"</string>
+    <string name="term_user_14">"11. 付款和退款
+您在平台上购买商品或服务，将根据您所选择的付款方式进行付款。请注意所有服务及数位内容的销售均为已确定之交易，因此原则上我们无法进行退款。但如法律另有规定者，则不在此限。 退款规则将依据我们的《HCoin服务条款》进行退款处理。"</string>
+    <string name="term_user_15">"12. 第三方内容和连结
+我们的「服务」或许包含指向其他网站的超连结，允许用户前往、使用或存取第三方资料内容。您承认并同意，我们不承担任何外部网站的法律责任和赔偿责任。假如您在使用第三方网站时产生疑虑或遭受损害，请前往相关网站以取得进一步的谘询。
+无论是因为外部网站的服务、商品或任何相关权益而导致您遭受损害，我们都不会承担任何直接或间接的法律责任。"</string>
+    <string name="term_user_16">"13. 平台和游戏帐号绑定
+本平台提供游戏UserID（以下简称「UID」）与平台帐号绑定的功能「服务」，借由平台帐号的登入，可在不同设备之间同步您的游戏进度和游戏数据。您可以且仅能将一个平台帐号与平台各款游戏的一组UID绑定。同款游戏如有多个UID，仅能择取一组UID绑定一个平台帐号。一旦绑定成功则无法再进行更改或取消绑定帐号，请谨慎选择和评估。"</string>
+    <string name="term_user_17">"14. 免责声明
+本平台提供的「服务」，系按「现状」，于「可用范围」内提供。本服务所提供之一切资讯均可能变更，恕不另行通知。我们尽力确保内容的准确性和完整性，但不保证服务或其任何内容、服务或功能完全无错误或不中断，或任何瑕疵将获得修正，或您使用服务时可获得特定结果。同时，我们不对您使用「服务」的准确性或适用性做出任何保证，亦不保证其能够符合您的特定需求。使用者应自行对所提供的内容进行独立的验证和评估，并自行承担相关风险。
+
+本平台不对于您或其他任何第三方因使用我们「服务」内容而导致的任何损失、损害、法律诉讼或其他后果负责。我们不对任何直接、间接、偶然、附带、惩罚或特殊的损害赔偿负责，如系统设备进行迁移、更换或维护时、天灾、不可抗力或其他重大事由造成本平台服务停止或中断、使用者违反本使用条款等，即使我们已被事先告知可能性，我们不负任何责任。
+
+使用本平台相关「服务」时请自行注意游戏使用时间、避免沉迷、游戏虚拟情节勿模仿。部分内容或服务需另行支付其他费用。"</string>
+    <string name="term_user_18">"15. 法律限制
+我们对于因使用或无法使用本平台「服务」所产生的任何间接、偶发、特殊或衍生性损害概不负责，包括但不限于利润损失、商誉损失、业务中断或资料损失。在使用「服务」时，用户应自行承担风险。我们不对因使用「服务」而产生的任何损害或损失负责，包括但不限于因技术故障、网络中断或第三方行为所导致的损失。
+
+在涉及「服务」的交易、交易行为或任何交易活动之情形，可以瑟瑟仅作为平台提供者，为厂商或其他用户与您之间的契约关系的设立提供介面。本平台不涉入、牵涉或参与任何交易活动的实际进程或交涉。涉及买卖、交易或其他交易行为的一切事宜，将完全由相关的厂商、其他用户以及您之间直接进行和负责。本平台不承担介入、监控或干预此类交易行为的责任。
+
+如您因使用本平台「服务」而导致的损失或损害是因为您违反本使用条款或其他相关合约、条款，则本平台概不负责。 但如该损失或损害是因本平台或其他授权方之故意或重大过失，则在适用法律所容许的范围内，于任何情况下，我们的赔偿责任不超过您在索赔事由发生半年内（180天）透过本平台支付给「可以瑟瑟」的总金额。"</string>
+    <string name="term_user_19">"16. 终止
+您确认并同意，若有下列情事 （包括但不限于），我们无需事前通知或理由，得全权裁量并终止您对本平台「服务」的使用权之权利（包含但不限于HCoin等）：
+(1)违反使用条款，包括但不限于虚假陈述、侵犯他人知识产权 、操纵或损害平台运作、传播不当内容、或参与不法活动等情况或其他我们认为有必要采取的原因；
+(2)经执法机关或其他政府机关要求；
+(3) 经您提出申请 （自行删除账号）；
+(4)本平台所提供或透过本平台提供的服务停止或经重大修改；
+(5)不可预期的技术问题；
+(6)其他本公司判断有必要终止的情况 。
+
+您有权利随时自行选择终止使用「可以瑟瑟」的「服务」。在您的账户被终止后，您将无法再访问或使用相关服务。
+根据台湾法律，一般情况下，您的个人资料将被保留至少5年。我们依法规仅保留必要的个人资料以达到合法的业务目的。
+在您的个人资料保留期限届满后，我们将采取以下步骤以确保您的个人资料安全和隐私：
+• 首先，我们将删除您的个人资料，确保其不再被保存或使用。
+• 其次，如果法律允许，我们可能对您的资料进行匿名处理，仅保留匿名处理后的资料，以进行改善服务统计分析或其他合法用途，同时确保您的个人身份不再能被识别。
+我们致力于实施必要的技术和组织措施，以确保您的个人资料的安全性，并避免其受到不当的使用。"</string>
+    <string name="term_user_20">"17. 赔偿与责任
+若用户违反本隐私政策或其他相关使用条款，导致我们、我们的关联企业、高级职员、员工、代理人、合作伙伴或其他相关第三方遭受损失、需支付赔偿或支出费用（包括但不限于律师与诉讼费用），用户同意赔偿相关损失、支付赔偿并承担所产生的所有费用。
+我们不对用户因违反使用条款所造成的任何直接、间接、偶发、特殊、相应或惩罚性的损害承担任何责任，即使我们已被告知可能会有此类损害的发生。用户明确理解并同意，我们不对由于用户违反法律、违反本隐私政策或其他相关使用条款而可能导致的任何损害或损失承担任何责任。"</string>
+    <string name="term_user_21">"18. 条款效力可分割
+如本「条款」的任何条款之一部因任何原因被判定或宣布为违法、无效或不可执行，则该条款视为「可分割」存在，其余条款的仍具有效力。"</string>
+    <string name="term_user_22">"19. 争议和法律管辖
+双方同意，任何争议应首先经过双方合理努力协商解决。透过书面提议，说明争议的具体事实和情况，并允许接收方在三十（30）天内回应或解决争议。
+任何因或与本协议、本平台「服务」或其使用相关的争议、索赔或争端，包括其解释、效力、违反、终止或无效性等，应先提交仲裁解决。仲裁将按照本平台指定的方式进行仲裁，仲裁地点将为本平台指定的地区。
+如果协商未能达成解决，双方同意提交仲裁解决，并遵守本平台指定的仲裁机构。如果仲裁无法解决争议，双方同意将该争议提交至台湾台北地方法院进行第一审管辖的诉讼。"</string>
+    <string name="term_user_23">"20. 不可转让
+本平台的使用权限是根据您个人的使用而授予的，您确保并同意，不得将您的帐号和相关权益转让、出租、质押或以其他方式移转给任何第三方。也不得转让您在本平台所享有的任何权益、使用权、任何相关权利或许可给任何第三方。"</string>
+    <string name="term_user_24">"21. 通知
+本平台可以透过电子邮件、平台内部通知、网站公告或您提供的其他联络资讯等方式向您发送通知。通知的内容可能包括但不限于关于服务更新、重要提示、帐户安全等相关资讯。
+一旦平台透过上述任何方式发送通知，该通知将被视为已送达给您，即使您未实际读取通知，发送的通知仍对您具有法律约束力。用户有义务保持其联络资讯的准确性和最新性，以确保能够接收到重要通知。"</string>
+    <string name="term_user_25">"23. 条款修改
+本平台为配合相关法令异动或本平台认有必要时，有权不经通知随时自行决定变更、修改、增加或移除本条款任何内容。您应自行负责定期检查本使用条款是否有变更。凡在变更公告后继续使用可以瑟瑟的「服务」，即视为您接受并同意此等变更。\""</string>
+    <string name="term_user_26">"25. 联络方式
+如您对「条款」或「服务」有任何疑问或意见回馈，请联络我们。"</string>
+    <string name="term_user_27">"22. 其他条款
+为签署本条款并使用游戏，您同意您是自然人，且您同意并知悉本平台上所出现之所有角色皆已超过18岁。
+
+由于技术或其他限制，特定游戏可能只能限定某些区域游玩。我们可能使用技术验证您的地理位址并限制特定区域存取特定游戏，您不得使用任何跳板等的技术或方法隐藏或变更您的所在区域。"</string>
+    <string name="term_user_28">"24. 不可抗力
+就本平台不能合理控制的、无法预料或即使可预料也不可避免且无法克服之事件（即不可抗力事由），本平台将不承担任何责任。不可抗力事由包含但不限于自然灾害如水灾、火灾、旱灾、台风、地震，以及社会事件如战争（不论曾否宣战）、动乱、罢工，政府行为或法令修正、公告等。 
+"</string>
+    <string name="term_user_header">使用条款</string>
+    <string name="title_hcoin_terms_text">HCoin服务条款</string>
+    <string name="title_policy_text">隐私权政策</string>
+    <string name="title_term_text">使用条款</string>
+    <string name="wechat_pay">微信支付</string>
+</resources>

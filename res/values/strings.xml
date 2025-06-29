@@ -1,0 +1,978 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="AUTH_REQUIRE_TITLE">Authorization Required</string>
+    <string name="CAMERA">Camera</string>
+    <string name="CHOOSE_IMAGE">Choose image</string>
+    <string name="DOWNLOAD_COMPLETED">Download Completed</string>
+    <string name="DOWNLOAD_DESCRIPTION">Save file to the \"Downloads\" folder</string>
+    <string name="DOWNLOAD_STARTED">Download started.</string>
+    <string name="EXTERNAL_WRITE_PERMISSION_LACK">No external storage write permission.</string>
+    <string name="FreeformWindowOrientation_landscape" />
+    <string name="FreeformWindowOrientation_portrait" />
+    <string name="FreeformWindowSize_maximize" />
+    <string name="FreeformWindowSize_phone" />
+    <string name="FreeformWindowSize_tablet" />
+    <string name="INVALID_URL">Invalid URL</string>
+    <string name="LOADING">Loading…</string>
+    <string name="MEDIA_CAPTURE_PERMISSION_REQUEST">"Allow '%1$s' to access %2$s?"</string>
+    <string name="MEDIA_CAPTURE_PERMISSION_REQUEST_TITLE">Permission Request</string>
+    <string name="MICROPHONE">Microphone</string>
+    <string name="PASSWORD">Password</string>
+    <string name="SAVE_IMAGE">Save Image</string>
+    <string name="USERNAME">Username</string>
+    <string name="abc_action_bar_home_description">Navigate home</string>
+    <string name="abc_action_bar_up_description">Navigate up</string>
+    <string name="abc_action_menu_overflow_description">More options</string>
+    <string name="abc_action_mode_done">Done</string>
+    <string name="abc_activity_chooser_view_see_all">See all</string>
+    <string name="abc_activitychooserview_choose_application">Choose an app</string>
+    <string name="abc_capital_off">OFF</string>
+    <string name="abc_capital_on">ON</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">space</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">Search…</string>
+    <string name="abc_searchview_description_clear">Clear query</string>
+    <string name="abc_searchview_description_query">Search query</string>
+    <string name="abc_searchview_description_search">Search</string>
+    <string name="abc_searchview_description_submit">Submit query</string>
+    <string name="abc_searchview_description_voice">Voice search</string>
+    <string name="abc_shareactionprovider_share_with">Share with</string>
+    <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
+    <string name="abc_toolbar_collapse_description">Collapse</string>
+    <string name="alipay">Alipay</string>
+    <string name="androidx_startup">androidx.startup</string>
+    <string name="app_name">xxlwoofia</string>
+    <string name="binding_back_btn">Return to game</string>
+    <string name="binding_btn">Login to bind</string>
+    <string name="binding_confirm_hint">Please note: A PlayHorny member account can only be bound to one game account per game, after which changes cannot be made. Please choose your linked account carefully.</string>
+    <string name="binding_confirm_text">"After binding, changes cannot be made.
+Start binding?"</string>
+    <string name="binding_fail_error">"Binding Failed
+This PlayHorny member is already bound to this game. Please choose another account for binding."</string>
+    <string name="binding_header_text">Member Binding</string>
+    <string name="binding_header_text_en">LOGIN</string>
+    <string name="binding_register_btn">Register &amp; Binding</string>
+    <string name="binding_register_success_text">"Registration and binding completed!
+Welcome to PlayHorny!"</string>
+    <string name="binding_retry_btn">Rebind</string>
+    <string name="binding_success_text">Binding completed!</string>
+    <string name="call_notification_answer_action">Answer</string>
+    <string name="call_notification_answer_video_action">Video</string>
+    <string name="call_notification_decline_action">Decline</string>
+    <string name="call_notification_hang_up_action">Hang Up</string>
+    <string name="call_notification_incoming_text">Incoming call</string>
+    <string name="call_notification_ongoing_text">Ongoing call</string>
+    <string name="call_notification_screening_text">Screening an incoming call</string>
+    <string name="china_union_pay">UnionPay</string>
+    <string name="close_drawer">Close navigation menu</string>
+    <string name="close_sheet">Close sheet</string>
+    <string name="cloudflare_refresh_btn">"If the verification didn't work, please click the refresh button."</string>
+    <string name="cloudflare_text">If not automatically ticked, please manually tick the box to complete the verification!</string>
+    <string name="collapsed">Collapsed</string>
+    <string name="com.crashlytics.android.build_id">1d238864-0443-4d10-ba2a-dd55c8eaf2ef</string>
+    <string name="com.google.firebase.crashlytics.unity_version">2022.3.52f1</string>
+    <string name="common_account_empty_error">* Email not entered</string>
+    <string name="common_account_invaild_error">* Invalid email address</string>
+    <string name="common_back_btn">Back</string>
+    <string name="common_back_previous_btn">Back</string>
+    <string name="common_close_btn">Collapse</string>
+    <string name="common_count_down_back_text">Return to previous page: %s sec</string>
+    <string name="common_google_play_services_enable_button">Enable</string>
+    <string name="common_google_play_services_enable_text">"%1$s won't work unless you enable Google Play services."</string>
+    <string name="common_google_play_services_enable_title">Enable Google Play services</string>
+    <string name="common_google_play_services_install_button">Install</string>
+    <string name="common_google_play_services_install_text">"%1$s won't run without Google Play services, which are missing from your device."</string>
+    <string name="common_google_play_services_install_title">Get Google Play services</string>
+    <string name="common_google_play_services_notification_channel_name">Google Play services availability</string>
+    <string name="common_google_play_services_notification_ticker">Google Play services error</string>
+    <string name="common_google_play_services_unknown_issue">%1$s is having trouble with Google Play services. Please try again.</string>
+    <string name="common_google_play_services_unsupported_text">"%1$s won't run without Google Play services, which are not supported by your device."</string>
+    <string name="common_google_play_services_update_button">Update</string>
+    <string name="common_google_play_services_update_text">"%1$s won't run unless you update Google Play services."</string>
+    <string name="common_google_play_services_update_title">Update Google Play services</string>
+    <string name="common_google_play_services_updating_text">"%1$s won't run without Google Play services, which are currently updating."</string>
+    <string name="common_google_play_services_wear_update_text">New version of Google Play services needed. It will update itself shortly.</string>
+    <string name="common_login_text">Login</string>
+    <string name="common_no_btn">No</string>
+    <string name="common_ok_btn">Confirm</string>
+    <string name="common_open_btn">Expand</string>
+    <string name="common_open_on_phone">Open on phone</string>
+    <string name="common_password_empty_error">* Password not entered</string>
+    <string name="common_password_rule_error">* Password must be 8-20 characters and contain both letters and numbers</string>
+    <string name="common_register_text">Register</string>
+    <string name="common_signin_button_text">Sign in</string>
+    <string name="common_signin_button_text_long">Sign in with Google</string>
+    <string name="common_verfiy_code_empty_error">* Please enter code</string>
+    <string name="common_wait_verfiy">* Please wait for verification</string>
+    <string name="common_yes_btn">Yes</string>
+    <string name="copy_toast_msg">Link copied to clipboard</string>
+    <string name="credit">Credit Card</string>
+    <string name="default_error_message">Invalid input</string>
+    <string name="default_popup_window_title">Pop-Up Window</string>
+    <string name="deposit_account_text">Member Account</string>
+    <string name="deposit_coupon_date_text">Expired at:</string>
+    <string name="deposit_coupon_empty_text">You do not have any coupons yet</string>
+    <string name="deposit_coupon_name_text">Cashback Coupons</string>
+    <string name="deposit_coupon_rule_detail_text">"1. The coupons are only valid on this Platform (\"PlayHorny Platform\").
+
+2. Only one reward program can be applied to a single purchase, including cashback coupons and the top-up reward of Party Card, etc. These reward programs cannot be combined or used simultaneously.
+
+3. When cashback coupons are applied, based on the HCoin (Paid) purchased, a certain percentage of the amount will be rewarded as HCoin (Free).
+
+Some specific cashback coupons have an expiration date, after which they will no longer be usable."</string>
+    <string name="deposit_coupon_rule_text">Rules of Usage</string>
+    <string name="deposit_coupon_text">Coupons</string>
+    <string name="deposit_coupon_use_text">HCoin (Free) to be obtained with %s Cashback Coupon(s)</string>
+    <string name="deposit_default">其他支付</string>
+    <string name="deposit_fail_text">"Purchase failed!
+Please try another payment method, or contact PlayHorny customer service."</string>
+    <string name="deposit_free_text">(Free)</string>
+    <string name="deposit_invoice_agreement">Save the current settings for future use.</string>
+    <string name="deposit_invoice_barcode_placeholder">Please enter barcode</string>
+    <string name="deposit_invoice_code_empty">* barcode not entered</string>
+    <string name="deposit_invoice_code_invaild">* wrong barcode format</string>
+    <string name="deposit_invoice_donation">Donate Invoice</string>
+    <string name="deposit_invoice_email">Email</string>
+    <string name="deposit_invoice_email_placeholder">Please enter email</string>
+    <string name="deposit_invoice_email_type">Email</string>
+    <string name="deposit_invoice_ezpay">ezPay Digital Carrier</string>
+    <string name="deposit_invoice_lovdecode_8866_name">新北市流浪貓狗再生保護協會</string>
+    <string name="deposit_invoice_lovdecode_9118595_name">Garden of Hope Foundation</string>
+    <string name="deposit_invoice_mobile">Mobile Barcode Carrier</string>
+    <string name="deposit_invoice_personal">Personal Invoice</string>
+    <string name="deposit_invoice_title">Digital Invoice</string>
+    <string name="deposit_level_buy_hint_text">Purchase the Party Card for extra top-up rewards!</string>
+    <string name="deposit_level_percentage_text">Level Rewards</string>
+    <string name="deposit_level_season_get_text">Reward Quota (HCoin (Free))</string>
+    <string name="deposit_level_season_quota_text">Top-up Rewardable (HCoin (Paid))</string>
+    <string name="deposit_partycard_auto_subs">Auto Subscribe</string>
+    <string name="deposit_partycard_empty">Not yet purchased</string>
+    <string name="deposit_partycard_end_time">Current Card ends at</string>
+    <string name="deposit_pay_auto_subs_btn">Auto Subscribe</string>
+    <string name="deposit_pay_auto_subs_hint">"Please note that this is an auto-renewing subscription that will renew automatically each month at the end of your cycle. 
+If you want to cancel the subscription, please head to \"Member Center\" on the PlayHorny platform and do so before the expiration date."</string>
+    <string name="deposit_pay_auto_subs_text" formatted="false">"• Purchase the Party Card to enjoy extra top-up rewards (starting from 5% and increases with membership level) and unlock additional platform services.
+• Upon purchase, you will immediately receive a total of 1,050 HCoin, 200 HPower, and five 5% cashback coupons. If you purchase a plan of 1+ month(s) or subscribe to the service, rewards will be distributed monthly!"</string>
+    <string name="deposit_pay_btn">Proceed to Payment</string>
+    <string name="deposit_pay_checked_hint">"I confirm that I'm at least 18 years old and am the authorized user of the payment method. I have also read and agree to the《Terms of Use》and the《HCoin Terms of Use》."</string>
+    <string name="deposit_pay_checked_hint_2">I confirm and agree that refunds will not be provided when the Party Card is already in effect.</string>
+    <string name="deposit_pay_choice_my_coupon_btn">Choose Coupons</string>
+    <string name="deposit_pay_hint">"• When consuming HCoin in the game, HCoin (Free) will be consumed first.
+• HPower can be used on the PlayHorny platform.
+• For any questions, please check on the PlayHorny platform or contact customer service."</string>
+    <string name="deposit_pay_hint02">"• When consuming HCoin in the game, HCoin (Free) will be consumed first.
+• HPower can be used on the PlayHorny platform.
+• Purchasing the Party Card entitles you to membership level rewards and unlocks additional services. For more information, please visit the platform website.
+• Level rewards will be consumed first when topping up HCoin and cannot be used in conjunction with other discounts.
+• If the next top-up triggers a level-up, the system will first calculate the top-up amount needed for the current level-up, with the remaining amount applied to the next level's reward calculation. Level Rewards cannot be used alongside other promotions.
+• For any questions, please check on the PlayHorny platform or contact customer service."</string>
+    <string name="deposit_pay_hint_2">*Due to differences in currency for each payment method, the actual payment amount is subject to the final payment page.</string>
+    <string name="deposit_pay_text">(Paid)</string>
+    <string name="deposit_pay_way_text">Payment Method</string>
+    <string name="deposit_payment_bill_error">An error has occurred, please select another e-invoice option.</string>
+    <string name="deposit_payment_detail_payment_bank_account_title">銀行帳號：</string>
+    <string name="deposit_payment_detail_payment_bank_code_title">銀行代碼：</string>
+    <string name="deposit_payment_detail_payment_bank_method_text">銀行轉帳</string>
+    <string name="deposit_payment_detail_payment_bottom_hint_1">您的警覺是防範詐騙交易最有效的防線，慎防詐騙以免被有心人士利用。</string>
+    <string name="deposit_payment_detail_payment_bottom_hint_2">本平台絕不會以任何理由要求會員操作ATM或超商代碼補繳金額、分期付款、重複扣款…等。 本平台不會透過任何非官方管道提供您付款結帳資訊，亦不會向您索取任何個人資料。 若您接獲可疑電話或訊息，建議您撥打165反詐騙諮詢專線，或透過平台客服進行查證。</string>
+    <string name="deposit_payment_detail_payment_bottom_hint_3">付款後30分鐘內，系統會發送您購買的項目至您的帳號內，可於平台確認儲值狀態及查詢HC獲取紀錄等。若有任何問題請於平台客服回報，我們將盡快為您處理！</string>
+    <string name="deposit_payment_detail_payment_copy_account_btn">複製帳號</string>
+    <string name="deposit_payment_detail_payment_info_amount_title">訂單金額：</string>
+    <string name="deposit_payment_detail_payment_info_code_title">繳費代碼：</string>
+    <string name="deposit_payment_detail_payment_info_expire_title">繳費有效期限：</string>
+    <string name="deposit_payment_detail_payment_info_method_title">付款方式：</string>
+    <string name="deposit_payment_detail_payment_info_real_pay_title">實際付款金額：</string>
+    <string name="deposit_payment_detail_payment_info_result_success_text">訂單成立</string>
+    <string name="deposit_payment_detail_payment_info_result_title">交易結果訊息：</string>
+    <string name="deposit_payment_detail_payment_info_title">付款資訊</string>
+    <string name="deposit_payment_detail_payment_instructions">操作說明</string>
+    <string name="deposit_payment_detail_payment_store_company_no_title">廠商金流交易序號：</string>
+    <string name="deposit_payment_detail_payment_store_item_title">購買項目：</string>
+    <string name="deposit_payment_detail_payment_store_name_title">商店名稱 : PlayHorny可以瑟瑟平台</string>
+    <string name="deposit_payment_detail_payment_store_service">儲值服務</string>
+    <string name="deposit_payment_detail_payment_store_title">商店資訊</string>
+    <string name="deposit_payment_detail_payment_store_trade_no_title">交易訂單編號：</string>
+    <string name="deposit_payment_detail_payment_time_text">訂單成立時間：</string>
+    <string name="deposit_payment_detail_screenshot_hint_1">"建議您截圖保存此頁付款資訊，以便您日後查詢繳費。
+"</string>
+    <string name="deposit_payment_detail_screenshot_hint_2">我們會將此付款詳細資訊寄送至您的會員帳號信箱內，您可以於信箱收件匣或垃圾郵件匣確認。逾期此繳費銀行帳號將失效，若逾期或不慎遺失付款資訊，請回到PlayHorny可以瑟瑟重新操作儲值流程。</string>
+    <string name="deposit_payment_detail_supermarket_head_text">以下是您的超商付款資訊，請於繳費期限內完成繳費！</string>
+    <string name="deposit_payment_detail_supermarket_teach_title">超商繳費教學：</string>
+    <string name="deposit_payment_detail_vaccount_head_text">以下是您的銀行轉帳資訊，請於繳費期限內完成繳費！</string>
+    <string name="deposit_payment_type_alipay">Alipay</string>
+    <string name="deposit_payment_type_apple">Apple Pay</string>
+    <string name="deposit_payment_type_china_pay">Chinese Payment Gateway</string>
+    <string name="deposit_payment_type_china_union">UnionPay</string>
+    <string name="deposit_payment_type_credit">Credit Card</string>
+    <string name="deposit_payment_type_credit_international">International Card</string>
+    <string name="deposit_payment_type_epoint">Mobile Payment</string>
+    <string name="deposit_payment_type_google">Google Pay</string>
+    <string name="deposit_payment_type_line">LINE Pay</string>
+    <string name="deposit_payment_type_monthly">Credit Card</string>
+    <string name="deposit_payment_type_monthly_credit">Credit Card</string>
+    <string name="deposit_payment_type_monthly_twd">Credit Card</string>
+    <string name="deposit_payment_type_paypal">Paypal</string>
+    <string name="deposit_payment_type_point_card">Point Card</string>
+    <string name="deposit_payment_type_samsung">Samsung Pay</string>
+    <string name="deposit_payment_type_supermarket_barcode">Convenience Store</string>
+    <string name="deposit_payment_type_supermarket_barcode_famiport">FamilyMart</string>
+    <string name="deposit_payment_type_supermarket_barcode_ibon">7-ELEVEN</string>
+    <string name="deposit_payment_type_supermarket_barcode_lifeet">Hi-Life</string>
+    <string name="deposit_payment_type_supermarket_barcode_mobile_7_11">QR Code (7-11/FamilyMart)</string>
+    <string name="deposit_payment_type_supermarket_barcode_mobile_lifeet">QR Code (Hi-Life)</string>
+    <string name="deposit_payment_type_supermarket_barcode_okgo">OK Mart</string>
+    <string name="deposit_payment_type_telecom">Telecom Micro Payment</string>
+    <string name="deposit_payment_type_telecom_aptg">Asia Pacific Telecom</string>
+    <string name="deposit_payment_type_telecom_chunghwa">Chunghwa Telecom</string>
+    <string name="deposit_payment_type_telecom_chunghwa_hinet">Chunghwa Telecom Hinet</string>
+    <string name="deposit_payment_type_telecom_fetnet">Far EasTone</string>
+    <string name="deposit_payment_type_telecom_taiwan_mobile">Taiwan Mobile</string>
+    <string name="deposit_payment_type_telecom_tstar">Taiwan Star</string>
+    <string name="deposit_payment_type_vaccount">Bank Transfer</string>
+    <string name="deposit_payment_type_vaccount_ctbc">CTBC Bank</string>
+    <string name="deposit_payment_type_vaccount_esun">E.SUN Bank</string>
+    <string name="deposit_payment_type_vaccount_hncb">Hua Nan Commercial Bank</string>
+    <string name="deposit_payment_type_vaccount_post">Chunghwa Post</string>
+    <string name="deposit_payment_type_vaccount_scsb">Shanghai Commercial Bank</string>
+    <string name="deposit_payment_type_wechat">WeChat Pay</string>
+    <string name="deposit_remind_text_1">You already have a Party Card subscription. To change to other options, please head to \"Manage Subscription,\" and do so after its expiry.</string>
+    <string name="deposit_remind_text_2">You already have a Party Card in effect. To change to other options, please head to \"Manage Subscription,\" and do so after its expiry. For more details, please head to PlayHorny platform.</string>
+    <string name="deposit_result_title">HCoin Top-up</string>
+    <string name="deposit_sub_alreadly_pay_btn">Purchased</string>
+    <string name="deposit_sub_change_btn">Change</string>
+    <string name="deposit_sub_day_text">Day(s)</string>
+    <string name="deposit_sub_get_detail_text">5% Cashback Coupon x</string>
+    <string name="deposit_sub_get_text">Obtain upon purchase</string>
+    <string name="deposit_sub_month_text">-month</string>
+    <string name="deposit_sub_name_text">Party Card</string>
+    <string name="deposit_sub_type_text">Purchase Plans</string>
+    <string name="deposit_sub_unlock__detail_text_1">Membership levels and top-up rewards</string>
+    <string name="deposit_sub_unlock__detail_text_2">Exclusive Avatar Borders</string>
+    <string name="deposit_sub_unlock__detail_text_3">Unlocked exclusive Store items</string>
+    <string name="deposit_sub_unlock_detail_text">Purchase a plan of 1+ month(s) or a subscription to receive rewards every month!</string>
+    <string name="deposit_sub_unlock_text">Unlock Membership level services</string>
+    <string name="deposit_sub_week_text">Week</string>
+    <string name="deposit_sub_year_text">Year</string>
+    <string name="deposit_success_text">Purchased!</string>
+    <string name="deposit_top_bar_text">HCoin</string>
+    <string name="deposit_waiting_text">Updating…</string>
+    <string name="dialog">Dialog</string>
+    <string name="dropdown_menu">Dropdown menu</string>
+    <string name="epoint">Mobile Payment</string>
+    <string name="error_account_already_binding_game_106">This platform account is already bound to another game account</string>
+    <string name="error_account_not_found_101">User does not exist</string>
+    <string name="error_accout_unbinding_game_104">This platform account is not bound to a game account</string>
+    <string name="error_already_deactivate_1013">Account deleted.</string>
+    <string name="error_already_has_task_1002">SDK already has an ongoing task</string>
+    <string name="error_already_login_1011">Already logged in. To switch account, please log out first.</string>
+    <string name="error_binding_cancel_1005">User has canceled the binding</string>
+    <string name="error_binding_not_guest_1006">User is not a visitor</string>
+    <string name="error_buy_error_1018">Transaction failed.</string>
+    <string name="error_close_beta_1016">Registration closed during the CB test.</string>
+    <string name="error_close_beta_320">This account is not selected for the closed beta testing.</string>
+    <string name="error_default">Unknown error</string>
+    <string name="error_deposit_cancel_1010">Top-up canceled by user</string>
+    <string name="error_deposit_is_guest_1009">To top up, please bind your account first</string>
+    <string name="error_deposit_not_login_1008">To top up, please log in first</string>
+    <string name="error_duplicate_order_109">Duplicate order number</string>
+    <string name="error_game_account_already_binding_105">This game account has been bound to another platform account</string>
+    <string name="error_game_account_exist_303">Game account already exists</string>
+    <string name="error_game_account_incorrect_301">Login information error</string>
+    <string name="error_game_account_not_found_302">Game account does not exist</string>
+    <string name="error_game_account_verfiy_fail_300">Account and password authentication error</string>
+    <string name="error_guest_open_takeover_1012">Unable to sync visitor account, please login first</string>
+    <string name="error_iap_billing_unavailable_2005">Billing unavailable</string>
+    <string name="error_iap_developer_error_2007">Transaction failed</string>
+    <string name="error_iap_error_2008">Transaction failed</string>
+    <string name="error_iap_item_already_owned_2009">Item already owned</string>
+    <string name="error_iap_item_not_owned_2010">Item not yet owned</string>
+    <string name="error_iap_item_unavailable_2006">Item unavailable</string>
+    <string name="error_iap_network_error_2011">Network error</string>
+    <string name="error_iap_service_disconnected_2003">Disconnected</string>
+    <string name="error_iap_service_unavailable_2004">Server unavailable</string>
+    <string name="error_iap_time_out_2002">Connection timed out</string>
+    <string name="error_iap_user_cancel_2001">User canceled</string>
+    <string name="error_missing_parameter_107">Parameters need to include a game account</string>
+    <string name="error_more_login_1021">"Account frozen. Too many failed attempts.
+ Please try again in 10 min."</string>
+    <string name="error_no_data_10000">沒有資料</string>
+    <string name="error_no_host_use_1015">遊戲版本已有新的版本，請到永久頁更新版本繼續遊戲</string>
+    <string name="error_not_enough_coins_110">Insufficient balance</string>
+    <string name="error_not_login_1007">User not logged in yet</string>
+    <string name="error_not_setup_1001">Please setup SDK first</string>
+    <string name="error_oauth_login_apple_3004">Apple login failed</string>
+    <string name="error_oauth_login_fb_3002">Facebook login failed</string>
+    <string name="error_oauth_login_google_3001">Google login failed</string>
+    <string name="error_oauth_login_qoo_3003">QOO login failed</string>
+    <string name="error_parameter_invaild_102">Request parameter error</string>
+    <string name="error_product_not_found_1017">No item purchased.</string>
+    <string name="error_refresh_token_fail_1003">Failed to refresh token, user has been logged out</string>
+    <string name="error_request_321">Excessive requests received</string>
+    <string name="error_setup_data_incomplete_1004">Incomplete configuration data</string>
+    <string name="error_sign_invaild_103">Signature verification error</string>
+    <string name="error_system_1020">Under maintenance…</string>
+    <string name="error_takeover_back_1014">User has closed User Center.</string>
+    <string name="error_token_311">Token expired</string>
+    <string name="error_token_312">Token not in use</string>
+    <string name="error_token_313">Token not found</string>
+    <string name="error_token_314">Token authentication error</string>
+    <string name="error_token_315">Account error. Please contact customer service for help.</string>
+    <string name="error_token_316">Refresh token does not exist or has expired</string>
+    <string name="error_try_relogin_1019">Please try logging in again.</string>
+    <string name="error_unknown_9999">An unknown error has occurred.</string>
+    <string name="expanded">Expanded</string>
+    <string name="fallback_menu_item_copy_link">Copy link</string>
+    <string name="fallback_menu_item_open_in_browser">Open in browser</string>
+    <string name="fallback_menu_item_share_link">Share link</string>
+    <string name="fcm_fallback_notification_channel_label">Miscellaneous</string>
+    <string name="forgot_password_account_placeholder">Please enter email</string>
+    <string name="forgot_password_header">RESET</string>
+    <string name="forgot_password_header_text">Forgot Password</string>
+    <string name="forgot_password_send_btn">Reset</string>
+    <string name="forgot_password_send_success_btn">Back to login</string>
+    <string name="forgot_password_send_success_hint">"If you haven't received the email or have other issues, please contact the Platform customer service."</string>
+    <string name="forgot_password_send_success_text">"Reset email has been sent
+Please check your email and click on the verification link to complete the process!"</string>
+    <string name="forgot_password_send_verfiy_btn">Send code</string>
+    <string name="forgot_password_success_text">The password has been reset!</string>
+    <string name="forgot_password_verfiy_code_placeholder">Please enter code</string>
+    <string name="game_view_content_description">Game view</string>
+    <string name="gcm_defaultSenderId">955401618756</string>
+    <string name="google_api_key">AIzaSyCgz4sJCtuR0OYzebQncbmThvfccMDu1YI</string>
+    <string name="google_app_id">1:955401618756:android:5fd64810ac310af1dc8311</string>
+    <string name="google_crash_reporting_api_key">AIzaSyCgz4sJCtuR0OYzebQncbmThvfccMDu1YI</string>
+    <string name="google_storage_bucket">mega-km-prod.firebasestorage.app</string>
+    <string name="hcoin_terms_01">Dear users, welcome to PlayHorny! Before you use the HCoin services, please read the following terms carefully.</string>
+    <string name="hcoin_terms_02">PlayHorny (hereinafter referred to as \"PlayHorny,\" \"we,\" or \"the Platform\") provides HCoin services with the aim of allowing you (referred to as \"you,\" \"user,\" or \"member\") to top up with legal tender and receive a specific amount of HCoin (hereinafter referred to as \"HCoin\") within our Platform. HCoin can be used to purchase virtual currency (hereinafter referred to as \"virtual currency\"), virtual items (hereinafter referred to as \"virtual items\"), or other services within the platform or in-game. By using our HCoin services, you acknowledge that you have read and understood the content of the following Terms and agreed to abide by them.</string>
+    <string name="hcoin_terms_03">"
+ In addition to the HCoin Terms of Use, any other terms of use and privacy policies related to our company are also considered part of the HCoin Terms of Use. You must agree to comply with these Terms before starting to use the HCoin."</string>
+    <string name="hcoin_terms_04">"1. Duration
+
+ For the period of the Platform's services and operation."</string>
+    <string name="hcoin_terms_05">"2. Location
+
+ For the regions where the Platform provides its services."</string>
+    <string name="hcoin_terms_06">"3. Subject
+
+ For those who visit, use, or access the Platform."</string>
+    <string name="hcoin_terms_07">"4. Purchase &amp; Payment
+
+ With the PlayHorny services (hereinafter referred to as the \"\"Service(s)\"\"), in addition to having access to free games, you'll also be able to make purchases with legal tender on top-up credits and other paid items provided by the Service. You must be at least 18 years old or confirm that you have reached the legal age of adulthood in your residence jurisdiction/country to make purchases. When you confirm a purchase, your designated payment method and the payment information provided will be passed onto a third-party payment processor to handle the related charges. You will also receive an electronic invoice via email.
+ You understand and agree that all charges incurred in your account, regardless of whether they were incurred by you personally, must be borne by you. Even after account cancellation or termination, we retain the right to charge you for the payment incurred prior to the cancellation or termination."</string>
+    <string name="hcoin_terms_08">"5. HCoin
+
+ Based on the methods of acquisition, there are 2 types of HCoin:
+
+1. Paid HCoin: 
+ After obtaining Paid HCoin through transactions (hereinafter referred to as \"Paid HCoin\"): Paid HCoin is obtained through purchases with legal tender and can be used for payments within specific games for virtual currency, virtual items, or other services. Paid HCoin will be stored as digital assets in the user's account.
+2. Free HCoin:
+ Free HCoin (hereinafter referred to as \"Free HCoin\") is obtained through the Platform Services and holds the same value as Paid HCoin. Users can acquire Free HCoin through specific activities or meeting certain conditions, and can use it on payments for virtual currency, virtual items, or other in-game services. Free HCoin will be stored as a time-limited digital asset in the user's account, and you are not to request a refund, transfer, or conversion of it.
+
+ A certain amount of HPower obtained while using the Platform's services or making purchases with \"Paid HCoin\" is issued as a gift and cannot be refunded by the user. HPower can be used exclusively on the Platform to purchase various services and items offered by the Platform, and only within the Platform. In cases where a user account holds both Paid HCoin and Free HCoin, the Platform will prioritize using Free HCoin for any payment. Only when the Free HCoin balance is insufficient will Paid HCoin be consumed. 
+
+ We retain the ownership, possession, issuing, and any related rights over the HCoin. While the owners or operators of the games are responsible for the issuance of their respective virtual currency and virtual items, we are only responsible for the HCoin sold on the websites operated by the Platform. We are not responsible for HCoin obtained through unofficial other methods, and such HCoin shall not be used on the Platform. To protect your own rights, please refrain from acquiring any virtual currency or virtual items on platforms not operated by us."</string>
+    <string name="hcoin_terms_09">"6. Period of Validity
+
+ HCoin obtained through purchases with legal tender is not subject to any expiration limitations and can be used all year round, as is also the case with HPower. However, for Free HCoin obtained through Platform services, there is a validity period of 180 days, starting from the date of acquisition. The expired Free HCoin will be invalidated automatically and cannot be refunded, compensated, redeemed, or reactivated in any way.
+ You understand and agree that any losses incurred due to the expiration of Free HCoin will be your own responsibility."</string>
+    <string name="hcoin_terms_10">"7. Usage Restrictions
+
+ You agree that the HCoin you hold on the Platform is for your personal and limited use only. You must not transfer, share, lease, exchange, trade, gift, sell, authorize, or in any way convert HCoin, HPower, virtual currency, virtual items, or any other items purchased on the Platform to legal tender or items equivalent to their value. In the case that your user account is suspended or terminated, the HCoin, HPower, virtual currency, virtual items, and any other items purchased through Platform services within your account will be invalidated automatically and no longer be available."</string>
+    <string name="hcoin_terms_11">"8. Refunds
+
+ Once you have used legal tender to purchase HCoin, items provided by the Services, HPower, in-game virtual currency or virtual items, etc., and after they are credited to your account, the HCoin consumed is typically non-refundable. The items and Services offered by the Platform are not subject to the 7-day period for goods returning under Article 19, Paragraph 1 of the Consumer Protection Act. Once they are distributed to your account, they cannot be returned or refunded. Please exercise caution and confirm the items, quantity, price, and other details when making a purchase, as purchases would take effect immediately, and no refunds will be provided unless certain conditions are met.
+
+(1) In the case that a user terminates their contract with the Platform, which is to terminate their right to the usage of their account, they may apply for a refund. However, once the application is submitted, the account cannot be reinstated for any reason.
+(2) The Platform also offers other promotional items (hereinafter referred to as \"Promotional Items\") available for purchase using legal currency. If a user wishes to return the purchased yet unused Promotional Items, we will determine the eligibility for refunds based on the purchase price, product nature, and other factors at the time of purchase before refunding the amount or HCoin accordingly.
+
+After deducting the following costs and fees, we shall refund the unused \"Paid HCoin\" that was purchased with legal tender within 30 working days.
+● The necessary costs include:
+Fees collected by gateways, website operation costs, handling fees, etc.
+● Remittance fees:
+The fees incurred by the user's receiving bank due to the remittance.
+● Other fees:
+Personal fees arising from special circumstances in refunding.
+Refund is calculated as follows: Deduct the aforementioned costs from the user's remaining unused \"Paid HCoin.\"
+
+(3) In the case of the termination of a game provided by the Platform, resulting in the cessation of the user's use of their in-game account, if the game provider decides to entrust the Platform with the refund process, we shall be responsible for determining the amount of unused virtual currency in the game and assisting the user with the refund process. We will only refund virtual currency purchased with \"Paid HCoin.\" In this process, we will calculate the actual amount of in-game virtual currency and refund the corresponding amount of \"Paid HCoin\" based on the exchange rate of \"Paid HCoin.\"
+
+ However, refunds will not be granted for the following reasons:
+● The user violates the HCoin Terms of Use, Terms of Use, or Privacy Policy.
+● The user has obtained HCoin through fraudulent, forged, modified, or other illegal means.
+● We have a legitimate doubt in accordance with the law, force majeure factors, or other reasonable grounds that allow the temporary suspension of the user's right to their account."</string>
+    <string name="hcoin_terms_12">"9. Revision &amp; Termination
+
+ The Platform reserves the right to modify the Terms at any time without prior notice. By continuing to read or access the Services provided by PlayHorny, you acknowledge that you have understood the content of the updated Terms and agreed to abide by them. We retain the right to modify or terminate the HCoin and its related services any time."</string>
+    <string name="hcoin_terms_13">"10. Limited Liability
+
+ You agree that for any damages or disadvantages incurred due to your inability to use HCoin, we shall not be responsible except as otherwise provided by law or in cases of intentional misconduct or gross negligence. During our investigation of suspected violations or when we have determined that there has been a breach of the Terms, leading to the removal or refusal to process any information or content, warnings, suspensions, terminations of your access to the Services, or any other actions, you agree that you shall not, based on the aforementioned reasons, file any lawsuits or claims for damages against the company and its directors, superiors, employees, affiliated companies, publishers, contractors, or licensors. This waiver and compensation provision applies to all violations described and covered in the entirety of the Terms."</string>
+    <string name="hcoin_terms_14">"11. Other Terms
+
+ The HCoin Terms are subject to the Platform's other relevant terms and policies, including but not limited to the Terms of Use and Privacy Policy. By using the HCoin services, you agree to comply with all applicable terms and policies. If any part of these Terms is found to be invalid or unenforceable, the invalid or unenforceable part will not affect the validity or enforceability of the remaining provisions."</string>
+    <string name="hcoin_terms_content">"Dear users, welcome to PlayHorny! Before you use the HCoin services, please read the following terms carefully. 
+
+ PlayHorny (hereinafter referred to as \"PlayHorny,\" \"we,\" or \"the Platform\") provides HCoin services with the aim of allowing you (referred to as \"you,\" \"user,\" or \"member\") to top up with legal tender and receive a specific amount of HCoin (hereinafter referred to as \"HCoin\") within our Platform. HCoin can be used to purchase virtual currency (hereinafter referred to as \"virtual currency\"), virtual items (hereinafter referred to as \"virtual items\"), or other services within the platform or in-game. By using our HCoin services, you acknowledge that you have read and understood the content of the following Terms and agreed to abide by them.
+
+
+ In addition to the HCoin Terms of Use, any other terms of use and privacy policies related to our company are also considered part of the HCoin Terms of Use. You must agree to comply with these Terms before starting to use the HCoin.
+
+1. Duration
+
+ For the period of the Platform's services and operation.
+
+2. Location
+
+ For the regions where the Platform provides its services.
+
+3. Subject
+
+ For those who visit, use, or access the Platform.
+
+4. Purchase &amp; Payment
+
+ With the PlayHorny services (hereinafter referred to as the \"\"Service(s)\"\"), in addition to having access to free games, you'll also be able to make purchases with legal tender on top-up credits and other paid items provided by the Service. You must be at least 18 years old or confirm that you have reached the legal age of adulthood in your residence jurisdiction/country to make purchases. When you confirm a purchase, your designated payment method and the payment information provided will be passed onto a third-party payment processor to handle the related charges. You will also receive an electronic invoice via email.
+ You understand and agree that all charges incurred in your account, regardless of whether they were incurred by you personally, must be borne by you. Even after account cancellation or termination, we retain the right to charge you for the payment incurred prior to the cancellation or termination.
+
+5. HCoin
+
+ Based on the methods of acquisition, there are 2 types of HCoin:
+
+1. Paid HCoin: 
+ After obtaining Paid HCoin through transactions (hereinafter referred to as \"Paid HCoin\"): Paid HCoin is obtained through purchases with legal tender and can be used for payments within specific games for virtual currency, virtual items, or other services. Paid HCoin will be stored as digital assets in the user's account.
+2. Free HCoin:
+ Free HCoin (hereinafter referred to as \"Free HCoin\") is obtained through the Platform Services and holds the same value as Paid HCoin. Users can acquire Free HCoin through specific activities or meeting certain conditions, and can use it on payments for virtual currency, virtual items, or other in-game services. Free HCoin will be stored as a time-limited digital asset in the user's account, and you are not to request a refund, transfer, or conversion of it.
+
+ A certain amount of HPower obtained while using the Platform's services or making purchases with \"Paid HCoin\" is issued as a gift and cannot be refunded by the user. HPower can be used exclusively on the Platform to purchase various services and items offered by the Platform, and only within the Platform. In cases where a user account holds both Paid HCoin and Free HCoin, the Platform will prioritize using Free HCoin for any payment. Only when the Free HCoin balance is insufficient will Paid HCoin be consumed. 
+
+ We retain the ownership, possession, issuing, and any related rights over the HCoin. While the owners or operators of the games are responsible for the issuance of their respective virtual currency and virtual items, we are only responsible for the HCoin sold on the websites operated by the Platform. We are not responsible for HCoin obtained through unofficial other methods, and such HCoin shall not be used on the Platform. To protect your own rights, please refrain from acquiring any virtual currency or virtual items on platforms not operated by us.
+
+6. Period of Validity
+
+ HCoin obtained through purchases with legal tender is not subject to any expiration limitations and can be used all year round, as is also the case with HPower. However, for Free HCoin obtained through Platform services, there is a validity period of 180 days, starting from the date of acquisition. The expired Free HCoin will be invalidated automatically and cannot be refunded, compensated, redeemed, or reactivated in any way.
+ You understand and agree that any losses incurred due to the expiration of Free HCoin will be your own responsibility.
+
+7. Usage Restrictions
+
+ You agree that the HCoin you hold on the Platform is for your personal and limited use only. You must not transfer, share, lease, exchange, trade, gift, sell, authorize, or in any way convert HCoin, HPower, virtual currency, virtual items, or any other items purchased on the Platform to legal tender or items equivalent to their value. In the case that your user account is suspended or terminated, the HCoin, HPower, virtual currency, virtual items, and any other items purchased through Platform services within your account will be invalidated automatically and no longer be available.
+
+8. Refunds
+
+ Once you have used legal tender to purchase HCoin, items provided by the Services, HPower, in-game virtual currency or virtual items, etc., and after they are credited to your account, the HCoin consumed is typically non-refundable. The items and Services offered by the Platform are not subject to the 7-day period for goods returning under Article 19, Paragraph 1 of the Consumer Protection Act. Once they are distributed to your account, they cannot be returned or refunded.Please exercise caution and confirm the items, quantity, price, and other details when making a purchase, as purchases would take effect immediately, and no refunds will be provided unless certain conditions are met.
+
+(1) In the case that a user terminates their contract with the Platform, which is to terminate their right to the usage of their account, they may apply for a refund. However, once the application is submitted, the account cannot be reinstated for any reason.
+(2) The Platform also offers other promotional items (hereinafter referred to as \"Promotional Items\") available for purchase using legal currency. If a user wishes to return the purchased yet unused Promotional Items, we will determine the eligibility for refunds based on the purchase price, product nature, and other factors at the time of purchase before refunding the amount or HCoin accordingly.
+
+After deducting the following costs and fees, we shall refund the unused \"Paid HCoin\" that was purchased with legal tender within 30 working days.
+● The necessary costs include:
+Fees collected by gateways, website operation costs, handling fees, etc.
+● Remittance fees:
+The fees incurred by the user's receiving bank due to the remittance.
+● Other fees:
+Personal fees arising from special circumstances in refunding.
+Refund is calculated as follows: Deduct the aforementioned costs from the user's remaining unused \"Paid HCoin.\"
+
+(3) In the case of the termination of a game provided by the Platform, resulting in the cessation of the user's use of their in-game account, if the game provider decides to entrust the Platform with the refund process, we shall be responsible for determining the amount of unused virtual currency in the game and assisting the user with the refund process. We will only refund virtual currency purchased with \"Paid HCoin.\" In this process, we will calculate the actual amount of in-game virtual currency and refund the corresponding amount of \"Paid HCoin\" based on the exchange rate of \"Paid HCoin.\"
+
+ However, refunds will not be granted for the following reasons:
+● The user violates the HCoin Terms of Use, Terms of Use, or Privacy Policy.
+● The user has obtained HCoin through fraudulent, forged, modified, or other illegal means.
+● We have a legitimate doubt in accordance with the law, force majeure factors, or other reasonable grounds that allow the temporary suspension of the user's right to their account.
+
+9. Revision &amp; Termination
+
+ The Platform reserves the right to modify the Terms at any time without prior notice. By continuing to read or access the Services provided by PlayHorny, you acknowledge that you have understood the content of the updated Terms and agreed to abide by them. We retain the right to modify or terminate the HCoin and its related services any time.
+
+10. Limited Liability
+
+ You agree that for any damages or disadvantages incurred due to your inability to use HCoin, we shall not be responsible except as otherwise provided by law or in cases of intentional misconduct or gross negligence. During our investigation of suspected violations or when we have determined that there has been a breach of the Terms, leading to the removal or refusal to process any information or content, warnings, suspensions, terminations of your access to the Services, or any other actions, you agree that you shall not, based on the aforementioned reasons, file any lawsuits or claims for damages against the company and its directors, superiors, employees, affiliated companies, publishers, contractors, or licensors. This waiver and compensation provision applies to all violations described and covered in the entirety of the Terms.
+
+11. Other Terms
+
+ The HCoin Terms are subject to the Platform's other relevant terms and policies, including but not limited to the Terms of Use and Privacy Policy. By using the HCoin services, you agree to comply with all applicable terms and policies. If any part of these Terms is found to be invalid or unenforceable, the invalid or unenforceable part will not affect the validity or enforceability of the remaining provisions.
+
+"</string>
+    <string name="hcoin_terms_header">HCoin Terms of Use</string>
+    <string name="home_guest_btn">Visitor Login</string>
+    <string name="home_hcoin_terms_btn">HCoin Terms of Use</string>
+    <string name="home_login_btn">Login</string>
+    <string name="home_privacy_policy_btn">Privacy Policy</string>
+    <string name="home_register_btn">Register</string>
+    <string name="home_term_user_btn">Terms of Use</string>
+    <string name="in_progress">In progress</string>
+    <string name="indeterminate">Partially checked</string>
+    <string name="level_01">Amateur</string>
+    <string name="level_03">Deviant</string>
+    <string name="level_05">Playboy</string>
+    <string name="level_07">Pervert</string>
+    <string name="level_09">Degenerate</string>
+    <string name="level_100">Eros</string>
+    <string name="level_11">Succubus</string>
+    <string name="level_description_text_07">"This page shows your current levels, upgrade/level-keeping conditions, and explains terms regarding your membership levels and top-up rewards.
+
+• Level Rewards
+This is a rate based on which you will earn HCoin (Free) when topping up HCoin (Paid). Whenever it is available, this rate will be prioritized and applied to your top-ups to ensure that you receive the best value possible!
+
+• Top-up Rewardable
+This refers to the maximum amount of HCoin (Paid) that is eligible for calculating rewards during top-ups. The quota determines the amount of HCoin (Free) you will be able to earn. Only the top-up amount within this range is eligible for rewards. Any excess will not be counted.
+
+• Reward Quota
+This refers to the monthly limit of HCoin (Free) you can earn, calculated based on your Level Rewards and Top-up Rewardable. This quota resets each month within the validity period of your Party Card.
+
+How to calculate: Level Rewards rate x Top-up Rewardable = Reward Quota
+
+✦ Your Top-up Rewardable and Reward Quota reset monthly during the validity of the Party Card, with the reset date based on your Party Card activation date.
+✦ Membership levels will be settled on Jun. 30th and Dec. 31st at 04:00 (GMT+8) annually, resetting the HPower accumulated for level-keeping to 0. The current level will be kept if met with the required HPower.
+✦ If not, the current level will be lost and downgraded by one in the beginning of the new season, with the XP bar reset to 0.
+✦ After obtaining the Party Card, you can start accumulating HPower required for leveling up your membership.
+✦ Once the Party Card expires, HPower obtained through top-ups will no longer count toward the membership level system. The leveling up will stop, but your levels will continue to downgrade at each season settlement. Re-purchase the Party Card to resume the progress once more.
+✦ Level Rewards will be applied first when topping up HCoin. They cannot be used alongside other promotions.
+✦ If the next top-up triggers a level-up, the system will first calculate the top-up amount needed for the current level-up, with the remaining amount applied to the next level's reward calculation. Level Rewards cannot be used alongside other promotions.
+✦ For more details regarding the Party Card, please refer to the PlayHorny [FAQs] section."</string>
+    <string name="level_description_text_07_light_white">Jun. 30th and Dec. 31st at 04:00 (GMT+8)</string>
+    <string name="level_description_text_08">Level up</string>
+    <string name="level_description_text_09">(HPower)</string>
+    <string name="level_description_text_10">Level up (HPower)</string>
+    <string name="level_description_text_11">• Level Rewards</string>
+    <string name="level_description_text_12">This is a rate based on which you will earn HCoin (Free) when topping up HCoin (Paid).</string>
+    <string name="level_description_text_13">• Top-up Rewardable</string>
+    <string name="level_description_text_14">This refers to the maximum amount of HCoin (Paid) that is eligible for calculating rewards during top-ups.</string>
+    <string name="level_description_text_15">• Reward Quota</string>
+    <string name="level_description_text_16">This refers to the monthly limit of HCoin (Free) you can earn</string>
+    <string name="level_description_text_17">This quota resets each month within the validity period of your Party Card.</string>
+    <string name="level_description_text_18">How to calculate: Level Rewards rate x Top-up Rewardable = Reward Quota</string>
+    <string name="level_description_text_19">Jun. 30th and Dec. 31st at 04:00 (GMT+8) annually</string>
+    <string name="level_description_text_20">Max</string>
+    <string name="loading">Loading…</string>
+    <string name="loading_text">Verifying you are human</string>
+    <string name="login_account_not_found_error">*Account or password error</string>
+    <string name="login_account_placeholder">Please enter member account</string>
+    <string name="login_error_text">Account error. Please contact customer service for help.</string>
+    <string name="login_forgot_password_btn">Forgot Password</string>
+    <string name="login_header_text">Login</string>
+    <string name="login_header_text_en">LOG IN</string>
+    <string name="login_password_placeholder">Please enter password</string>
+    <string name="login_qoo_btn">QooApp</string>
+    <string name="login_register_btn">Register</string>
+    <string name="login_remember_text">Remember me</string>
+    <string name="login_remind01_btn">Continue</string>
+    <string name="login_remind02_btn">Register</string>
+    <string name="login_remind_text">Continue as visitor? To save your game progress, we recommend that you create an account.</string>
+    <string name="login_verfiy_text">Email Verification</string>
+    <string name="logo_description">hcaptcha logo</string>
+    <string name="member_accout_qoo_text">QooApp會員</string>
+    <string name="member_accout_text">PlayHorny Member</string>
+    <string name="member_binding_account_btn">Bind Account</string>
+    <string name="member_binding_account_hint">Please bind your account to save your game data.</string>
+    <string name="member_count_down_text">"Please wait for %s sec for the data update…
+Or you can return to the game and continue playing while waiting for it."</string>
+    <string name="member_deposit_btn">HCoin Top-up</string>
+    <string name="member_guest_account_text">Visitor Account</string>
+    <string name="member_hcoin_terms_btn">HCoin Terms of Use</string>
+    <string name="member_now_login_text">Currently logged in as:</string>
+    <string name="member_playhorny_text">PlayHorny可以瑟瑟登入</string>
+    <string name="member_polices_btn">Terms &amp; Policies</string>
+    <string name="member_privacy_policy_btn">Privacy Policy</string>
+    <string name="member_qoo_text">QooApp登入</string>
+    <string name="member_service_btn">Customer Service</string>
+    <string name="member_suspension_remind_text">Please find the suspension notice at the platform, and contact PlayHorny customer service for more details. Thank you.</string>
+    <string name="member_suspension_warning_text">Certain functions suspended due to violation against the Terms of Use. During the period, the HCoin recharge or membership purchasing functions will be inaccessible.</string>
+    <string name="member_takeover_account_text">Account Sync</string>
+    <string name="member_term_user_btn">Terms of Use</string>
+    <string name="member_title_text">User Center</string>
+    <string name="monthly">Credit Card</string>
+    <string name="monthly_credit">Credit Card</string>
+    <string name="navigation_menu">Navigation menu</string>
+    <string name="not_selected">Not selected</string>
+    <string name="off">Off</string>
+    <string name="on">On</string>
+    <string name="partycard_detail_text_01">Next reward date</string>
+    <string name="partycard_detail_text_02">"The cycle's final reward has been issued."</string>
+    <string name="partycard_expired">Purchase Party Card again to unlock membership leveling services!</string>
+    <string name="partycard_have_01">Keep current level:</string>
+    <string name="partycard_have_02">Season settlement at:</string>
+    <string name="partycard_level_01">"You've leveled up!
+Level Reward &amp; Reward Quota ↑"</string>
+    <string name="partycard_level_02">"Level downgraded by 1
+Level Reward &amp; Reward Quota ↓"</string>
+    <string name="partycard_nohave">You do not have a Party Card yet.</string>
+    <string name="partycard_windows_btn">Proceed</string>
+    <string name="partycard_windows_text">"You have a Party Card currently active. This purchase will extend its validity, but rewards will not be issued immediately. 
+
+• Rewards are issued monthly and will not be issued twice in the same month.
+• The issuing of the rewards from the newly purchased Party Card will be queued for future months.
+
+Please confirm that you understand before proceeding with the purchase!"</string>
+    <string name="partycard_windows_text_01">This purchase will extend its validity, but rewards will not be issued immediately.</string>
+    <string name="paypal">Paypal</string>
+    <string name="point_card">Point Card</string>
+    <string name="privacy_policy_01">Dear users, welcome to PlayHorny! Please take a moment to carefully read the Privacy Policy, which contains terms regarding the protection of your personal data.</string>
+    <string name="privacy_policy_02">PlayHorny (hereinafter referred to as \"PlayHorny,\" \"we,\" or \"the Platform\") values your personal data as you (hereinafter referred to as \"you,\" \"user,\" or \"member\") visit, use, and/or access our services. We will adhere to the local Personal Data Protection Act (PDPA) to ensure the privacy of your personal data. This statement aims to explain how we would handle your personal data.</string>
+    <string name="privacy_policy_03">When you engage in our services, you agree that you are willing to provide your consent electronically, and that you understand that this carries the same legal weight as a written consent.</string>
+    <string name="privacy_policy_04">"1. Duration
+
+ For the period of the Platform's services and operation."</string>
+    <string name="privacy_policy_05">"2. Location
+
+ For the regions where the Platform provides its services."</string>
+    <string name="privacy_policy_06">"3. Subject
+
+ For those who visit, use, or access the Platform."</string>
+    <string name="privacy_policy_07">"4. Use of Personal Data
+
+ The use of your personal data is for the purposes of member management services, promotional marketing, internal statistical research and analysis, other services within the scope of your consent, and other operations of relevant internal personnel (including draws, prize giveaways, and relevant events and activities)."</string>
+    <string name="privacy_policy_08">"5. Categories of Personal Data Collected
+
+ Personal Data includes the following information:
+(1) Information provided by users when creating a Platform account, including but not limited to email address, secondary email address, passwords, date of birth, age, user ID, and any other information you provide. These details will help recognize and verify your identity, and also on other account-related operations.
+(2) Device information used when accessing the Platform, such as the type of device (Android, iOS, PC, etc.) and the IP addresses associated with your devices. We use this information to assist in learning your usage patterns while providing PlayHorny services (hereinafter referred to as \"the Service(s)\").
+(3) We may collect your payment information including your billing address and information regarding your payment methods, such as bank details, information of credit cards, debit cards, or other payment cards, and any relevant tracked transactions done through third-party payment gateways.
+(4) In situations where you urgently require Platform assistance, we may collect information provided by you when reporting issues.
+(5) Through technologies like Cookies, we may automatically collect and process your personal information, including but not limited to browsing history, access dates and times, browser type, operating system, device information, and IP addresses. 
+Collecting this information helps to improve the Platform and the user experience. It also allows us to provide personalized optimizations based on your preferences and browsing habits. Please note that you can adjust these settings in your browser to restrict or prevent the use of these technologies, but certain functions on the Platform might be affected."</string>
+    <string name="privacy_policy_09">"6. Purposes of the Collection of Personal Data
+
+ The purposes for which we collect personal data include:
+(1) Providing a Service-oriented user experience while optimizing the Platform, as well as for internal purposes such as auditing or data analysis.
+(2) Providing personalized advertisements and promotions.
+(3) Maintaining communication and relationships with users, addressing inquiries, and providing support.
+(4) In business transactions, personal data may be included in transaction record details to ensure smooth processing of orders and payments.
+(5) To safeguard Platform security and prevent unauthorized activities, we may utilize personal data for monitoring. In specific instances, personal data might be used to comply with legal, regulatory, or judicial order requirements."</string>
+    <string name="privacy_policy_10">"7. Third-Party Access to Personal Data
+
+ In certain situations, we may collaborate with third-party partners to provide better services and features. These partners may have access to users' personal data on our Platform to assist in performing specific duties. Information that we may share with these collaborating partners includes but not limited to:
+(1) Basic user information required for delivering in-game content and functionality of games.
+(2) Financial information for payment and top-up processing.
+(3) User interests and behavioral data for displaying relevant advertisements and promotional activities.
+ We will establish contracts with these partners so that they comply with our Privacy Policy and relevant legal regulations to ensure the appropriate protection of your personal data. However, we cannot be held responsible for the actions and practices of the third-party partners. Please exercise caution when handling your personal data with third parties.
+
+ In accordance with applicable legal regulations, if government agencies, law enforcement authorities, or other legal authorities request information in writing for the purpose of investigating or preventing illegal activities, fraud, potential threats to personal safety, or other unlawful behaviors, we will cooperate with the investigation and provide user's personal data as required.
+
+ In such cases, we will provide the necessary user data as required by law. We will do our best to ensure the protection of personal data in these circumstances while adhering to relevant laws and legal procedures. However, we cannot be held responsible for how regulatory authorities use and handle the personal data.
+
+ In the case of company mergers, acquisitions, or other business transfers, we may share users' personal data with third-party partners. We will notify users of relevant information before a merger, acquisition, or business transfer and obtain your consent (if required by law). In these situations, we will ensure the legal compliance of sharing personal data and make efforts to protect data privacy appropriately.
+"</string>
+    <string name="privacy_policy_11">"8. Cookies &amp; Tracking Technologies
+
+ A Cookie is a small text file that typically contains an anonymous and unique identifier. When you visit a website, it will store these cookies on your device to identify your device for future visits. On the Platform, we may use various types of Cookies and technologies, which help us better understand user behaviors, including, for security and fraud prevention purposes, the parts of the website users have visited, and for advertisement and online search evaluation purposes. The applications include but not limit to:
+(1) Essential Cookies:
+ These Cookies are crucial for the proper functioning of the website. They identify Platform members, ensuring the security of user login and verification.
+(2) Personalization Cookies:
+ These Cookies allow us to track your behaviors and preferences so that we can provide a more personalized experience for your future visits.
+(3) Analytics/Performance Cookies:
+ We may use these Cookies to anonymously collect user behavioral data to assist in analyzing and improving the Platform's performance and functionality.
+(4) Advertising Cookies:
+ Based on your visits and behaviors, we may use these Cookies to deliver more accurate advertising experiences.
+ You can always manage the use of these Cookies. Most browsers provide settings that allow you to choose whether to reject or delete these Cookies. However, it's important to note that disabling or deleting Cookies might affect the performance of certain features on the Platform."</string>
+    <string name="privacy_policy_12">"9. Age Restrictions
+
+ We restrict users who are under the age of 18 (or have not reached the legal adult age in their residence jurisdiction/country) from using or accessing the Platform. The content on the Platform may include entertainment content designed for adults and may not be suitable for individuals under the age of 18 or those who have not reached the age of majority in their jurisdiction/country. Any actions against this provision will be considered as non-compliance."</string>
+    <string name="privacy_policy_13">"10. Account Handling
+
+ In the case of the Platform detecting and identifying an account as belonging to a minor, we reserve the right to immediately terminate the account's access rights. The Platform will take appropriate actions to ensure that the said minor no longer accesses or uses the Platform. We also urge all parents and guardians to improve supervision of their underage children to ensure that they do not access or use the Platform."</string>
+    <string name="privacy_policy_14">"11. Data Retention
+
+ The Platform will retain your personal data to fulfill legal and regulatory requirements, legal disputes, tax reports, or other compliance needs. The retention period for personal information on our Platform is a minimum of 5 years, starting from the termination of your account. Upon the expiration of this period, we will implement appropriate technical and administrative measures to ensure the deletion or destruction of your personal data, and subsequently your privacy and data security."</string>
+    <string name="privacy_policy_15">"12. User Rights
+
+ Upon your use or access of the Platform, it is considered that you agree to the processing of your personal data by us. However, you still retain the right to withdraw your consent any time. According to the Personal Data Protection Act (PDPA), you have the following legal rights, and we will assist you in exercising these rights while complying with legal requirements:
+
+(1) Right to Access Data:
+You have the right to inquire about and access your personal data, including knowing whether we are processing your personal data and the purposes of such. If you request a copy of such data, we may charge a necessary fee for the process (e.g., manual query fees).
+(2) Right to Rectification:
+If your personal data is inaccurate, you have the right to request us to correct and update it.
+(3) Right to Erasure:
+In certain circumstances, you have the right to request the deletion of your personal data, such as when data processing no longer complies with legal requirements or when we are no longer in need of the data.
+(4) Right to Restriction of Processing:
+In certain circumstances, you have the right to request us to restrict the processing of your personal data, such as when you dispute the accuracy of the data.
+ If you wish to exercise the aforementioned right, please contact us in writing. We will assist you in dealing with relevant matters in accordance with the requirements of applicable laws and regulations. You are free to decide whether or not to provide us with your personal data. However, if certain fields are marked as required, not providing such data may result in your inability to use our relevant products and services. We recommend that you provide complete and up-to-date personal data. If your failure to provide complete and accurate personal data results in loss or damages to you or other third parties, you are responsible for all consequences. If the personal data you provide is reported or deemed by us insufficient to confirm your true identity or to contact you personally, or if there are instances of personal data impersonation, misuse, or untruthful data, we reserve the right to temporarily suspend you from accessing or using our Services. We apologize for any inconvenience this may cause."</string>
+    <string name="privacy_policy_16">"13. Safety Measures
+
+ We are committed to implementing appropriate technical and administrative measures to ensure that your personal data is protected from unauthorized access, usage, alteration, or disclosure. The security measures implemented to ensure the safety of your personal data includes but not limited to:
+(1) We use encryption technology to safeguard your sensitive data during data transmission and storage, ensuring that your data is inaccessible to unauthorized individuals.
+(2) We enforce strict access controls, granting limited access only to employees or partners genuinely associated, ensuring that your data is accessed only by authorized personnels.
+(3) We conduct regular system monitoring and audits to identify and address any potential security risks or vulnerabilities.
+ Despite our various security measures, we require your assistance to safeguard your personal data together. We recommend that you change your passwords regularly, refrain from sharing account information with others, and use secure devices and networks."</string>
+    <string name="privacy_policy_17">"14. Revision &amp; Updates
+
+ We may revise the terms of the Privacy Policy as needed to comply with relevant laws and regulations. The Platform reserves the right to modify the Terms at any time without prior notice, and we recommend that you stay informed about any announcements regarding the Terms through our website. By continuing to read or use the Services provided by PlayHorny, you acknowledge that you have read and understood the content of the updated Terms, and agreed to abide by them. If you do not agree with this Privacy Policy, please cease using the Services (including products) provided by us immediately."</string>
+    <string name="privacy_policy_18">"15. Ways of Contact
+
+ If you have any questions or feedback regarding the Privacy Policy, please feel free to contact us anytime. We look forward to providing you with the best services!"</string>
+    <string name="privacy_policy_content">"Dear users, welcome to PlayHorny! Please take a moment to carefully read the Privacy Policy, which are terms regarding the protection of your personal data.
+
+ PlayHorny (hereinafter referred to as \"PlayHorny,\" \"we,\" or \"the Platform\") values your personal data as you (hereinafter referred to as \"you,\" \"user,\" or \"member\") visit, use, and/or access our services. We will adhere to the local Personal Data Protection Act (PDPA) to ensure the privacy of your personal data. This statement aims to explain how we would handle your personal data.
+
+ When you engage in our services, you agree that you are willing to provide your consent electronically, and that you understand that this carries the same legal weight as a written consent.
+
+1. Duration
+
+ For the period of the Platform's services and operation.
+
+2. Location
+
+ For the regions where the Platform provides its services.
+
+3. Subject
+
+ For those who visit, use, or access the Platform.
+
+4. Use of Personal Data
+
+ The use of your personal data is for the purposes of member management services, promotional marketing, internal statistical research and analysis, other services within the scope of your consent, and other operations of relevant internal personnel (including draws, prize giveaways, and relevant events and activities).
+
+5. Categories of Personal Data Collected
+
+ Personal Data includes the following information:
+(1) Information provided by users when creating a Platform account, including but not limited to email address, secondary email address, passwords, date of birth, age, user ID, and any other information you provide. These details will help recognize and verify your identity, and also on other account-related operations.
+(2) Device information used when accessing the Platform, such as the type of device (Android, iOS, PC, etc.) and the IP addresses associated with your devices. We use this information to assist in learning your usage patterns while providing PlayHorny services (hereinafter referred to as \"the Service(s)\").
+(3) We may collect your payment information including your billing address and information regarding your payment methods, such as bank details, information of credit cards, debit cards, or other payment cards, and any relevant tracked transactions done through third-party payment gateways.
+(4) In situations where you urgently require Platform assistance, we may collect information provided by you when reporting issues.
+(5) Through technologies like Cookies, we may automatically collect and process your personal information, including but not limited to browsing history, access dates and times, browser type, operating system, device information, and IP addresses. 
+Collecting this information helps to improve the Platform and the user experience. It also allows us to provide personalized optimizations based on your preferences and browsing habits. Please note that you can adjust these settings in your browser to restrict or prevent the use of these technologies, but certain functions on the Platform might be affected.
+
+6. Purposes of the Collection of Personal Data
+
+ The purposes for which we collect personal data include:
+(1) Providing a Service-oriented user experience while optimizing the Platform, as well as for internal purposes such as auditing or data analysis.
+(2) Providing personalized advertisements and promotions.
+(3) Maintaining communication and relationships with users, addressing inquiries, and providing support.
+(4) In business transactions, personal data may be included in transaction record details to ensure smooth processing of orders and payments.
+(5) To safeguard Platform security and prevent unauthorized activities, we may utilize personal data for monitoring. In specific instances, personal data might be used to comply with legal, regulatory, or judicial order requirements.
+
+7. Third-Party Access to Personal Data
+
+ In certain situations, we may collaborate with third-party partners to provide better services and features. These partners may have access to users' personal data on our Platform to assist in performing specific duties. Information that we may share with these collaborating partners includes but not limited to:
+(1) Basic user information required for delivering in-game content and functionality of games.
+(2) Financial information for payment and top-up processing.
+(3) User interests and behavioral data for displaying relevant advertisements and promotional activities.
+ We will establish contracts with these partners so that they comply with our Privacy Policy and relevant legal regulations to ensure the appropriate protection of your personal data. However, we cannot be held responsible for the actions and practices of the third-party partners. Please exercise caution when handling your personal data with third parties.
+
+ In accordance with applicable legal regulations, if government agencies, law enforcement authorities, or other legal authorities request information in writing for the purpose of investigating or preventing illegal activities, fraud, potential threats to personal safety, or other unlawful behaviors, we will cooperate with the investigation and provide user's personal data as required.
+
+ In such cases, we will provide the necessary user data as required by law. We will do our best to ensure the protection of personal data in these circumstances while adhering to relevant laws and legal procedures. However, we cannot be held responsible for how regulatory authorities use and handle the personal data.
+
+ In the case of company mergers, acquisitions, or other business transfers, we may share users' personal data with third-party partners. We will notify users of relevant information before a merger, acquisition, or business transfer and obtain your consent (if required by law). In these situations, we will ensure the legal compliance of sharing personal data and make efforts to protect data privacy appropriately.
+
+
+8. Cookies &amp; Tracking Technologies
+
+ A Cookie is a small text file that typically contains an anonymous and unique identifier. When you visit a website, it will store these cookies on your device to identify your device for future visits. On the Platform, we may use various types of Cookies and technologies, which help us better understand user behaviors, including, for security and fraud prevention purposes, the parts of the website users have visited, and for advertisement and online search evaluation purposes. The applications include but are not limited to:
+(1) Essential Cookies:
+ These Cookies are crucial for the proper functioning of the website. They identify Platform members, ensuring the security of user login and verification.
+(2) Personalization Cookies:
+ These Cookies allow us to track your behaviors and preferences so that we can provide a more personalized experience for your future visits.
+(3) Analytics/Performance Cookies:
+ We may use these Cookies to anonymously collect user behavioral data to assist in analyzing and improving the Platform's performance and functionality.
+(4) Advertising Cookies:
+ Based on your visits and behaviors, we may use these Cookies to deliver more accurate advertising experiences.
+ You can always manage the use of these Cookies. Most browsers provide settings that allow you to choose whether to reject or delete these Cookies. However, it's important to note that disabling or deleting Cookies might affect the performance of certain features on the Platform.
+
+9. Age Restricitons
+
+ We restrict users who are under the age of 18 (or have not reached the legal adult age in their residence jurisdiction/country) from using or accessing the Platform. The content on the Platform may include entertainment content designed for adults and may not be suitable for individuals under the age of 18 or those who have not reached the age of majority in their jurisdiction/country. Any actions against this provision will be considered as non-compliance.
+
+10. Account Handling
+
+ In the case of the Platform detecting and identifying an account as belonging to a minor, we reserve the right to immediately terminate the account's access rights. The Platform will take appropriate actions to ensure that the said minor no longer accesses or uses the Platform. We also urge all parents and guardians to improve supervision of their underage children to ensure that they do not access or use the Platform.
+
+11. Data Retention
+
+ The Platform will retain your personal data to fulfill legal and regulatory requirements, legal disputes, tax reports, or other compliance needs. The retention period for personal information on our Platform is a minimum of 5 years, starting from the termination of your account. Upon the expiration of this period, we will implement appropriate technical and administrative measures to ensure the deletion or destruction of your personal data, and subsequently your privacy and data security.
+
+12. User Rights
+
+ Upon your use or access of the Platform, it is considered that you agree to the processing of your personal data by us. However, you still retain the right to withdraw your consent any time. According to the Personal Data Protection Act (PDPA), you have the following legal rights, and we will assist you in exercising these rights while complying with legal requirements:
+
+(1) Right to Access Data:
+You have the right to inquire about and access your personal data, including knowing whether we are processing your personal data and the purposes of such. If you request a copy of such data, we may charge a necessary fee for the process (e.g., manual query fees).
+(2) Right to Rectification:
+If your personal data is inaccurate, you have the right to request us to correct and update it.
+(3) Right to Erasure:
+In certain circumstances, you have the right to request the deletion of your personal data, such as when data processing no longer complies with legal requirements or when we are no longer in need of the data.
+(4) Right to Restriction of Processing:
+In certain circumstances, you have the right to request us to restrict the processing of your personal data, such as when you dispute the accuracy of the data.
+ If you wish to exercise the aforementioned right, please contact us in writing. We will assist you in dealing with relevant matters in accordance with the requirements of applicable laws and regulations. You are free to decide whether or not to provide us with your personal data. However, if certain fields are marked as required, not providing such data may result in your inability to use our relevant products and services. We recommend that you provide complete and up-to-date personal data. If your failure to provide complete and accurate personal data results in loss or damages to you or other third parties, you are responsible for all consequences. If the personal data you provide is reported or deemed by us insufficient to confirm your true identity or to contact you personally, or if there are instances of personal data impersonation, misuse, or untruthful data, we reserve the right to temporarily suspend you from accessing or using our Services. We apologize for any inconvenience this may cause.
+
+13. Safety Measures
+
+ We are committed to implementing appropriate technical and administrative measures to ensure that your personal data is protected from unauthorized access, usage, alteration, or disclosure. The security measures implemented to ensure the safety of your personal data includes but not limited to:
+(1) We use encryption technology to safeguard your sensitive data during data transmission and storage, ensuring that your data is inaccessible to unauthorized individuals.
+(2) We enforce strict access controls, granting limited access only to employees or partners genuinely associated, ensuring that your data is accessed only by authorized personnels.
+(3) We conduct regular system monitoring and audits to identify and address any potential security risks or vulnerabilities.
+ Despite our various security measures, we require your assistance to safeguard your personal data together. We recommend that you change your passwords regularly, refrain from sharing account information with others, and use secure devices and networks.
+
+14. Revision &amp; Updates
+
+ We may revise the terms of the Privacy Policy as needed to comply with relevant laws and regulations. The Platform reserves the right to modify the Terms at any time without prior notice, and we recommend that you stay informed about any announcements regarding the Terms through our website. By continuing to read or use the Services provided by PlayHorny, you acknowledge that you have read and understood the content of the updated Terms, and agreed to abide by them. If you do not agree with this Privacy Policy, please cease using the Services (including products) provided by us immediately.
+
+15. Ways of Contact
+
+ If you have any questions or feedback regarding the Privacy Policy, please feel free to contact us anytime. We look forward to providing you with the best services!
+
+"</string>
+    <string name="privacy_policy_header">Privacy Policy</string>
+    <string name="project_id">mega-km-prod</string>
+    <string name="range_end">Range end</string>
+    <string name="range_start">Range start</string>
+    <string name="register_account_placeholder">Please enter email</string>
+    <string name="register_birthday_empty_error">*Birthday not entered</string>
+    <string name="register_birthday_placeholder">Please enter birthday</string>
+    <string name="register_birthday_verify_error">"Register failed.
+You're underage."</string>
+    <string name="register_header_en">Register</string>
+    <string name="register_header_text">Register</string>
+    <string name="register_member_agree_text">"I confirm that I'm already 18 or have reached the legal adult age in my jurisdiction."</string>
+    <string name="register_member_remind_text">To register means that you have read and agree to our Terms of Use and Privacy Policies.</string>
+    <string name="register_member_verify_puzzle_text">Drag to complete the verification</string>
+    <string name="register_password_confirm_empty_error">*Password not re-entered</string>
+    <string name="register_password_confirm_not_match_error">*Passwords do not match</string>
+    <string name="register_password_confirm_placeholder">Please re-enter password</string>
+    <string name="register_password_placeholder">Please enter password</string>
+    <string name="register_success_btn">Start Playing</string>
+    <string name="register_success_hint">Remember to complete the account verification to ensure your rights!</string>
+    <string name="register_success_text">"Registration completed!
+Welcome to PlayHorny"</string>
+    <string name="register_terms_confirm_text">"I've read and accept the Terms of Use and Privacy Policy."</string>
+    <string name="reset_password_verfiy_code_error_text">Code error</string>
+    <string name="search_menu_title">Search</string>
+    <string name="select_coupon_05_text">Free HCoin to be obtained with Level Rewards applied</string>
+    <string name="select_coupon_06_text">You will level up after this top-up. Level Rewards will be applied for Free HCoin.</string>
+    <string name="selected">Selected</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="supermarket_barcode">Convenience Store</string>
+    <string name="switch_role">Switch</string>
+    <string name="tab">Tab</string>
+    <string name="telecom">Telecom Micro Payment</string>
+    <string name="template_percent">%1$d percent.</string>
+    <string name="term_user_01">Dear users, welcome to PlayHorny! Firstly, let us introduce you to the Terms of Use, which are put in place to protect your interests, ensuring that everyone can access the platform in a pleasant and secure manner.</string>
+    <string name="term_user_02">The purpose of the Terms of Use (hereinafter referred to as \"the Terms\") is to regulate your (hereinafter referred to as \"you,\" \"user,\" or \"member\") behavior and rights when using the PlayHorny platform (hereinafter referred to as \"PlayHorny,\" \"we,\" or \"the Platform\"). Whether you are a visitor or a member, the Terms should apply to your use or access of the Platform, specific game websites, customer service, social networks, social media, and other online services provided by third parties authorized by us (hereinafter referred to as \"the Services\"). The Terms constitute a legal agreement between you and PlayHorny. It is important that you read them carefully.</string>
+    <string name="term_user_03">By accessing and using the PlayHorny services, it is deemes that you have read and understood the content of the Terms and agreed to abide by them. If you do not agree or are unable to comply with the following Terms, please stop or discontinue using the Service immediately.</string>
+    <string name="term_user_04">"1. Duration
+ For the period of the Platform's services and operation."</string>
+    <string name="term_user_05">"2. Location
+ For the regions where the Platform provides its services."</string>
+    <string name="term_user_06">"3. Subject
+ For those who download, visit, use, or access the Platform."</string>
+    <string name="term_user_07">"4. Eligibility
+ You must be at least 18 years old or confirm that you have met the legal age requirement of your residence jurisdiction/country to view adult content and possess full legal capacity. Additionally, you should agree and be capable of adhering to these Terms in order to use the Platform. If you are under 18 years old or are a minor in your residence jurisdiction/country, you may not use the Platform."</string>
+    <string name="term_user_08">"5. User Accounts
+ When you create an account, you agree to provide us with truthful and accurate personal data and ensure that all data you submit is correct and complete. In the event that you provide any false, inaccurate, or incomplete data, or violate any of the Terms between us, we have the right to deny your account registration, suspend, or terminate your account, preventing your use of the Services provided by the Platform.
+
+ You are responsible for maintaining the security of your account data (including passwords) and must not provide, sell, or share your account information with third parties, nor use the account and passwords of another Platform user. In the case of unauthorized third-party use of your account or passwords, you agree to notify us immediately. If you fail to properly safeguard your account data, leading to others using your account or passwords, you will be responsible for compensating the Platform or any other users or visitors for any losses incurred as a result. In the case that you fail to fulfill the aforementioned obligations, resulting in any losses or damages, the Platform cannot and will not assume any responsibility.
+
+ In the game, you may acquire various virtual items such as virtual currencies, items, status displays, buffs, weapons, equipment, avatars, etc. You may also obtain in-game items through purchase or other means. You understand and agree that in-game items only hold significance within the virtual environment, have no monetary value, and cannot be resold or exchanged for cash. While we allow you to access in-game items or content, we retain all rights to such items and content. Therefore, we reserve the right to delete or modify any in-game items or content associated with your account or accessible to you at any time, without notice or liability."</string>
+    <string name="term_user_09">"6. Privacy
+ The data collected by the Platform is subject to local legal regulations. When you use the Services, you acknowledge that you have read, understood, and agree to our Privacy Policy.
+ Please be aware that we may update the Terms anytime in accordance with legal regulations, and by continuing using the Services, you are deemded agreed to comply with the latest version of the Terms (please refer to: https://www.playhorny.com/en-US/privacy-policy).
+ By using the Services, it is deemed that you acknowledge and agree that internet transmission has its risks, and is not entirely secure and confidential. Even if there are specific notifications indicating that certain transmissions (such as credit card data) have been encrypted, you understand that others may still be able to access or intercept the messages or data you submit to the Platform."</string>
+    <string name="term_user_10">"7. Rules of Use
+ PlayHorny grants you a limited, non-exclusive, non-sublicensable, non-transferable and revocable right to use the Services and its associated content solely for personal, non-commercial purposes. You are granted these usage rights as long as you comply with applicable legal restrictions and as long as your account is not terminated by either you or the Platform. However, if you violate these Terms, related provisions, or engage in conduct that may be deemed improper and unlawful (as determined by the Platform's investigation), we reserve the right to restrict, revoke, terminate, suspend, deny your account registration or usage rights at any time, and may cooperate in investigations or take action against improper or potentially illegal activities as deemed necessary.
+ To the maximum extent permitted by applicable laws, any rights, possession, ownership, and profits not expressly granted are the exclusive property of the Platform."</string>
+    <string name="term_user_11">"8. User Behavior &amp; Responsibilities
+ You promise and agree to abide and be bound by the Terms and the Privacy Policy when using the Services and not attempt the following actions: 
+(1) Make available any information or content that is offensive or objectionable to people or specific groups, damaging to the Platform or other users' rights, or in violation of local or international laws.
+(2) Transfer, resell, or publish any private information from us or other users.
+(3) In any way claim to be an employee of PlayHorny to spread untrue, inappropriate or offensive content, links to illegal websites, spam ads, or any information associated with illegal activities. Also, you are not to attack, coerce, violate, or through any means commit misconduct on all or a part of the users.
+(4) Engage in any illegal or unlawful activities with the intent to damage, disconnect or terminate the operation of the Services of our platform, including but not limited to DDos attacks, malware, SQL injection attacks, XSS attacks, CSRF attacks, website disruption, impersonation, fabrication, or sabotage within the website, tampering or leaking data, social engineering or any other malicious files that threaten the safety of our platform.
+(5) Use any device, software, or program to disrupt or attempt to disrupt the standard operations, transactions or usage of the Services.
+(6) Pull, gather, or access any relevant content or data from the PlayHorny platform without authorization from the Platform or Services.
+(7) Sell, lease, agree to or sublicense any relevant content or data from the PlayHorny platform without authorization from the Platform or Services.
+(8) Commit credit card theft, accounts reselling, exploiting glitches, cheating, and other illegal actions.
+(9) Create/assume false identities, impersonate others, create multiple accounts or share account information with third parties.
+(10) Use, access, or gather account information of others without authorization.
+(11) Contravene any applicable laws or any regional/national laws.
+(12) Other actions that, upon investigation, are deemed improper or potentially illegal by the Platform.
+(13) Assist, allow or induce others or use any device, software or program to do any of the above actions.
+ Keep in mind that the applicable terms of some games may cover specific legal demands. These terms may include special regulations concerning legislation. You understand and agree that your actions should respect and comply with local culture and customs, as well as local laws and regulations. In the case that you violate any of the aforementioned terms, we have the right to send out warnings, terminate, or deny your account registration, and may cooperate in investigations or take action against improper or potentially illegal activities as deemed necessary, including suspending or canceling your use of the Services without prior notice."</string>
+    <string name="term_user_12">"9. User-Generated Content
+ You are allowed to create content using the Services, including but not limited to text, images, videos, or any relevant material. You are expected to be responsible for your expression and behaviors regarding the created content. Additionally, you should ensure the content you create doesn't contain anything offensive, objectionable, or inappropriate. Regardless of the form, all content created by you should be within your own responsibility. We do not endorse nor be legally responsible for any user-generated content. You agree that we reserve the right to, without prior notice, edit, delete, or in any way handle the content assumed to be inappropriate, unauthorized, or eliciting offense or opposition. You agree with the aforementioned Terms, and will not attempt, partake, upload, publish, or spread the following:
+(1) Content that intends to harm, defame, threaten, harass, violate, intimidate, express hatred, abuse, discriminate, deceive, bully, or offend others, potentially causing aversion or opposition among specific groups of people.
+(2) Unartistic, \"Hardcore,\" and obscene content containing violence, sexual abuse, bestiality, non-consensual behaviors, or violations of minor's rights.
+(3) Any controversial content, including but not limited to: religion, politics, race, gender, etc.
+(4) Infringing on the intellectual property, privacy, personality rights, and other rights of the Platform or the others.
+(5) Unauthorized commercial/non-commercial ads, third-party links, or any relevant marketing content.
+(6) Files, links, or any other data intended to damage the rights of the Platform or other users.
+(7) Any private content from us or other users.
+(8) Any inappropriate behavior, speech, or information that could potentially damage the reputation of PlayHorny or the others.
+(9) Acts intended for sexual activities, sex transactions, or other actions that violate public order and morality.
+(10) Actions that deviate from the intended use of the Services.
+(11) Other acts deemed illegal or improper by the Platform.
+ You understand and agree that your actions should respect and comply with local culture and customs, as well as local laws and regulations. In the event you violate any of the aforementioned terms, we have the right to send out warnings, suspend, or terminate your account. We my also deny your account registration, and may cooperate in investigations or take action against improper or potentially illegal activities as deemed necessary, including suspending or canceling your use of the Services without prior notice. You are welcome to comment on the Platform or contact us via mail. However, you must ensure that the content of your comments or mails does not infringe upon the rights of the Platform or third party. You shall not assert any rights against us, its licensees, or third-party suppliers based on the content of your comments or mails."</string>
+    <string name="term_user_13">"10. Intellectual Property Rights (IPR)
+ All rights, ownership, and interests in the text, images, pictures, videos, audio, icons, icon designs, illustrations, software, codes, files, HTML, and other content related to the Services on the Platform, including but not limited to copyrights, patents, trademarks, and other intellectual property rights, as well as the rights to apply for or register such rights, are owned by PlayHorny, its licensees, and other authorized third-party suppliers, protected by local and international copyright laws. The copyright of these content belongs to us, its licensees, and other authorized third-party suppliers. You may not in any way copy, modify, spread, distribute, publicly display, or in any other way infringe on our copyright without written permission.
+
+ All trademarks, service icons, trade names, domain names, and other intellectual property on the Platform, including but not limited to copyrights, patents, trademarks, and other intellectual property rights, as well as the rights to apply for or register such rights, belong to us, our licensees, or other authorized third-party suppliers. Without written permission, you're not to use, replicate, reverse engineer, interpret, or otherwise infringe on our intellectual property rights through any means. Unless specified otherwise, the contents of the Platform are for individual and non-commercial use only. Any unauthorized commercial use, including but not limited to: reproduction, sale, transmission, adaptation, distribution, licensing, creation of derivative works, republication, or redistribution are strictly prohibited.
+
+ The Platform may contain hyperlinks to third-party websites. These websites might have their own independent intellectual property policies. We are not responsible for the contents and policies of these websites. Users are responsible for any potential risks they encounter through the links."</string>
+    <string name="term_user_14">"11. Payments &amp; Refunds
+ When you purchase products or services on the Platform, payments will be made according to the payment method of your choice. Please note that all sales of services and digital content are considered final transactions. Therefore, refunds are generally not available. However, this does not apply if otherwise stipulated by law. As for refunds, they will be processed according to our HCoin Terms of Use."</string>
+    <string name="term_user_15">"12. Third-Party Content &amp; Links
+ Our Services may contain hyperlinks to other websites, allowing users to visit, use, or access third-party data. You promise and agree that we are not responsible for any legal or compensational liability on external websites. In the case that you have any questions or suffer damages when using third-party websites, please visit relevant websites for further inquiry.
+ We will not assume any direct or indirect legal liability for any damages you may incur due to external website services, products, or any related rights and interests."</string>
+    <string name="term_user_16">"13. Platform &amp; Game Account Binding
+ The Platform provides a function to bind game User ID (hereinafter referred to as the \"UID\") with platform account. By logging in to the Platform, users are able to sync game data and progress on multiple devices. You are only allowed to bind one UID per game with the same platform account. If multiple UIDs of the same game exist, only one UID can be bound to your platform account. Once the binding process is complete, it can no longer be modified or cancelled. Please choose and evaluate carefully."</string>
+    <string name="term_user_17">"14. Disclaimer
+ The Services we provide are granted on the basis of the present circumstances and to the extent applicable. All data provided by the Services may be subject to change without further notice. We are dedicated to ensuring the accuracy and completeness of the content, but we do not guarantee that the Services, content, other services or functions provided by the Platform are entirely error-free or uninterrupted, that any defects will be corrected, or that you will achieve specific results when using the Services. At the same time, we cannot guarantee your accuracy and applicability when using the Services, nor can we guarantee that they will meet your demands. Users should be able to independently assess and verify the provided content and take responsibility for any potential risks.
+
+ The Platform is not responsible for any losses, damages, lawsuits, or any other consequences faced by you or other third parties when using the Services. We are also not responsible for the compensation of any direct, indirect, occasional, incidental, punitive, or any special damages, such as when system equipment migration, replacement or maintenance, natural disasters, force majeure, or other significant incidents cause an interruption or termination of our Services, or when user violate the Terms, etc. Even if we're notified of the possibility of aforementioned events, we are not to be held responsible.
+
+ When using the Services, please monitor your gameplay time, avoid addiction, and refrain from imitating in-game fictional scenarios. Some content or services may require additional fees."</string>
+    <string name="term_user_18">"15. Legal Limitations
+ We are not to be held responsible for any indirect, occasional, special, or derivative damages caused by using or being unable to use the Services of our Platform, including but not limited to profit loss, goodwill loss, business interruption, or data loss. When using the Services, users are responsible for any potential risks. We are not to hold responsible for any losses or damages encountered when using the Platform, including but not limited to: technological malfunctions, internet disconnections, or any losses caused by third parties.
+
+ Concerning any and all transactional actions of the Services, PlayHorny serves only as a platform provider, offering an interface for creating contractual relationships between you and companies or other users. The Platform does not interfere with, be involved in or participate in any of the actual process and negotiations of transactional activities. All matters involving business deals, transactions, or any transactional activities will be entirely conducted and held responsible by relevant companies, other users, and you. The Platform is not responsible for the intervention, surveillance, or any other interference with the transaction.
+
+ If any loss or damage arises from your use of Services of the Platform due to your violation of these Terms or any other related agreements or acts, the Platform shall not be held responsible. However, if the loss or damage is caused by the intentional act or gross negligence of the Platform or other licensees, with applicable laws and under all circumstances, our responsibility for compensation will not extend beyond the total amount of money spent through the Platform to PlayHorny within half a year (180 days) from the occurrence of the claim."</string>
+    <string name="term_user_19">"16. Termination
+ You accept and agree that in the case of the following situations (including but not limited to), we have full discretionary authority to terminate your right to access the Platform's Services, including but not limited to HCoin and other services, without prior notice or reason:
+(1) Failing to comply with the Terms, including but not limited to: false statements, infringement of intellectual property, manipulation or damage of the Platform's functioning, distribution of inappropriate content, participation in illegal activities, or any other reason requiring our intervention.
+(2) At the request of law enforcement or other government agencies.
+(3) By your request (self-deletion of the account).
+(4) Termination or major modifications of the Services provided by the Platform, or through the Platform.
+(5) Unforeseen technical issues.
+(6) Other situations deemed necessary by us.
+
+ You have the right to stop using the Services of PlayHorny at any time. Once your account has been terminated, you can no longer visit or use any related services.
+ According to Taiwanese law, under regular circumstances, your personal data will be kept for a minimum of 5 years. We will abide by the applicable laws and store necessary personal data for legal commercial use.
+ Once your personal data expires, we will adopt the following process to ensure the safety of your personal data and privacy:
+• First, we will delete your personal data, preventing further storage and access.
+• Next, if the law permits, we might anonymize your data before statistical analysis or other legal uses, subsequently ensuring that your identity will not be revealed.
+ We are dedicated to taking necessary technological and administrative measures to prevent improper use of your personal data and ensure the safety of your personal data."</string>
+    <string name="term_user_20">"17. Indemnification &amp; Liability
+ Should you fail to comply to the Privacy Policy or other terms, resulting in loss, needing to compensate or pay for the expenses (including but not limited to: lawyer and lawsuit fees) of us, our associates, directors, employees, representatives, business partners or any other third parties, you agree to pay for relevant losses, compensate and take on all ensuing costs.
+ We are not responsible for any direct, indirect, occasional, special, corresponding or punitive damages resulting from users violating the Terms of Use, even if we are notified about the potential damages. You understand and agree that we are not to be held responsible for any potential losses or damages that result from your violating the law, the Privacy Policy or any relevant terms of use."</string>
+    <string name="term_user_21">"18. Severability
+ Should any part of these Terms declared unlawful, invalid, or unenforceable for any reason, the provision should be seen as \"severable,\" and the remaining provisions should still remain valid."</string>
+    <string name="term_user_22">"19. Disputes &amp; Legal Jurisdiction
+ Both sides agree and consent that should any disputes arise, both sides must first attempt to amicably settle it pre-arbitration through a written proposal detailing the facts and circumstances of the dispute, as well as allowing the receiving party thirty (30) days to respond or resolve the dispute.
+ Any disputes, claims, or controversies that arise due to or related to our Services, including its interpretation, effectiveness, violations, termination, validity, etc., are to be referred to arbitration first. The arbitration should be conducted in the manner designated by the Platform and take place in the region designated by the Platform.
+
+ Should the settlement fail, both sides agree to proceed to arbitration and comply with the arbitration institution designated by the Platform. In the case that the arbitration fails to settle the dispute, both sides agree to submit the dispute to Taiwan Taipei District Court for first-instance jurisdiction."</string>
+    <string name="term_user_23">"20. Non-Transferability
+ The permission to use the Platform is granted on the basis of your own usage. You confirm and agree not to delegate, loan, pledge, or transfer your account and relevant rights to any third party by any other means, nor are you allowed to transfer any of your rights, access, or any other relevant rights on the Platform to any third party."</string>
+    <string name="term_user_24">"21. Notices
+ The Platform is able to send you notices through email, platform internal system, website notes, or any other ways of contact you provide. The content of the notification includes but not limited to: service updates, important notices, account safety, and other relevant information.
+ Once any notice is sent out by the Platform through aforementioned means, the notice is deemed delivered to you. Even if you do not read the notices, they are still legally binding to you. Users are obligated to make sure that your contact information stays correct and up-to-date to ensure that you are able to receive important notices."</string>
+    <string name="term_user_25">"23. Modification
+ In correspondence with the changes of law or when deemed necessary by the Platform, we reserve the right to change, modify, add, or remove any content of the Terms anytime without prior notice. You are responsible for regularly reviewing the Terms for any changes. Should you choose to use PlayHorny's Services after being notified of the changes, you are deemed to be in agreement with the modifications."</string>
+    <string name="term_user_26">"25. Contact Us
+ If you have any questions or feedback regarding the Terms or Services, please contact us ."</string>
+    <string name="term_user_27">"22. Other Terms
+ By agreeing to these Terms and using the game, you confirm that you are a natural person, and you agree and acknowledge that all characters appearing on the Platform are over 18 years of age.
+ Due to technical or other limitations, games may be restricted to specific regions. We may use technology to verify your geographical location and restrict access to certain games based on your region. You are prohibited from using any technology or methods, such as proxies, to hide or alter your location."</string>
+    <string name="term_user_28">"24. Force Majeure
+ The Platform shall not be held liable for any events that are beyond its reasonable control, unforeseeable, or unavoidable even if foreseeable (i.e., force majeures). Force majeures include, but are not limited to: natural disasters such as floods, fires, droughts, typhoons, earthquakes, as well as social incidents such as wars (whether declared or not), riots, strikes, government actions, legislative amendments and announcements, etc."</string>
+    <string name="term_user_header">Terms of Use</string>
+    <string name="title_hcoin_terms_text">HCoin Terms of Use</string>
+    <string name="title_policy_text">Privacy Policy</string>
+    <string name="title_term_text">Terms of Use</string>
+    <string name="wechat_pay">WeChat Pay</string>
+</resources>
